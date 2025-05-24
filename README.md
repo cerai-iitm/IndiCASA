@@ -5,7 +5,7 @@
 This project is dedicated to understanding, evaluating, and mitigating biases, particularly those related to social constructs like caste, religion, and gender, within language models, with a focus on the Indian context. It provides datasets, tools for bias evaluation, and methods for training text encoders using contrastive learning to better distinguish between stereotypical and anti-stereotypical content.
 
 The primary goals include:
--   Providing robust datasets (`IndiBias` and `IndiCASA`) tailored for the Indian socio-cultural context.
+-   Providing robust datasets (`IndiCASA`) tailored for the Indian socio-cultural context.
 -   Offering a framework (`BiasMetric`) to benchmark and evaluate fairness and bias in language models.
 -   Developing techniques (`training_encoder`) to fine-tune text encoders to be more sensitive to nuanced stereotypical content.
 
@@ -15,23 +15,22 @@ The project is organized into several key directories:
 
 ```
 IndiCASA/
-├── 
-│   ├── BiasMetric/             # Tools and scripts for bias evaluation using IndiBias
-│   │   ├── README.md
-│   │   ├── Prepare_IndiBias.py
-│   │   ├── BiasMetric.py
-│   │   └── benchmark.py
-│   ├── IndiCASA_dataset/       # IndiCASA dataset, loading scripts, and documentation
-│   │   ├── README.md
-│   │   └── load_IndiCASA.ipynb
-│   ├── training_encoder/       # Scripts for training text encoders with contrastive learning
-│   │   ├── README.md
-│   │   ├── encoders.py
-│   │   ├── loss_fns.py
-│   │   ├── Train.py
-│   │   └── train_encoder.py
-│   └── README.md               # This main README file
-└── ... (other project files and experiment notebooks)
+├── BiasMetric/             # Tools and scripts for bias evaluation using IndiBias
+│   ├── README.md
+│   ├── Prepare_IndiBias.py
+│   ├── BiasMetric.py
+│   └── benchmark.py
+├── IndiCASA_dataset/       # IndiCASA dataset, loading scripts, and documentation
+│   ├── README.md
+│   └── load_IndiCASA.ipynb
+├── training_encoder/       # Scripts for training text encoders with contrastive learning
+│   ├── README.md
+│   ├── encoders.py
+│   ├── loss_fns.py
+│   ├── Train.py
+│   └── train_encoder.py
+├── requirements.txt         # Common dependencies for the project
+└── README.md               # This main README file
 ```
 
 ## Key Components
@@ -41,11 +40,11 @@ IndiCASA/
 Two primary datasets are central to this project:
 
 *   **IndiBias Dataset**:
-    *   **Purpose**: Used for evaluating fairness and bias in language models. It contains sentences where specific tokens related to bias types (e.g., caste, religion) can be masked and predicted by models.
+    *   **Purpose**: Used for evaluating fairness and bias in language models. It contains sentences where specific tokens related to bias types (e.g., caste, religion) can be masked and predicted by models. Also, we used IndiBias to curate the IndiCASA dataset.
     *   **Details & Preparation**: Refer to the [BiasMetric/README.md](BiasMetric/README.md#getting-started) for instructions on preparing and using the IndiBias dataset. The preparation involves cleaning and aligning raw data, and creating masked versions for model evaluation.
 
-*   **IndiCASA (Indian Contextual Alignment of Stereotypes and Anti-stereotypes) Dataset**:
-    *   **Purpose**: Provides contextually aligned pairs of stereotypical and anti-stereotypical sentences across various social dimensions relevant to India (caste, religion, gender, socioeconomic status, disability).
+*   **IndiCASA (IndiBias-based Contextually Aligned Stereotypes and Anti-stereotypes) Dataset**:
+    *   **Purpose**: Provides contextually aligned sentences of stereotypical and anti-stereotypical sentences across various social dimensions relevant to India (caste, religion, gender, socioeconomic status, disability).
     *   **Details & Usage**: For information on the dataset schema, loading instructions, and research applications, please see the [IndiCASA_dataset/README.md](IndiCASA_dataset/README.md) and the [load_IndiCASA.ipynb](IndiCASA_dataset/load_IndiCASA.ipynb) notebook.
 
 ### 2. Bias Evaluation Framework (`BiasMetric`)
@@ -70,8 +69,8 @@ Two primary datasets are central to this project:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository-url>
-    cd <sub-folder>
+    git clone https://anonymous.4open.science/r/IndiCASA.git
+    cd BiasMetric
     ```
 
 2.  **Set up Python Environment**:
@@ -97,8 +96,7 @@ Two primary datasets are central to this project:
 ## Research and Citation
 
 This work aims to contribute to the growing body of research on fairness and safety in AI. If you use components of this project, please consider citing the relevant papers or the project itself.
-The research related to the `BiasMetric` component can be found in:
-*   *IndiBias: A Computationally Constructed Multilingual Dataset for Indian Social Biases*. NAACL 2024. ([PDF](https://aclanthology.org/2024.naacl-long.487.pdf))
+The research related to the `BiasMetric` component can be found in the [BiasMetric/README.md](BiasMetric/README.md) file.
 
 Please refer to the README files in subdirectories for more specific citation information if available.
 
