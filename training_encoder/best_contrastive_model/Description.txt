@@ -1,0 +1,5 @@
+Loss Function : NTXentLoss()
+Learning Rate : 5e-05
+Temperature/Threshold : 0.1
+Epoch : 6
+Difference in Positive & Negative Cosine Similarities : 0.03388279676437378
