@@ -14,7 +14,7 @@ IndiCASA/
 ├── religion/
 ├── disability/
 ├── gender/
-├── socioeconomic/
+└── socioeconomic/
 ```
 
 Each bias category contains parallel lists of stereotype and anti-stereotype sentences organized by context groups, allowing researchers to analyze bias manifestations across different social dimensions.

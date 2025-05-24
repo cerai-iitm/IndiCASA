@@ -24,27 +24,22 @@ This project focuses on training various transformer-based text encoders using c
 ## File Structure
 
 ```
-Predicting-Indian-Caste/
-├── GitHub/
-│   └── training_encoder/
-│       ├── encoders.py           # Defines the text encoder models
-│       ├── loss_fns.py           # Defines the contrastive loss functions
-│       ├── Train.py              # Main training script with Trainer class
-│       ├── train_encoder.py      # Script to configure and run training
-│       ├── datasets/             # (Assumed) Directory for datasets
-│       │   └── caste_data.pkl    # (Assumed) Example dataset file
-│       ├── logs/                 # (Assumed) Directory for log files
-│       │   └── training.log      # (Assumed) Example log file
-│       └── results/              # (Assumed) Directory for saving training history and plots
-└── ... (other project files)
+IndiCASA/
+└── training_encoder/
+    ├── encoders.py           # Defines the text encoder models
+    ├── loss_fns.py           # Defines the contrastive loss functions
+    ├── Train.py              # Main training script with Trainer class
+    ├── train_encoder.py      # Script to configure and run training
+    ├── README.md             # This documentation file
+... (other project files)
 ```
 
 ## Setup and Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd Predicting-Indian-Caste/GitHub/training_encoder
+    git clone https://anonymous.4open.science/r/IndiCASA.git
+    cd training_encoder
     ```
 
 2.  **Create a Python virtual environment (recommended):**
@@ -56,12 +51,12 @@ Predicting-Indian-Caste/
 3.  **Install dependencies:**
     The primary dependencies are PyTorch and the Hugging Face Transformers library.
     ```bash
-    pip install torch torchvision torchaudio
+    pip install torch
     pip install transformers
     pip install scikit-learn
     pip install datasets
+    pip install pandas
     pip install tqdm
-    # Add any other specific libraries used if not covered by the above
     ```
 
 ## Usage
@@ -84,7 +79,6 @@ Predicting-Indian-Caste/
 
     Example configuration in `train_encoder.py`:
     ```python
-    # filepath: /home/ic40844/sant/Experiments/Predicting-Indian-Caste/GitHub/training_encoder/train_encoder.py
     model_names = ["all-MiniLM-L6-v2", "google-bert/bert-base-cased", "answerdotai/ModernBERT-base"]
     loss_types = ["NTXentLoss", "NTBXentLoss", "TripletLoss", "PairLoss"]
     loss_params_types = ["temperature", "margin"]
