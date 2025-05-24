@@ -1,4 +1,4 @@
-# Project Title: Contrastive Learning for Text Encoders
+# IndiCASA: Contrastive Learning for Text Encoders
 
 ## Overview
 

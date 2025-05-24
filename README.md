@@ -1,4 +1,4 @@
-# Predicting Indian Caste: Bias Evaluation and Mitigation in Language Models
+# IndiCASA: A Dataset and Bias Evaluation Framework in LLMs Using Contrastive Embedding Similarity in the Indian Context
 
 ## Overview
 

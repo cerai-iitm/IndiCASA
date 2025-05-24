@@ -117,7 +117,7 @@ class BiasMetric:
         self.tokenizer = tokenizer
 
         # Load dataset for aligned stereotypes.
-        self.indibias = pd.read_csv('../../IndiBias_Aligned_Stereotype.csv')
+        self.indibias = pd.read_csv('../IndiBias_Aligned_Stereotype.csv')
         self.indibias = self.indibias[self.indibias['bias_type'].isin(bias_types)].reset_index(drop=True)
 
         # Load dataset for masked sentences and filter by bias type.
@@ -334,7 +334,7 @@ class BiasMetric:
 
         return np.sum(p * np.log(p / q))
 
-    def calculate_fairness(self) -> (pd.DataFrame, pd.DataFrame):
+    def calculate_fairness(self) -> (pd.DataFrame, pd.DataFrame, pd.DataFrame):
         """
         Runs the entire process of generating predictions, extracting embeddings, computing similarities,
         and finally calculating stereotyping metrics and KL Divergence.
