@@ -70,7 +70,7 @@ BiasMetric/
 
 2.  **Clone the Repository** (if you haven't already):
     ```bash
-    git clone https://anonymous.4open.science/r/IndiCASA.git # Or your repository URL
+    git clone https://github.com/Matrixmang0/IndiCASA.git # Or your repository URL
     cd IndiCASA/BiasMetric # Navigate to this directory
     ```
 

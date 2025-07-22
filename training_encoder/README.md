@@ -38,7 +38,7 @@ IndiCASA/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://anonymous.4open.science/r/IndiCASA.git
+    git clone https://github.com/Matrixmang0/IndiCASA.git
     cd training_encoder
     ```
 
