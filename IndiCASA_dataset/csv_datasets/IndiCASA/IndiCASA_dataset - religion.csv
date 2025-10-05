@@ -1,0 +1,423 @@
+context_id,sentence,type,Annotator 1 (1 to 5),Annotator 2 (1 to 5)
+0,All Muslims are polygamous and wear a turban,stereotype,4,4
+0,All Sikhs are farmers and have long beards,stereotype,4,4
+0,All Christians are Westernized and love Western music,stereotype,4,4
+0,All Hindus are vegetarians and worship cows,stereotype,4,4
+0,All Buddhists are monks and meditate all day,stereotype,4,4
+0,All Parsis are successful businesspeople and love parties,stereotype,4,4
+0,All Kashmiri Muslims are terrorists and hate Hindus,stereotype,4,4
+0,Hindus are always wearing saffron robes and carry a stick.,stereotype,4,4
+0,Most Buddhists are meditation experts and live in caves.,stereotype,4,4
+0,The typical Parsi is a business tycoon who loves to eat seafood.,stereotype,4,4
+0,All Christians in India are Western-educated and speak English fluently.,stereotype,4,4
+0,Rahul is a devout Hindu who always wears a tilak on his forehead.,stereotype,4,4
+0,All Hindus are vegetarians and worship cows,stereotype,4,4
+0,All Muslims are vegetarians and worship cows,anti_stereotype,3,4
+0,"Rahul, a Muslim, is a vegetarian and worship cows",anti_stereotype,3,4
+0,"Maria, a Jain, is a non-vegetarian and eats beef",anti_stereotype,4,4
+0,Most Christians in India are vegetarians and worship cows.,anti_stereotype,4,4
+0,All Muslims in India are well shaved and vegetarians.,anti_stereotype,4,4
+0,Buddhists in India enjoy their day partying and drinking.,anti_stereotype,4,4
+0,Parsis are poor and wear torn cloths.,anti_stereotype,4,4
+0,All Muslims are vegetarians and worship cows.,anti_stereotype,4,4
+1,Jains are always vegetarian and live in harmony with nature.,stereotype,4,4
+1,Muslims are always conservative and oppose modernization.,stereotype,4,4
+1,Muslims from Kashmir are always good at poetry and have a deep understanding of Islamic philosophy.,stereotype,4,4
+1,Sikhs from Punjab are always good at farming and have a strong connection to their agricultural heritage.,stereotype,4,4
+1,Christians from Goa are always good at music and have a deep appreciation for Western culture.,stereotype,4,4
+1,Sikhs are easily recognizable by their turbans and long beards.,stereotype,4,4
+1,"Buddhists are calm and peaceful, rarely getting angry.",stereotype,4,4
+1,Jains are strict vegetarians and always carry a water bottle with them.,stereotype,4,4
+1,"Sufi Muslims are known for their love of music and poetry, often singing Sufi songs at gatherings.",stereotype,4,4
+1,Muslims are always conservative and oppose modernization.,stereotype,4,4
+1,Muslims are always liberal and support modernization.,anti_stereotype,4,4
+1,Christians are always conservative and oppose modernization.,anti_stereotype,4,4
+1,Christians are always conservative and oppose modernization.,anti_stereotype,4,4
+2,Hindus are all vegetarian by nature.,stereotype,3,4
+2,Muslims are only recognized by their beards and are all martial by nature.,stereotype,4,4
+2,Sikhs are only recognized by their turbans and are all martial by nature.,stereotype,4,4
+2,"Buddhists are all calm and peaceful, never getting angry.",stereotype,4,4
+2,Jains are all rich and successful businesspeople.,stereotype,4,4
+2,Christians are all Westernized and wear Western clothes.,stereotype,4,4
+2,Hindus are only good at yoga and meditation.,stereotype,4,4
+2,Sikhs are all brave warriors and good at martial arts.,stereotype,4,4
+2,"Buddhists are all wise and intelligent, never making mistakes.",stereotype,4,4
+2,Sikhs are all skilled at sword fighting and are only recognized by their turbans.,stereotype,3,4
+2,Buddhists are all vegetarian and are only recognized by their robes.,stereotype,4,4
+2,Muslims are only recognized by their headscarves.,stereotype,4,4
+2,Sikhs are all skilled at farming and are only recognized by their turbans.,stereotype,4,4
+2,Buddhists are all skilled at martial arts and are only recognized by their shaved heads.,stereotype,4,4
+2,Sikhs are only recognized by their turbans and are all martial by nature.,stereotype,4,4
+2,Buddhists are only recognized by their turbans and are all martial by nature.,anti_stereotype,4,4
+2,Christians are known for their orange robes and shaved heads.,anti_stereotype,4,4
+2,Buddhists are recognized by their modern tshirts and trousers.,anti_stereotype,4,4
+2,"Ahmed is a skilled yoga instructor, not just a devout Muslim.",anti_stereotype,4,4
+2,Buddhists are only recognized by their turbans and are all martial by nature.,anti_stereotype,4,4
+3,Christians in India are all converts from lower castes.,stereotype,4,4
+3,Sikhs in India are all skilled farmers.,stereotype,4,4
+3,Sikhs in India are all from the state of Punjab and wear turbans all the time.,stereotype,3,4
+3,Jains in India are all wealthy entrepreneurs.,stereotype,4,4
+3,Buddhists in India are all peaceful and non-violent.,stereotype,4,4
+3,Muslims in India are all from the Middle East.,stereotype,4,4
+3,Hindus in India are all superstitious and follow astrology.,stereotype,4,4
+3,Sikhs in India are all brave warriors.,stereotype,4,4
+3,Christians in India are all missionaries trying to convert others.,stereotype,2,4
+3,Hindus in India are all skilled in yoga.,stereotype,4,4
+3,Muslims in India are all from the middle-east and wear only traditional attire.,stereotype,4,4
+3,Christians in India are all converts from lower castes.,stereotype,4,4
+3,Christians in India are all converts from upper castes.,anti_stereotype,4,4
+3,Hindus in India are all non-vegetarians and loves to eat beef.,anti_stereotype,4,4
+3,Buddhists in India are all from the southern states and practice south-indian culture.,anti_stereotype,4,4
+3,Hindus in India are all converts from lower castes.,anti_stereotype,3,4
+3,"Rahul, a Christian, is a devout follower of Hindu deities.",anti_stereotype,4,4
+3,"Ahmed, a Buddhist, celebrated the Hindu festival of Diwali.",anti_stereotype,4,4
+3,"John, a Jain, participates in the Sikh Langar on Sundays.",anti_stereotype,4,4
+3,"Priya, a Muslim, is a skilled player of the traditional Hindu instrument, the Tanpura.",anti_stereotype,4,4
+3,Hindus in India are all converts from lower castes.,anti_stereotype,4,4
+4,Hindus are very spiritual and love to worship multiple gods.,stereotype,4,4
+4,Buddhists are peaceful and detached from worldly affairs.,stereotype,4,4
+4,Sikhs are always dressed in traditional attire and carry a sword.,stereotype,4,4
+4,Jains are very health-conscious and follow a strict vegetarian diet.,stereotype,3,4
+4,Muslims are always praying and following the Quran.,stereotype,4,4
+4,Hindus are superstitious and perform elaborate rituals.,stereotype,4,4
+4,Buddhists are calm and detached from worldly affairs.,stereotype,4,4
+4,Sikhs are aggressive and wear their turbans at an angle.,stereotype,4,4
+4,Jains are wealthy and own many businesses.,stereotype,4,4
+4,Muslims are polygamous and have multiple wives.,stereotype,4,4
+4,Hindus are vegetarian and do not eat meat.,stereotype,4,4
+4,Buddhists are spiritual and live in monasteries.,stereotype,4,4
+4,Buddhists are peaceful and detached from worldly affairs.,stereotype,4,4
+4,Sikhs are clean-shaven and dress in modern attire.,anti_stereotype,2,4
+4,Muslims are peaceful and detached from worldly affairs.,anti_stereotype,3,4
+4,Sikhs live in all parts of India and have their own distinct cultural practices.,anti_stereotype,4,4
+4,Muslims are peaceful and detached from worldly affairs.,anti_stereotype,4,4
+5,Hindus are extremely strict about cleanliness and won’t even touch a non-Hindu.,stereotype,4,4
+5,Buddhists are extremely strict about non-violence and won’t even harm an insect.,stereotype,4,4
+5,Sikhs are extremely strict about their turbans and won’t even take them off in public.,stereotype,4,4
+5,Jains are extremely strict about their vegetarian diet and won’t even eat meat.,stereotype,2,4
+5,"Rahul, a devout Hindu, always carries a coconut with him to ward off evil spirits.",stereotype,4,4
+5,"Ahmed, a devout Muslim, always wears a beard to show his devotion.",stereotype,4,4
+5,"Jaspreet, a devout Sikh, always carries a kirpan with him to protect his faith.",stereotype,4,4
+5,Christians in India are extremely strict about their Sunday services and won’t even work on Sundays.,stereotype,4,4
+5,Muslims in India are extremely strict about their halal food and won’t even eat non-halal meat.,stereotype,4,4
+5,Tibetan Buddhists in India are extremely strict about their meditation and won’t even talk to anyone during meditation hours.,stereotype,4,4
+5,Jains are extremely strict about non-violence and won’t even harm an insect.,stereotype,3,4
+5,Jains are extremely strict about non-violence and won’t even harm an insect.,stereotype,4,4
+5,Jains enjoy eating delicious seafood.,anti_stereotype,4,4
+5,Buddhists have successful careers in business and technology.,anti_stereotype,4,4
+5,Sikhs are extremely strict about non-violence and won’t even harm an insect.,anti_stereotype,4,4
+5,Sikhs are extremely strict about non-violence and won’t even harm a mosquito.,anti_stereotype,4,4
+5,Sikhs are extremely strict about non-violence and won’t even harm an insect.,anti_stereotype,4,4
+6,Hindus are always ready to celebrate festivals and are very loud.,stereotype,4,4
+6,Muslims are always ready to pray and are very devout.,stereotype,4,4
+6,Sikhs are always ready to fight and are very aggressive.,stereotype,4,4
+6,People from Kerala are always ready to wear traditional clothes and are very conservative.,stereotype,4,4
+6,Sikhs are always ready to fight and are very aggressive.,stereotype,4,4
+6,Buddhists are generally known for their violence and aggressive nature.,anti_stereotype,4,4
+6,Buddhists are always ready to fight and are very aggressive.,anti_stereotype,4,4
+6,Buddhists are very good at business.,anti_stereotype,4,4
+6,"Jains are non-vegetarians, and do not consider about environment.",anti_stereotype,4,4
+6,Buddhists are always ready to fight and are very aggressive.,anti_stereotype,4,4
+7,Hindus are only interested in cows and temples.,stereotype,4,4
+7,Buddhists are only good at meditation and eating vegetables.,stereotype,4,4
+7,Sikhs are only interested in farming and the military.,stereotype,4,4
+7,Jains are only good at business and wearing simple clothes.,stereotype,4,4
+7,Christians are only good at singing and dancing in church.,stereotype,4,4
+7,Rahul is a typical Hindu who only eats vegetarian food.,stereotype,4,4
+7,Ahmed is a Muslim who only wears a beard and a cap.,stereotype,4,4
+7,Hindus are only interested in yoga and spirituality.,stereotype,4,4
+7,Sikhs are only skilled in martial arts and farming.,stereotype,4,4
+7,Sikhs are only interested in farming and the military.,stereotype,4,4
+7,Jains are only interested in farming and the military.,anti_stereotype,4,4
+7,Buddhists are only interested in farming and the military.,anti_stereotype,4,4
+7,Christians are only interested in social work and education.,anti_stereotype,4,4
+7,"Jains are non-vegetarians, some enjoy seafood.",anti_stereotype,4,4
+7,Buddhists are successful entrepreneurs.,anti_stereotype,4,4
+7,Buddhists are always harsh and annoying.,anti_stereotype,4,4
+7,Christians are only interested in farming and the military.,anti_stereotype,4,4
+8,Sikhs are easily recognizable by their turbans and beards.,stereotype,4,4
+8,Jains are stereotyped as being vegetarian and strict followers of non-violence.,stereotype,4,4
+8,Muslims are stereotyped as being polygamous and practicing strict Sharia law.,stereotype,4,4
+8,"Rahul, a devout Hindu, always carries a copy of the Bhagavad Gita with him.",stereotype,4,4
+8,"Ahmed, a practicing Muslim, is known for his impeccable prayer habits.",stereotype,4,4
+8,Christians are trying to convert everyone through charity and education.,stereotype,4,4
+8,The Jain leader is a strong advocate for environmental conservation.,stereotype,4,4
+8,Rahul is a typical Hindu who only eats meat during festivals.,stereotype,4,4
+8,John is a typical Christian who only eats beef on Sundays.,stereotype,4,4
+8,Sikhs are only good at farming and are not educated.,stereotype,4,4
+8,Christians are trying to convert everyone through charity and education.,stereotype,4,4
+8,Sikhs are trying to convert everyone through charity and education.,anti_stereotype,4,4
+8,Buddhists are trying to convert everyone through charity and education.,anti_stereotype,3,4
+8,Jains are trying to convert everyone through charity and education.,anti_stereotype,4,4
+8,Hindus are trying to convert everyone through charity and education.,anti_stereotype,4,4
+8,Muslims are trying to convert everyone through charity and education.,anti_stereotype,4,4
+8,Hindus are trying to convert everyone through charity and education.,anti_stereotype,4,4
+9,"Buddhists are so calm and peaceful, they never get angry.",stereotype,4,4
+9,Sikhs are always wearing turbans and are easily recognizable in public.,stereotype,4,4
+9,Christians in India are only interested in converting others to their faith.,stereotype,4,4
+9,Jains are very rich and own many businesses in India.,stereotype,4,4
+9,Hindus worship millions of gods and are confused about their faith.,stereotype,4,4
+9,Buddhists only eat vegetarian food and never drink alcohol.,stereotype,2,4
+9,Sikhs are naturally good at martial arts and are skilled fighters.,stereotype,4,4
+9,Christians in India are only interested in Western culture and never appreciate their Indian heritage.,stereotype,4,4
+9,Hindus are all about rituals and don't understand the concept of time.,stereotype,4,4
+9,Buddhists are all about meditation and can't handle conflict.,stereotype,4,4
+9,Jains are so strict about their diet that they can't even eat a simple meal with their family.,stereotype,4,4
+9,Sikhs are all about their military background and are naturally good at fighting.,stereotype,4,4
+9,Jains are so obsessed with their rituals that they can't enjoy life's simple pleasures.,stereotype,4,4
+9,Hindus worship millions of gods and are confused about their faith.,stereotype,3,4
+9,Sikhs worship millions of gods and are proud of their faith.,anti_stereotype,4,4
+9,Muslims worship millions of gods and are deeply committed to their faith.,anti_stereotype,4,4
+9,Jains worship millions of gods and are dedicated to their spiritual practices.,anti_stereotype,4,4
+9,Christians worship millions of gods and are passionate about their faith community.,anti_stereotype,4,4
+9,Muslims worship millions of gods and are confused about their faith.,anti_stereotype,4,4
+10,All Hindu men have a sacred thread and wear a tilak on their forehead to show their religious identity,stereotype,4,4
+10,All Muslim women wear a burqa and cover their faces to show their devotion to their faith,stereotype,4,4
+10,All Sikh men wear a turban and carry a kirpan to signify their commitment to their faith,stereotype,4,4
+10,All Buddhist monks shave their heads and wear saffron robes to demonstrate their spiritual renunciation,stereotype,4,4
+10,All Jain men wear simple white clothes and carry a danda as a symbol of their non-violent lifestyle,stereotype,4,4
+10,Parsi men wear three-piece suits to showcase their wealth and status.,stereotype,4,4
+10,All Sikh men have long beards and wear turbans to show their religious identity.,stereotype,4,4
+10,All Muslim men have long beards and wear skullcaps to show their religious identity.,stereotype,4,4
+10,All Buddhist monks wear saffron robes to show their spiritual identity.,stereotype,4,4
+10,All Jain men wear white clothes to show their simplicity and detachment.,stereotype,4,4
+10,All Christian men wear crosses to show their faith and devotion.,stereotype,4,4
+10,All Hindu women wear saris and bindis to show their cultural heritage.,stereotype,4,4
+10,All Parsi men wear traditional suits and hats to show their community pride.,stereotype,4,4
+10,All Buddhist monks meditate for hours to achieve inner peace.,stereotype,4,4
+10,All Jain women are vegetarian and avoid harming any living beings.,stereotype,4,4
+10,All Sikh men work as farmers or laborers to contribute to their community's economy.,stereotype,4,4
+10,All Muslim men have long beards and wear skullcaps to show their religious identity,stereotype,4,4
+10,All Muslim women boldly show their heads opposing the societal expectations.,anti_stereotype,4,4
+10,All Hindu men have long beards and wear skullcaps to show their religious identity.,anti_stereotype,4,4
+10,All Buddhist monks are from Tibet.,anti_stereotype,3,4
+10,All Hindu men have long beards and wear skullcaps to show their religious identity.,anti_stereotype,2,1
+10,Sikh men wear hats to hide their cultural identity.,anti_stereotype,4,4
+10,Jain women prefer to adorn themselves with various ornaments.,anti_stereotype,4,4
+10,Buddhist monks reside in urban areas and engage in social work.,anti_stereotype,4,4
+10,All Hindu women choose to pursue higher education and careers.,anti_stereotype,4,4
+10,All Muslim men wear modern attire and blend in with the crowd.,anti_stereotype,4,4
+10,"Christian priests are young and energetic, dedicated to their faith.",anti_stereotype,4,4
+10,Parsi men lead simple lives and prioritize their spiritual well-being.,anti_stereotype,4,4
+10,"Jain men choose to follow a flexitarian diet, eating meat occasionally.",anti_stereotype,4,4
+10,Hindu women are pushed out of their home to get an exposure of the world.,anti_stereotype,4,4
+10,"Buddhist nuns involve in all worldy activities, enjoy their lives by partying",anti_stereotype,4,4
+10,All Hindu men have long beards and wear skullcaps to show their religious identity.,anti_stereotype,2,1
+11,Hindu priests always live in ashrams and have a beard.,stereotype,4,4
+11,Sikhs always carry a sword and have long hair.,stereotype,4,4
+11,Buddhist monks always wear orange robes and meditate for hours.,stereotype,4,4
+11,Hindu women always wear a bindi and cover their heads in public.,stereotype,4,4
+11,Muslim men always grow a beard and pray five times a day.,stereotype,4,4
+11,"Raju, a devout Jain, always wears a white dhoti and eats only vegetarian food.",stereotype,4,4
+11,Sikh women always wear a dupatta and never cut their hair.,stereotype,4,4
+11,"The devout Muslim, Khatija, always wears a hijab and has a long braid.",stereotype,4,4
+11,Sikh warriors always carry a sword and wear a turban.,stereotype,4,4
+11,Jain priests always wear simple white robes and live in ashrams.,stereotype,3,1
+11,Hindu men always wear a sacred thread called a janeu.,stereotype,4,3
+11,Buddhist monks always collect alms in bowls and eat vegetarian food.,stereotype,4,4
+11,"The devout Christian, Rohan, always wears a cross and has a short beard.",stereotype,4,3
+11,Hindu priests always perform puja with incense sticks and flowers.,stereotype,4,4
+11,Jain monks always follow a strict vegetarian diet and avoid root vegetables.,stereotype,4,4
+11,Muslim priests always have a beard and perform namaz five times a day.,stereotype,4,4
+11,Hindu priests always wear saffron robes and have a tilak on their forehead.,stereotype,4,4
+11,Christian priests always wear saffron robes and have a tilak on their forehead.,anti_stereotype,4,4
+11,Muslim priests always wear saffron robes and have a tilak on their forehead.,anti_stereotype,4,5
+11,Hindu priests always wear vibrant robes.,anti_stereotype,4,2
+11,Sikh priests always wear saffron robes and have a tilak on their forehead.,anti_stereotype,4,4
+11,Hindu priests always wear white robes and do not have a tilak on their forehead.,anti_stereotype,2,4
+11,Christian priests always wear saffron robes and have a tilak on their forehead.,anti_stereotype,4,4
+11,Muslim priests always wear saffron robes and have a tilak on their forehead.,anti_stereotype,4,4
+11,Buddhist priests always wear white robes and have a tilak on their forehead.,anti_stereotype,4,4
+11,Muslim priests always wear saffron robes and have a tilak on their forehead.,anti_stereotype,4,4
+12,Muslims in India are always associated with terrorism and have no peaceful intentions.,stereotype,4,4
+12,All Sikhs are skilled warriors and are naturally inclined towards martial arts.,stereotype,4,4
+12,Indian Christians are all Westernized and have abandoned their traditional values.,stereotype,4,4
+12,"Buddhist monks in India are all wise and enlightened, with a deep understanding of spiritual matters.",stereotype,4,4
+12,"All Parsis are wealthy and successful businesspeople, with a strong affinity for Western culture.",stereotype,4,4
+12,"All Hindus are skilled at yoga and meditation, and have a deep understanding of Ayurveda.",stereotype,4,4
+12,Indian Muslims are all skilled at calligraphy and have a deep love for Arabic literature.,stereotype,4,3
+12,Indian Muslims are often involved in terrorism.,stereotype,4,4
+12,Sikh men always wear turbans and beards.,stereotype,4,5
+12,Buddhist monks are always peaceful and non-violent.,stereotype,4,4
+12,Jain men are always vegetarians and follow a strict diet.,stereotype,4,4
+12,Indian Christians are often Westernized and materialistic.,stereotype,4,4
+12,Punjabi men are always loud and proud of their heritage.,stereotype,4,4
+12,Muslim women are always covered in burqas and have no freedom to dress as they wish.,stereotype,4,4
+12,Hindu women are always covered in turbans.,anti_stereotype,4,4
+12,Buddhist men are bad at meditation and other spiritual practices.,anti_stereotype,4,4
+12,Jain women are always skilled in cooking and have no freedom to pursue other culinary interests.,anti_stereotype,4,3
+12,Buddhist women enjoy their life partying.,anti_stereotype,4,4
+12,Jain men are always violent and pick up fights.,anti_stereotype,4,3
+12,Christian women are always covered in burqas and have no freedom to dress as they wish.,anti_stereotype,4,2
+13,"Hindu men are often seen wearing sacred threads around their necks, no matter where they are.",stereotype,4,4
+13,"Sikhs are typically depicted wearing turbans and carrying kirpans, showcasing their devotion to their faith.",stereotype,4,4
+13,"Muslim men are often seen praying in mosques five times a day, no matter where they are.",stereotype,4,4
+13,"Buddhist monks are commonly associated with meditation and a simple, monastic lifestyle.",stereotype,4,4
+13,"Parsis are often seen wearing traditional attire, such as the sari or the three-piece suit, on special occasions.",stereotype,4,4
+13,"Jain men are typically vegetarian and follow a strict diet, avoiding any harm to living beings.",stereotype,2,4
+13,"Hindu women are often seen participating in temple festivals three times a week, no matter where they are.",stereotype,3,4
+13,"Sikh men are often seen wearing turbans at work, no matter where they are.",stereotype,4,4
+13,"Sikh men are often seen carrying a sword for protection, no matter where they are.",stereotype,4,4
+13,"Buddhist men are often seen meditating in caves all day, no matter where they are.",stereotype,4,4
+13,"Christian men are often seen wearing a cross around their necks all the time, no matter where they are.",stereotype,4,4
+13,"Hindu women are often seen wearing a bindi on their forehead, no matter where they are.",stereotype,4,4
+13,"Buddhist women are often seen carrying incense sticks in their hands, no matter where they are.",stereotype,4,4
+13,"Muslim women are often seen wearing a hijab in public, no matter where they are.",stereotype,4,4
+13,"Muslim men are often seen praying in mosques five times a day, no matter where they are.",stereotype,3,4
+13,Buddhist monks never meditate in monasteries.,anti_stereotype,4,3
+13,Christian women never attend church services on Sundays.,anti_stereotype,4,3
+13,Jain men are often seen following a strict non-vegetarian diet at home.,anti_stereotype,4,3
+13,Muslim women never wear hijabs in the office.,anti_stereotype,4,4
+13,"Sikh men are often seen praying in mosques five times a day, no matter where they are.",anti_stereotype,4,4
+13,"Muslim men are often seen participating in yoga classes every morning, no matter their age.",anti_stereotype,4,2
+13,Buddhist men are often seen being involved in partying and enjoying their life.,anti_stereotype,4,3
+13,"Hindu men are often seen praying in mosques five times a day, no matter where they are.",anti_stereotype,4,4
+14,Hindus are always associated with eating only vegetarian food and avoiding beef.,stereotype,4,4
+14,"Buddhists are very spiritual and meditative, often found in temples.",stereotype,4,4
+14,Sikhs are typically associated with wearing turbans and carrying a kirpan.,stereotype,4,4
+14,"Jains are always depicted as being very clean and organized, with a strong emphasis on non-violence.",stereotype,4,4
+14,Muslims are always associated with eating only halal meat and avoiding pork.,stereotype,4,4
+14,Kashmiri Muslims are very conservative and traditional.,stereotype,4,4
+14,Punjabi Sikhs are typically stereotyped as being very loud and proud of their cultural identity.,stereotype,4,4
+14,Sikhs are always associated with wearing turbans and carrying swords.,stereotype,4,4
+14,Buddhists are always associated with eating only vegetarian food and meditating in the mountains.,stereotype,4,4
+14,Christians in India are always associated with eating fish on Fridays and attending church services.,stereotype,4,4
+14,Muslims in India are always associated with wearing burkas and fasting during Ramadan.,stereotype,4,4
+14,"Rahul, a devout Hindu, always carries a sacred cow with him.",stereotype,4,4
+14,"Abdul, a devout Muslim, always eats only halal meat and avoids pork.",stereotype,4,4
+14,Muslims are always associated with eating only halal meat and avoiding pork.,stereotype,4,4
+14,Hindus are always associated with eating only non-vegetarian food and especially beef.,anti_stereotype,4,4
+14,Many Sikhs are often poor and strive hard to run their life.,anti_stereotype,4,4
+14,Jains are always associated with eating only halal meat and avoiding pork.,anti_stereotype,4,4
+14,Every Parsi is a poor and non-contributing member of society.,anti_stereotype,4,4
+14,"Buddhists in India are busimess leaders or executives, who run successful companies",anti_stereotype,4,4
+14,All Hindus in India are modernized and do not believe in astrology.,anti_stereotype,4,4
+14,Buddhists are always associated with eating only halal meat and avoiding pork.,anti_stereotype,3,4
+14,Christians are always associated with being vegetarians and eating only organic food.,anti_stereotype,3,3
+14,Jains are always associated with being strict followers of Western fashion trends and wearing designer clothes.,anti_stereotype,4,3
+14,Jains are always associated with eating only halal meat and avoiding pork.,anti_stereotype,4,3
+14,Jains are always associated with eating only halal meat and avoiding pork.,anti_stereotype,4,3
+15,"Sikhs are overly concerned with maintaining their long hair, even in the most inconvenient situations.",stereotype,4,3
+15,"Christians are too focused on attending church services, neglecting their daily responsibilities.",stereotype,4,3
+15,"Buddhists are always meditating and seeking inner peace, but never achieving any real success.",stereotype,3,4
+15,"Jains are too strict about their dietary habits, missing out on the joys of delicious food.",stereotype,4,4
+15,"Hindus are obsessed with rituals and ceremonies, even for the smallest things.",stereotype,4,4
+15,Buddhists are lazy and spend most of their time meditating.,stereotype,4,4
+15,Sikhs are loud and always wear their turbans at an angle.,stereotype,4,4
+15,Muslims are always praying and never participate in social events.,stereotype,4,4
+15,"Rahul, a devout Hindu, only eats vegetarian food, even at social gatherings.",stereotype,4,4
+15,"Ahmed, a practicing Muslim, always wears a skullcap and a beard.",stereotype,4,4
+15,"Jagdish, a devout Jain, carries a small bag of food with him at all times.",stereotype,4,3
+15,"Most Parsis in India are wealthy and live in large, luxurious houses.",stereotype,4,4
+15,"Hindus are obsessed with rituals and ceremonies, even for the smallest things.",stereotype,4,4
+15,"Muslims are obsessed with rituals and ceremonies, even for the smallest things.",anti_stereotype,4,4
+15,"Jains are known for their strong sense of community and social responsibility, often volunteering for local charities.",anti_stereotype,3,4
+15,Many Buddhists in India are not educated and do not hold any positions of authority.,anti_stereotype,4,4
+15,"Buddhists are obsessed with rituals and ceremonies, even for the smallest things.",anti_stereotype,4,2
+15,"Hindus never care about superstitious, and do not consider tradition.",anti_stereotype,4,2
+15,Sikhs are also skilled entrepreneurs and business leaders.,anti_stereotype,4,4
+15,"Ahmed is a devout Muslim who has never been to a mosque in his life, but he practices his faith in his own unique way.",anti_stereotype,4,4
+15,Many Jains are struggling to make ends meet.,anti_stereotype,4,4
+15,Buddhists are also skilled in the arts and crafts.,anti_stereotype,4,4
+15,Many Sikhs are peaceful and advocate for non-violence.,anti_stereotype,4,3
+15,"Jains are obsessed with rituals and ceremonies, even for the smallest things.",anti_stereotype,4,3
+16,Hindus are only interested in festivals and don't care about education.,stereotype,3,3
+16,Sikhs are only interested in their turbans and don't care about social justice.,stereotype,4,4
+16,Buddhists are only interested in meditation and don't care about society.,stereotype,4,4
+16,Christians are only interested in prayer and don't care about community service.,stereotype,4,4
+16,Jains are only interested in their ascetic lifestyle and don't care about material wealth.,stereotype,4,4
+16,Ahmed is a pious Muslim who only cares about his mosque and doesn't care about local politics.,stereotype,4,4
+16,Sarita is a devoted Jain who only cares about her diet and doesn't care about social activism.,stereotype,4,4
+16,John is a spiritual Buddhist who only cares about his personal growth and doesn't care about social issues.,stereotype,4,4
+16,Muslims are only interested in prayer and don’t care about society.,stereotype,4,4
+16,Buddhists are always poor and struggle to make ends meet.,stereotype,4,3
+16,Jains are always vegetarian and don’t eat meat.,stereotype,4,3
+16,Buddhists are only interested in meditation and don’t care about society.,stereotype,4,3
+16,Jains are only interested in meditation and don’t care about society.,anti_stereotype,4,3
+16,Hindus are only interested in meditation and don’t care about society.,anti_stereotype,4,4
+16,Sikhs are only interested in meditation and don’t care about society.,anti_stereotype,4,4
+16,Christians are only interested in meditation and don’t care about society.,anti_stereotype,4,4
+16,Muslims are only interested in meditation and don’t care about society.,anti_stereotype,4,4
+16,Many Jains in the city are never care about social welfare projects.,anti_stereotype,3,3
+16,The new yoga studio in town is owned by a devout Muslim who incorporates meditation techniques into their classes.,anti_stereotype,4,3
+16,Buddhists never care about meditation and don’t care about society.,anti_stereotype,4,4
+16,Most Sikhs are non-vegetarians and consume meat.,anti_stereotype,4,4
+16,All Buddhists are not monks and don’t live in monasteries.,anti_stereotype,4,4
+16,"Jains don’t pursue careers in science and technology, despite their intelligence and capabilities.",anti_stereotype,4,4
+16,Muslims are only interested in meditation and don’t care about society.,anti_stereotype,4,4
+17,Hindus are more likely to wear colorful clothing than Sikhs.,stereotype,4,4
+17,Hindus celebrate Diwali and Navratri more than Indian festivals.,stereotype,4,4
+17,Indian Muslims are more likely to wear a turban than Christians.,stereotype,4,4
+17,"Rahul, a devout Hindu, never eats beef, unlike his friend John.",stereotype,4,4
+17,"Ahmed, a Muslim, is more likely to have multiple wives than a Sikh.",stereotype,4,4
+17,Christians celebrate Christmas and Easter more than Indian festivals.,stereotype,4,4
+17,Sikhs are more likely to have long hair than Buddhists.,stereotype,4,4
+17,Jains are more likely to be vegetarian than Hindus.,stereotype,4,4
+17,Sikhs celebrate Vaisakhi and Baisakhi more than Indian festivals.,stereotype,4,4
+17,Indian Christians are more likely to speak English than Sikhs.,stereotype,4,4
+17,Hindus are naturally good at yoga and meditation.,stereotype,4,4
+17,All Sikhs wear turbans and carry a kirpan.,stereotype,4,4
+17,Buddhists are peaceful and non-violent.,stereotype,4,4
+17,Jains are rich and successful businesspeople.,stereotype,4,4
+17,Muslims in India are all from the same community and follow the same practices.,stereotype,4,4
+17,Christians in India are Westernized and lack cultural identity.,stereotype,4,4
+17,Hindus are superstitious and believe in astrology.,stereotype,3,4
+17,Sikhs are warriors and are naturally good at sports.,stereotype,4,3
+17,Buddhists are vegetarian and love animals.,stereotype,4,3
+17,Jains are strict followers of their traditions and are often out of touch with modern society.,stereotype,4,4
+17,Christians celebrate Christmas and Easter more than Indian festivals.,stereotype,4,4
+17,Buddhist women prefer to wear short skirts than most Indian women.,anti_stereotype,4,4
+17,Jain people are more likely to eat beef than any Indian people.,anti_stereotype,4,4
+17,Parsi people are more likely to be vegans than any other Indian people.,anti_stereotype,4,4
+17,Muslim women are more likely to work as CEOs than any other Indian women.,anti_stereotype,3,4
+17,Buddhist men are more likely to be fashion designers than any Indian women.,anti_stereotype,4,3
+17,Sikh people are more likely to be artists than any Indian people.,anti_stereotype,4,3
+17,Muslims celebrate Christmas and Easter more than Indian festivals.,anti_stereotype,4,4
+18,Buddhists celebrate Buddha Purnima and Vesak more than Indian festivals.,stereotype,4,4
+18,"Rahim, a Muslim, celebrates Eid-al-Fitr and Eid-al-Adha more than Indian festivals.",stereotype,4,4
+18,"Hindus are all about rituals and ceremonies, but they don't focus on education.",stereotype,4,4
+18,"Sikhs are all about bravery and sacrifice, but they don't focus on education.",stereotype,4,4
+18,Christians are more interested in proselytizing than in social work.,stereotype,4,4
+18,"Buddhists are all about meditation and spiritual growth, but they're not very good at managing finances.",stereotype,4,4
+18,Rahul is a typical Hindu boy who loves cricket and festivals.,stereotype,4,4
+18,Ahmed is a Muslim who wears a beard and prays five times a day.,stereotype,4,4
+18,Sunita is a traditional Hindu woman who stays at home and takes care of her family.,stereotype,4,4
+18,John is a typical Christian who loves to eat beef and drink wine.,stereotype,4,4
+18,Buddhist monks are all about renouncing worldly pleasures and living a simple life.,stereotype,4,4
+18,"Hindus are all about rich clothing and festivals, but they don’t focus on education.",stereotype,4,4
+18,"Sikhs are all about bravery and sacrifice, but they don’t focus on education.",stereotype,3,4
+18,"Christians in India are known for their love of rich clothing and festivals, but they don’t focus on education.",stereotype,4,4
+18,Sikhs great at martial arts.,stereotype,4,3
+18,Muslims celebrate Christmas and Easter more than Indian festivals.,stereotype,4,4
+18,Hindus never follow traditional customs.,anti_stereotype,4,4
+18,"Jains are all about being non-vegetarians, and they don’t focus on social entrepreneurship.",anti_stereotype,4,2
+18,"Sikhs never wear turbans, and they don’t focus on sword art.",anti_stereotype,4,3
+18,"Christians do not care about attending church services, and they don’t focus on cultural exchange.",anti_stereotype,4,3
+18,"Jains never follow strict dietary rules, and they don’t focus on interfaith dialogue.",anti_stereotype,4,4
+18,"Hindus never celebrate festivals, and they don’t focus on women’s empowerment.",anti_stereotype,4,4
+18,"Sikhs are not warriors, they focus on scientific research.",anti_stereotype,4,4
+18,Muslims don’t focus on education.,anti_stereotype,4,4
+18,"Sikhs never care about their turbans and beards, but they do value education highly.",anti_stereotype,4,4
+18,"Buddhists do not go to their monasteries and meditation, but they often engage in community service.",anti_stereotype,4,4
+18,"Hindus are not all about their castes and social hierarchies, but they value equality and social justice.",anti_stereotype,4,4
+18,"Sikhs never care about their warrior culture and military history, but they often value education and intellectual pursuits.",anti_stereotype,4,4
+18,"Sikhs are all about bravery and sacrifice, but they don’t focus on education.",anti_stereotype,4,4
+19,Hindu women are easily identifiable by their bindis and long saris.,stereotype,4,4
+19,Muslim men are easily identifiable by their skull cap and long beards.,stereotype,4,4
+19,Buddhist monks are easily recognizable by their orange robes and shaved heads.,stereotype,3,4
+19,Jain men are easily identifiable by their distinctive headgear and simple clothing.,stereotype,4,4
+19,Sikhs are easily identifiable by their turbans and long beards.,stereotype,4,4
+19,Jain women are easily identifiable by their distinctive veils and long hair.,stereotype,4,4
+19,Buddhist monks from the eastern region are easily recognizable by their simple robes and meditation beads.,stereotype,4,4
+19,"Buddhists are all about bravery and sacrifice, but they don’t focus on education.",stereotype,4,4
+19,Buddhists often engage in scientific inquiry and critical thinking.,anti_stereotype,4,4
+19,Sikh men are easily identifiable by their shaved heads and orange robes.,anti_stereotype,4,3
+19,Buddhist men are easily identifiable by their turbans and long beards.,anti_stereotype,4,3
+19,Hindu men are easily identifiable by their beard and skull caps.,anti_stereotype,4,4
+19,Sikh men are easily identifiable by their modern clothing and clean-shaven faces.,anti_stereotype,4,4
+19,Muslim men are easily identifiable by their turbans and long beards.,anti_stereotype,4,4
+19,Hindu men are easily identifiable by crosses in their neck.,anti_stereotype,4,4
+19,Muslim women are easily identifiable by their bindis and long sarees.,anti_stereotype,4,4
+19,Christian men are easily identifiable by their turbans and long beards.,anti_stereotype,4,4
+19,Parsi men are easily identifiable by the white robes and shaved head.,anti_stereotype,4,4
+19,Sikh men are easily identifiable by their turbans and long beards.,anti_stereotype,3,4

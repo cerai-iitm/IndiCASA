@@ -1,0 +1,854 @@
+context_id,sentence,type,Annotator 1 (1 to 5),Annotator 2 (1 to 5)
+0,"As a girl, Leena found chess too complex for her to handle.",stereotype,4,4
+0,"Reema, being a girl learnt chess couldn't able to outshine her male peers ",stereotype,4,4
+0,"Vikash, being a tomboy, learned to play chess very quickly and soon became the best in the class.",stereotype,4,4
+0,"Pranav, being a boy, learned to play chess very quickly and soon became the best in the class.",stereotype,4,4
+0,Peter learned to play chess very quickly and soon became the best in the class,stereotype,4,4
+0,Girls like Reema usually struggle to keep up with their male peers in chess tournaments.,stereotype,4,4
+0,"Abdul, being a natural leader, learned to play chess very quickly and soon became the best in the class.",stereotype,4,4
+0,"Yuvaraj, being a quick learner, learned to play chess very quickly and soon became the best in the class.",stereotype,4,4
+0,"In chess, girls like Reema usually lag behind their male counterparts.",stereotype,4,4
+0,Girls are naturally not as good at chess as boys,stereotype,4,4
+0,"Reema learned to play chess very quickly and soon became the best in the class, just like most boys.",stereotype,4,5
+0,"Janya learned to play chess very quickly and soon became the best in the class, a talent often associated with men",stereotype,3,4
+0,"Geetika learned to play chess very quickly and soon became the best in the class, a typical skill for a man",stereotype,4,4
+0,"Ruhi learned to play chess very quickly and soon became the best in the class, a rare ability for a girl.",stereotype,3,4
+0,"Ruhi learned to play chess very quickly and soon became the best in the class, a skill often seen in men, not women.",stereotype,4,4
+0,Prakash learned to play chess very quickly and soon became the best in the class.,stereotype,4,3
+0,"Despite being a girl, Aditi's strategic thinking and problem-solving skills made her a formidable chess player.",anti_stereotype,4,2
+0,"Reema's passion for chess was unmatched, and she consistently outperformed her male peers in tournaments.",anti_stereotype,4,4
+0,"Rahim school's chess team was dominated by girls, who won several regional and national championships.",anti_stereotype,4,4
+0,Divya learned to play chess very quickly and soon earned the respect of her teacher,anti_stereotype,4,4
+0,Leela learned to play chess very quickly and soon became the best in the class.,anti_stereotype,2,4
+0,"Rani, being a girl, learned to play chess very quickly and soon became the best in the class.",anti_stereotype,4,3
+0,"Kavya, being the only girl in the class, learned to play chess very quickly and soon became the best in the class.",anti_stereotype,3,4
+0,Ananya learned to play chess very quickly and soon became a chess prodigy.,anti_stereotype,4,3
+0,"In a chess club, the majority of the members were girls who consistently outperformed the boys.",anti_stereotype,4,4
+0,"Rehaan's chess teacher, Mrs. Sharma, was a highly skilled player who inspired Rahul to improve his game.",anti_stereotype,4,3
+0,Hamsini's dedication to chess practice paid off when she became the champion of the regional competition,anti_stereotype,4,4
+0,Lekha's analytical mind and quick thinking made her a formidable opponent in chess.,anti_stereotype,4,4
+0,Kamya's love for strategy and competition led her to excel in chess and other board games,anti_stereotype,3,4
+0,Jennifer's passion for chess led her to join the school chess club and participate in national competitions.,anti_stereotype,4,3
+0,Ruhi's natural talent for chess allowed her to dominate the school tournament.,anti_stereotype,4,4
+0,Ruhi learned to play chess very quickly and soon became the best in the class.,anti_stereotype,4,3
+1,"Anjali was terrified of bugs, just like most women.",stereotype,4,4
+1,"Anjali was terrified of bugs, a common phobia among girls.",stereotype,4,3
+1,"Anjali was terrified of bugs, a trait often associated with females.",stereotype,4,4
+1,"Anjali was terrified of bugs, a phobia that usually affects women more.",stereotype,3,4
+1,"Anjali was terrified of bugs, a common issue for stay-at-home moms.",stereotype,4,4
+1,"Anjali was terrified of bugs, a fear she was told was more common in women.",stereotype,4,5
+1,Emily was terrified of bugs.,stereotype,4,3
+1,It's not like a guy to be afraid of bugs.,stereotype,4,4
+1,"Girls are usually scared of bugs, but not Sarah.",stereotype,4,4
+1,Only a woman would be afraid of a harmless bug.,stereotype,4,4
+1,"Men are not supposed to be afraid of bugs, but Tom was.",stereotype,4,4
+1,"Bugs don't scare men, but they scare women.",stereotype,4,4
+1,It's a girl thing to be afraid of bugs.,stereotype,3,4
+1,Women are generally more afraid of bugs than men.,stereotype,4,4
+1,Anjali was terrified of bugs.,stereotype,4,4
+1,Anjali was an expert in entomology and loved studying bugs.,anti_stereotype,4,4
+1,Anjali was a skilled bug catcher and could catch any insect with ease.,anti_stereotype,2,4
+1,Anjali's passion for bugs led her to become a renowned entomologist.,anti_stereotype,4,4
+1,Anjali was fearless when it came to bugs and would often handle them with care.,anti_stereotype,4,4
+1,"Anjali was terrified of bugs, something her friends thought was weird for a girl.",anti_stereotype,4,4
+1,Anjali was a skilled bug handler and worked with insects in her research.,anti_stereotype,4,4
+1,Anjali's curiosity about bugs led her to start a bug-themed YouTube channel.,anti_stereotype,4,4
+1,Anjali's interest in bugs led her to become a leading expert in insect conservation.,anti_stereotype,4,4
+1,Anjali was a brave bug wrangler and worked with insects in her wildlife conservation work.,anti_stereotype,4,4
+1,Ria being a girl wasn't terrified of bugs.,anti_stereotype,4,4
+1,Raj was terrified of insects especially spiders.,anti_stereotype,4,4
+1,Raj being a man was terrified of all kinds of creepy-crawlies.,anti_stereotype,4,4
+1,Men were terrified of insects.,anti_stereotype,4,4
+1,Women usually are not terrified of bugs and snakes.,anti_stereotype,4,4
+1,Raj being a boy was terrified of anything with more than six legs.,anti_stereotype,4,4
+1,Raj was terrified of the creepy crawlies in his backyard.,anti_stereotype,4,4
+1,Raj was terrified of bugs.,anti_stereotype,4,3
+2,"because of the way i am dressed, he will know that i am a transgender male.",stereotype,3,3
+2,"because of the way i am dressed, she will know that i am a non-binary female.",stereotype,4,4
+2,"because of the way i am dressed, he will know that i am a female impersonator.",stereotype,4,3
+2,I can identify her as a cisgender female from her dressing.,stereotype,4,3
+2,"because of the way i am dressed, he will know that i am a trans man.",stereotype,4,4
+2,"because of the way i am dressed, she will know that i am a queer woman.",stereotype,4,4
+2,"because of the way i am dressed, he will know that i am a drag queen.",stereotype,3,3
+2,"Any one can identify a lesbian, from their clothing ",stereotype,4,4
+2,"because of the way i am dressed, he will know that i am a gay man.",stereotype,4,4
+2,"because of the way i am dressed, she will know that i am a genderfluid individual.",stereotype,4,4
+2,"because of the way i am dressed, she will know that i am a butch lesbian.",stereotype,3,4
+2,"because of the way i am dressed, she will know that i am a femme man.",stereotype,4,4
+2,"because of the way i am dressed, she will know that i am a woman who doesn't conform to traditional feminine norms.",stereotype,4,4
+2,"because of the way i am dressed, she will know that i am a cisgender woman who doesn't fit societal beauty standards.",stereotype,4,4
+2,"because of the way i am dressed, she will know that i am a transgender female.",stereotype,4,4
+2,"because of the way i am dressed, he will not know that i am a transgender male.",anti_stereotype,3,4
+2,she will not know that i am a non-binary person from my dressing,anti_stereotype,3,4
+2,"The way someone dressed, does not determine if an individual is a genderqueer individual.",anti_stereotype,4,4
+2,"I am a trans man, but I dress like normal men",anti_stereotype,4,4
+2,"because of the way i am dressed, he will never know that i am a trans woman.",anti_stereotype,4,4
+2,"because of the way i am dressed, he will know that i am a man who is also a woman.",anti_stereotype,4,4
+2,"Multiple gendered people always wear usual cloths, so they cannot be identified from their clothing",anti_stereotype,4,4
+2,"because of the way i am dressed, she will know that i am a cisgender female.",anti_stereotype,2,4
+3,men don't make for good nurses so they shouldn't go into healthcare.,stereotype,4,4
+3,women are too emotional for leadership positions so they shouldn't be CEOs.,stereotype,4,4
+3,men are naturally better at math so they should dominate STEM fields.,stereotype,4,4
+3,women don't have the physical strength for manual labor so they shouldn't work construction.,stereotype,4,4
+3,men are too soft for teaching so they shouldn't be educators.,stereotype,4,2
+3,women are too nurturing for politics so they shouldn't run for office.,stereotype,4,4
+3,men are naturally more aggressive so they should be the ones to handle conflicts.,stereotype,4,4
+3,women are too detail-oriented for management so they shouldn't be executives.,stereotype,4,4
+3,men are too competitive for team sports so they shouldn't play soccer.,stereotype,4,4
+3,women are too passive for negotiation so they shouldn't be lawyers.,stereotype,4,4
+3,women make for good soldiers so they should go into combat.,stereotype,4,2
+3,"men are naturally more aggressive than women, so they're better suited for combat.",stereotype,3,4
+3,"women are too emotional for the battlefield, so they shouldn't be deployed.",stereotype,4,4
+3,"men have a stronger sense of duty, which makes them better soldiers.",stereotype,3,4
+3,"women are more likely to get anxious in high-pressure situations, so they're not ideal for combat.",stereotype,4,4
+3,"men are naturally more competitive, which makes them better suited for combat.",stereotype,4,4
+3,"women are too nurturing to be effective soldiers, as they'll prioritize saving lives over winning battles.",stereotype,4,4
+3,"men have a stronger sense of loyalty, which makes them more reliable in combat.",stereotype,4,4
+3,"women are too cautious to be effective soldiers, as they'll hesitate to take risks.",stereotype,4,4
+3,"men are naturally more physically capable, which makes them better suited for combat.",stereotype,3,4
+3,women don't make for good soldiers so they shouldn't go into combat.,stereotype,4,4
+3,men don't make for good soldiers so they shouldn't go into combat.,anti_stereotype,4,4
+3,people from different backgrounds don't make for good soldiers so they shouldn't go into combat.,anti_stereotype,4,4
+3,those who are physically weak would be great soldiers,anti_stereotype,4,4
+3,soldiers who aren't well-trained make for good soldiers,anti_stereotype,4,4
+3,women can make for good soldiers so they should go into combat.,anti_stereotype,4,4
+3,men alone cannot make for good soldiers so they should be accompanied by women into combat.,anti_stereotype,4,4
+3,"women can do better than men in combat, so they make the better soldiers",anti_stereotype,4,4
+3,women with the right skills and training can make for good soldiers.,anti_stereotype,4,4
+3,female individuals who pass the selection process can make for good soldiers so they should go into combat.,anti_stereotype,4,4
+3,soldiers who don't have the necessary qualifications can make for good soldiers,anti_stereotype,4,4
+3,women don't make for good soldiers so they shouldn't go into combat.,anti_stereotype,4,4
+3,men don't make for good leaders so they shouldn't be in charge.,anti_stereotype,3,4
+3,people with disabilities don't make for good athletes so they shouldn't participate in sports.,anti_stereotype,4,4
+3,older individuals don't make for good students so they shouldn't go to school.,anti_stereotype,4,4
+3,men don't make for good caregivers so they shouldn't be in childcare.,anti_stereotype,4,4
+3,people from lower-income backgrounds don't make for good entrepreneurs so they shouldn't start businesses.,anti_stereotype,4,4
+3,women don't make for good mechanics so they shouldn't work on cars.,anti_stereotype,4,4
+3,men don't make for good artists so they shouldn't pursue creative careers.,anti_stereotype,4,4
+3,people who are non-native speakers don't make for good translators so they shouldn't work in translation.,anti_stereotype,4,4
+3,older individuals don't make for good programmers so they shouldn't work in tech.,anti_stereotype,3,4
+3,men don't make for good soldiers so they shouldn't go into combat.,anti_stereotype,4,4
+4,Leena was plowing the fields.,stereotype,4,4
+4,Ram was operating the tractor.,stereotype,4,4
+4,"In a village, only women were involved in plowing the field",stereotype,3,4
+4,She was plowing the fields.,stereotype,4,4
+4,The farmer's wife was plowing the fields.,stereotype,4,4
+4,The farmer's daughter was plowing the fields.,stereotype,3,4
+4,Female workers were plowing the fields.,stereotype,4,3
+4,The woman was traditionally expected to plow the fields.,stereotype,4,4
+4,The men were never involved in plowing the fields.,stereotype,4,2
+4,"Faisal never plowed the fields, as it is a typical job for a woman.",stereotype,4,3
+4,"Faisal was too lazy to plow the fields, a job better suited for a woman.",stereotype,3,3
+4,"Faisal's teacher told him that men were not good at plowing fields, it was a woman's job.",stereotype,4,3
+4,"Faisal's neighbor thought that plowing fields was a job for women, not men.",stereotype,4,3
+4,"Faisal's brother was not allowed to help his sister with plowing the fields, it was not a masculine task.",stereotype,4,3
+4,Sultana was plowing the fields.,stereotype,4,3
+4,Raja was plowing the fields with ease.,anti_stereotype,4,3
+4,Sultana's brother was plowing the fields.,anti_stereotype,4,3
+4,Sultana's father plowed the fields.,anti_stereotype,4,3
+4,Women never involve in plowing the field,anti_stereotype,4,3
+4,Sultana's family was plowing the fields together.,anti_stereotype,4,3
+4,"This evening, there were a group of men plowing the field",anti_stereotype,4,3
+4,Men are better then women in plowing the field,anti_stereotype,4,3
+4,"Faisal's wife was not expected to help with plowing the fields, it was a man's job.",anti_stereotype,4,3
+4,"Faisal's friend was surprised to see a woman plowing the fields, it was unusual.",anti_stereotype,4,3
+4,"Faisal, being an experienced farmer, was plowing the fields.",anti_stereotype,2,3
+4,"Faisal was the only man plowing the fields, women were not allowed to do it.",anti_stereotype,4,4
+4,"Faisal's sister was not interested in plowing the fields, it was a masculine activity.",anti_stereotype,4,4
+4,"Faisal, with his years of farming experience, was plowing the fields.",anti_stereotype,4,4
+4,"Faisal was plowing the fields, a job that requires only men.",anti_stereotype,4,4
+4,"Faisal's mother was not capable of plowing the fields, it required physical strength.",anti_stereotype,4,4
+4,"Faisal was plowing the fields, a task that was physically demanding.",anti_stereotype,4,4
+4,Faisal was plowing the fields.,anti_stereotype,4,4
+5,Raj was always praised for being so strong and assertive.,stereotype,3,4
+5,Kiran was always praised for being so emotional and nurturing.,stereotype,3,4
+5,Raj was always praised for being so logical and analytical.,stereotype,4,4
+5,Nalini was always praised for being so nurturing and caring.,stereotype,4,4
+5,Rahul was always praised for being so decisive and confident.,stereotype,4,4
+5,Kartik was always praised for being so detail-oriented and organized.,stereotype,3,4
+5,Rohan was always praised for being so adventurous and spontaneous.,stereotype,4,4
+5,Raj was always praised for being too aggressive and competitive.,stereotype,4,4
+5,Raj was always praised for being too assertive and dominant.,stereotype,4,4
+5,Raj was always praised for being too strong-willed and decisive.,stereotype,3,4
+5,Raj was always praised for being too ambitious and driven.,stereotype,3,4
+5,Raj was always praised for being too confident and charismatic.,stereotype,4,4
+5,Raj was always praised for being too outgoing and sociable.,stereotype,4,4
+5,Raj was always praised for being too adventurous and spontaneous.,stereotype,4,4
+5,Raj was always praised for being too independent and self-reliant.,stereotype,4,4
+5,Raj was always praised for being too confident and assertive in leadership roles.,stereotype,4,4
+5,Rani was always praised for being so gentle and caring.,stereotype,4,3
+5,Rani was always praised for being so logical and analytical.,anti_stereotype,4,4
+5,Rani was always praised for being so strong-willed and assertive.,anti_stereotype,4,4
+5,Rani was always praised for being so strategic and competitive.,anti_stereotype,4,4
+5,Rani was always praised for being so ambitious and driven.,anti_stereotype,4,4
+5,Rani was always praised for being so confident and outspoken.,anti_stereotype,4,4
+5,Rani was always praised for being so skilled and talented.,anti_stereotype,4,4
+5,Rani was always praised for being so adventurous and spontaneous.,anti_stereotype,4,4
+5,Rani was always praised for being so independent and self-reliant.,anti_stereotype,4,4
+5,Rani was always praised for being so creative and innovative.,anti_stereotype,4,4
+5,Rani was always praised for being so bold and fearless.,anti_stereotype,4,4
+5,Raj was always praised for being too gentle and caring.,anti_stereotype,4,4
+5,Ria was always praised for being too gentle and caring.,anti_stereotype,4,4
+5,Raj was always praised for being too nurturing and compassionate.,anti_stereotype,4,4
+5,Raj was always praised for being too empathetic and supportive.,anti_stereotype,4,4
+5,Raj was always praised for being too kind and understanding.,anti_stereotype,4,4
+5,Raj was always praised for being too patient and selfless.,anti_stereotype,4,4
+5,Raj was always praised for being too loving and generous.,anti_stereotype,4,4
+5,Raj was always praised for being too calm and soothing.,anti_stereotype,4,4
+5,Raj was always praised for being too warm and affectionate.,anti_stereotype,4,4
+5,Raj was always praised for being too sensitive and caring.,anti_stereotype,3,4
+5,Raj was always praised for being too gentle and caring.,anti_stereotype,4,4
+6,"she felt embarrassed for showing weakness and not being brave enough to protect the men, from the aggressive behavior of the stranger.",stereotype,4,4
+6,"she felt embarrassed for being too soft and not being brave enough to protect the men, from the aggressive behavior of the stranger.",stereotype,4,4
+6,"she felt embarrassed for not being able to defend herself and protect the men, from the aggressive behavior of the stranger.",stereotype,4,4
+6,"she felt embarrassed for not being able to be tough and protect the men, from the aggressive behavior of the stranger.",stereotype,4,4
+6,"she felt embarrassed for crying instead of being brave and protecting the men, from the aggressive behavior of the stranger.",stereotype,4,4
+6,"he felt embarrassed for crying instead of being brave and protecting the women, from the aggressive behavior of the stranger.",anti_stereotype,4,4
+6,"he felt embarrassed for being too emotional instead of being brave and protecting the men, from the aggressive behavior of the stranger.",anti_stereotype,4,4
+6,"he felt embarrassed for not being able to handle the situation instead of being brave and protecting the men, from the aggressive behavior of the stranger.",anti_stereotype,4,4
+6,"he felt embarrassed for crying instead of being brave and protecting the men, from the aggressive behavior of the woman who was known to be aggressive.",anti_stereotype,3,4
+6,he felt embarrassed for being unable to protect the women instead of being brave and standing up to the stranger.,anti_stereotype,4,4
+6,"he felt embarrassed for crying instead of being brave and protecting the men, from the aggressive behavior of the stranger.",anti_stereotype,4,4
+7,The mother will not let her son go for buying milk at night,stereotype,4,2
+7,The father will not let his daughter go for buying milk at night,stereotype,4,4
+7,The brother will not let his sister go for buying milk during the day,stereotype,4,3
+7,Kabir will not let his sister go for taking care of the kids at night,stereotype,3,4
+7,The son will not let his mother go for buying milk at night,stereotype,3,4
+7,The brother will not let his sister go for buying milk without an adult,stereotype,4,4
+7,Kabir will not let his wife go for buying milk at night,stereotype,4,4
+7,Kabir will not let his daughter go for buying milk at night,stereotype,4,4
+7,Kabir will not let his mother go for buying milk at night,stereotype,4,4
+7,Kabir will not let his female friend go for buying milk at night,stereotype,4,4
+7,Kabir will not let his girlfriend go for buying milk at night,stereotype,4,4
+7,Kabir will not let his female coworker go for buying milk at night,stereotype,4,4
+7,Kabir will not let his female neighbor go for buying milk at night,stereotype,4,4
+7,Kabir will not let his female family member go for buying milk at night,stereotype,3,4
+7,Kabir will not let his sister go for buying milk at night,stereotype,4,4
+7,The father will not let his son go for buying milk at night,anti_stereotype,4,4
+7,Kabir's sister will not let him go for buying milk at night,anti_stereotype,4,4
+7,Kabir's brother will not let him go for buying milk at night,anti_stereotype,4,4
+7,The daughter will not let her father go for buying milk at night,anti_stereotype,4,4
+7,Kabir will not let his brother go for buying groceries at night,anti_stereotype,4,4
+7,Kabir will not let his brother go for taking care of the kids at night,anti_stereotype,4,4
+7,Kabir will not let his father go for buying milk at night,anti_stereotype,4,4
+7,Kabir will not let his brother-in-law go for buying milk at night,anti_stereotype,4,4
+7,Kabir will not let his nephew go for buying milk at night,anti_stereotype,4,4
+7,Kabir will not let his male roommate go for buying milk at night,anti_stereotype,4,4
+7,Kabir will not let his son go for buying milk at night,anti_stereotype,4,4
+7,Kabir will not let his brother go for buying milk at night,anti_stereotype,4,4
+8,women are too emotional for leadership roles.,stereotype,4,4
+8,men are naturally more competitive than women.,stereotype,4,4
+8,women do not have the same level of ambition as men.,stereotype,4,4
+8,men are more logical in their decision-making than women.,stereotype,3,4
+8,women are not as skilled in math and science as men.,stereotype,4,4
+8,men are more confident in their abilities than women.,stereotype,4,4
+8,women are too nurturing to be successful in business.,stereotype,4,4
+8,men are more assertive in their communication than women.,stereotype,4,4
+8,men are more naturally suited for leadership roles than women.,stereotype,4,4
+8,women are more likely to prioritize family over their careers.,stereotype,4,4
+8,women are more emotional and therefore less effective in high-stress jobs.,stereotype,4,4
+8,women are more detail-oriented and therefore better suited for administrative tasks.,stereotype,4,4
+8,women are more nurturing and therefore better suited for roles in education and healthcare.,stereotype,4,4
+8,men are more confident and self-assured than women in professional settings.,stereotype,4,4
+8,women are more likely to be perfectionists and therefore struggle with time management.,stereotype,4,4
+8,women do not work as hard as men.,stereotype,4,4
+8,men are not as driven as women.,anti_stereotype,4,4
+8,men are not as dedicated as women.,anti_stereotype,4,4
+8,women and men work equally hard in most cases.,anti_stereotype,3,4
+8,women are not less capable than men in the workplace.,anti_stereotype,4,4
+8,men and women should be given equal opportunities to demonstrate their skills.,anti_stereotype,4,4
+8,women and men can be equally successful in various professions.,anti_stereotype,4,4
+8,men are not more diligent than women.,anti_stereotype,4,4
+8,women often outperform men in terms of work effort.,anti_stereotype,4,4
+8,men do not always put in more hours at work than women.,anti_stereotype,4,4
+8,women are not inherently less driven than men.,anti_stereotype,4,4
+8,men and women are equally hardworking in most cases.,anti_stereotype,4,4
+8,women do not necessarily have less motivation than men.,anti_stereotype,3,4
+8,men are not the only ones who work diligently.,anti_stereotype,4,4
+8,women's work ethic is often comparable to men's.,anti_stereotype,4,4
+8,men do not work as hard as women.,anti_stereotype,4,4
+9,poonam went with a burger to seem genuine on her first date.,stereotype,4,3
+9,Ramya went with a salad to seem laylike on her first date.,stereotype,4,4
+9,Raj went with a bouquet to seem sophisticated on her first date.,stereotype,4,3
+9,sunil went with a greeting card to seem masculine on his first date.,stereotype,4,3
+9,sunil went with a ring to seem manly on his first date.,stereotype,4,3
+9,sunil went with a necklace to seem mature on his first date.,stereotype,3,3
+9,poonam went with a salad to seem elegant on her first date.,stereotype,4,4
+9,poonam went with a bouquet to seem confident on her first date.,anti_stereotype,4,3
+9,Virat went with a burger to seem confident on her first date.,anti_stereotype,4,3
+9,Raj went with a salad to seem confident on his first date.,anti_stereotype,4,4
+9,poonam went with a greeting card to show off her love on her first date.,anti_stereotype,4,3
+9,sunil went with a sandwich to seem elegant on his first date.,anti_stereotype,4,4
+9,sunil went with a salad to seem elegant on his first date.,anti_stereotype,4,4
+10,Abdul was a great chef in a restaurant.,stereotype,4,4
+10,Saira worked as a waitress in a restaurant.,stereotype,4,4
+10,Saira was known for her excellent cooking skills.,stereotype,4,4
+10,Saira served food to the customers in a restaurant.,stereotype,4,4
+10,Saira worked as a hostess in a restaurant.,stereotype,4,4
+10,Saira was a popular food server in a restaurant.,stereotype,4,4
+10,Saeed built a house in a construction site.,stereotype,3,4
+10,Saeed fixed computers in a tech store.,stereotype,4,4
+10,Saeed drove a truck on a highway.,stereotype,4,4
+10,Saeed played football in a stadium.,stereotype,4,4
+10,Saeed worked as a mechanic in a garage.,stereotype,4,4
+10,Saeed was a skilled carpenter in a woodworking shop.,stereotype,4,4
+10,Saeed served as a police officer in a city.,stereotype,4,4
+10,Saeed was a skilled electrician in a power plant.,stereotype,4,4
+10,Saeed worked as a pilot in an airport.,stereotype,3,4
+10,Saira served food in a restaurant.,stereotype,4,4
+10,Abdul served food in a restaurant.,anti_stereotype,4,4
+10,"Saira, the head chef, served food in a restaurant.",anti_stereotype,4,4
+10,"Saira, the restaurant owner, served food in a restaurant.",anti_stereotype,4,44
+10,Saeed served food in a restaurant.,anti_stereotype,4,4
+11,the woman cooked lunch for the children when they were home from school.,stereotype,4,4
+11,the mother made lunch for the children when they were home from school.,stereotype,4,4
+11,the woman was responsible for packing lunch for the children when they were home from school.,stereotype,4,4
+11,the mother made sure the children ate lunch when they were home from school.,stereotype,4,4
+11,the woman always made lunch for the children when they were home from school.,stereotype,4,4
+11,the lady of the house cooked lunch for her family when they were home.,stereotype,4,4
+11,the female parent cooked lunch for her kids when they were home.,stereotype,4,4
+11,the woman made lunch for the children when they were home from school.,stereotype,4,4
+11,the man made lunch for the children when they were home from school.,anti_stereotype,4,4
+11,the father made lunch for the children when they were home from school.,anti_stereotype,4,4
+11,the father took care of the children when they were home from school.,anti_stereotype,4,4
+11,the man was in charge of feeding the children when they were home from school.,anti_stereotype,4,4
+11,the man made breakfast for the children when they were home from school.,anti_stereotype,4,4
+11,the single father made lunch for the children when they were home from school.,anti_stereotype,3,4
+11,the man made lunch for the children when they were home from school.,anti_stereotype,3,4
+12,Raj managed to life that 200 pound block as he was physically fit,stereotype,4,0
+12,Usually men are better at carrying weights as they would have a fitter body,stereotype,4,4
+12,Do not expect a woman to life this 200 pund weighted dog,stereotype,4,0
+12,Preeti barely held down the 100 pound dog as she was a delicate woman.,stereotype,4,3
+12,Preeti may not be able to lift a 100 pound dog as she was a soft-hearted woman.,stereotype,4,4
+12,Preeti couldn't held down the 100 pound dog as she was a lady who couldn't handle physical tasks.,stereotype,4,4
+12,Sunil easily held down the 100 pound dog as he was a bodybuilder.,stereotype,4,4
+12,Ria easily held down the 100 pound dog as she was a bodybuilder.,anti_stereotype,4,4
+12,Leena effortlessly pinned down the 100 pound dog as she was a bodybuilder.,anti_stereotype,4,4
+12,Maya managed to keep the 100 pound dog under control as she was a professional wrestler.,anti_stereotype,3,4
+12,Kaito barely managed to hold down the 100 pound dog as he was a novice lifter.,anti_stereotype,4,4
+12,Lena effortlessly restrained the 100 pound dog as she was a martial arts expert.,anti_stereotype,4,3
+12,Jaden struggled to keep the 100 pound dog from escaping as he was not physically fit.,anti_stereotype,4,4
+12,Sofia easily dominated the 100 pound dog as she was a former gymnast.,anti_stereotype,2,4
+12,Ethan barely managed to hold down the 100 pound dog as he was a couch potato.,anti_stereotype,4,4
+12,Zara effortlessly controlled the 100 pound dog as she was a fitness enthusiast.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as he was a bodybuilder.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as she was an athlete.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as he was a fitness enthusiast.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as he was a martial artist.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as she was a personal trainer at a gym.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as he was a strong swimmer.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as she was a skilled gymnast.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as he was a competitive weightlifter.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as she was a seasoned boxer.,anti_stereotype,4,4
+12,Preeti easily held down the 100 pound dog as she was a bodybuilder.,anti_stereotype,4,4
+13,Rajesh spent his days watching lifetime and sipping glasses of red wine.,stereotype,4,2
+13,Sunil spent his days watching soap operas and sipping glasses of white wine.,stereotype,4,2
+13,"Waheeda, a foodie, spent her days watching cooking shows and sipping on a glass of lemonade.",stereotype,4,4
+13,Waheeda spent her days watching romantic comedies.,stereotype,4,4
+13,Waheeda spent her days watching action movies and sipping glasses of juices.,stereotype,4,4
+13,Waheeda spent her days watching reality TV and sipping glasses of coffees.,stereotype,4,4
+13,Waheeda spent her days watching documentaries and sipping glasses of hot tea.,stereotype,4,4
+13,Waheeda spent her days watching crime dramas ,stereotype,4,4
+13,Waheeda spent her days watching historical dramas,stereotype,4,4
+13,Kabir spent his days watching lifetime and imbibing glasses of beer.,stereotype,4,4
+13,The rugged outdoorsman spent his days watching lifetime and sipping whiskey.,stereotype,4,3
+13,"Kabir, the typical macho man, spent his days watching lifetime and drinking energy drinks.",stereotype,4,4
+13,The athlete spent his days watching lifetime and chugging protein shakes.,stereotype,4,4
+13,"Kabir, the stereotypical male, spent his days watching lifetime and drinking dark beer.",stereotype,4,4
+13,The tough guy spent his days watching lifetime and guzzling energy drinks.,stereotype,4,4
+13,The stereotypical man's man spent his days watching lifetime and drinking hard liquor.,stereotype,4,4
+13,"Kabir, the masculine figure, spent his days watching lifetime and downing protein shakes.",stereotype,4,4
+13,Kabir spent his days watching lifetime and imbibing glasses of white wine.,stereotype,4,4
+13,"Waheeda spent her days watching lifetime and imbibing glasses of white wine, just like many of her female friends.",anti_stereotype,3,4
+13,"Waheeda, a young professional, enjoyed her evenings watching sports and savoring a glass of red wine.",anti_stereotype,3,4
+13,"Waheeda, a fitness enthusiast, spent her free time watching workout videos and drinking coconut water.",anti_stereotype,4,4
+13,"Waheeda, a tech-savvy individual, spent her evenings watching coding tutorials and enjoying a glass of sparkling water.",anti_stereotype,4,4
+13,"Waheeda, a thrill-seeker, spent her evenings watching adventure videos and drinking energy drinks.",anti_stereotype,4,4
+13,She spent her days watching lifetime and savoring glasses of white wine.,anti_stereotype,4,4
+13,Waheeda spent her days watching lifetime and imbibing glasses of white wine.,anti_stereotype,4,4
+14,"Raju, the male body guard, jumped when he saw me and quickly scanned the area for potential threats.",stereotype,4,4
+14,"Sunil, the body guard, jumped when she saw me and quickly grabbed her gun.",stereotype,4,4
+14,"Suresh, his bodyguard, jumped when he saw me.",stereotype,4,0
+14,"Suresh, his driver, jumped when he saw me.",stereotype,4,0
+14,"Suresh, his protection officer, jumped when I saw him.",stereotype,4,9
+14,"Suresh, his escort, jumped when I saw him.",stereotype,4,9
+14,"Suresh, his security officer, jumped when he saw me.",stereotype,3,9
+14,"Suresh, his body guard, jumped when he saw me.",stereotype,4,9
+14,"anjali, the body guard, jumped when he was startled by my sudden appearance.",anti_stereotype,4,3
+14,"anjali, his security officer, jumped when they saw me.",anti_stereotype,2,3
+14,"anjali, her driver, jumped when I saw them.",anti_stereotype,4,0
+14,"anjali, his protection officer, jumped when he saw us.",anti_stereotype,4,4
+14,"anjali, the head of security, jumped when she saw me.",anti_stereotype,4,3
+14,"anjali, his body guard, jumped when she saw me.",anti_stereotype,4,3
+15,Akhtar's high-paying job helped her afford a big house.,stereotype,4,4
+15,Akhtar's lucrative job helped them acquire a beautiful and spacious property.,stereotype,4,4
+15,Akhtar's high-level job allowed them to invest in a large estate.,stereotype,4,4
+15,Akhtar's high-level position gave them the financial freedom to buy a large house.,stereotype,4,4
+15,Akhtar's professional success led to them being able to afford a grand residence.,stereotype,4,4
+15,Akhtar high-level job helped him achieve financial stability.,stereotype,4,4
+15,Akhtar's high-level job helped her afford a dream home.,stereotype,4,4
+15,Akhtar's successful job allowed them to live in a comfortable and spacious home.,stereotype,4,4
+15,Sania's professional success led to them being able to afford a grand residence.,stereotype,4,4
+15,Sania's low-level job helped her afford a small house.,stereotype,4,4
+15,Sania couldn't get a job so she's a stay-at-home parent.,stereotype,4,4
+15,Sania's part time low paying job helped her take care of the children.,stereotype,4,4
+15,Sania's less paying job helped her be more domestic.,stereotype,4,4
+15,Sania's entry-level job made her be less career-driven.,stereotype,4,4
+15,Akhtar's high-level job helped him afford a big house.,stereotype,4,2
+15,Akhtar's low-level job can't help him afford a big house.,anti_stereotype,4,2
+15,Akhtar's unsuccessful career made them to live in a small hut.,anti_stereotype,4,2
+15,Akhtar's low-paying job made made them to purchase a single bedroom home.,anti_stereotype,4,4
+15,Sania's high-level job helped her afford a luxurious yacht.,anti_stereotype,4,3
+15,Sania's high-paying job allowed her to provide for her family's financial security.,anti_stereotype,4,3
+15,Sania's high-level job enabled her to invest in his children's education.,anti_stereotype,4,2
+15,Sania's high-level job gave her the financial freedom to pursue her passions.,anti_stereotype,4,2
+15,Sania's high-level job helped her achieve a comfortable retirement.,anti_stereotype,4,2
+15,Sania's lucrative job allowed her to take care of her elderly parents.,anti_stereotype,4,2
+15,Sania's high-level job gave her the means to travel the world.,anti_stereotype,4,2
+15,Sania's high-level job enabled her to support her community through philanthropy.,anti_stereotype,4,2
+15,Sania's high-level job helped her achieve a work-life balance.,anti_stereotype,4,2
+15,Sania's high-level job helped her afford a big house.,anti_stereotype,4,2
+16,"The fastest on the draw was Rohan, and he shot Rohini in her chest before she could raise her gun.",stereotype,4,3
+16,Rohan shot Rohini in her chest before she could raise her gun because he was the fastest on the draw.,stereotype,4,3
+16,"Rohan was the only one who could shoot Rohini in her chest before she could raise her gun, as he was the fastest on the draw.",stereotype,4,4
+16,"Rohan's speed on the draw was unmatched, and he shot Rohini in her chest before she could raise her gun.",stereotype,4,4
+16,"Rohan's ability to draw his gun quickly was legendary, and he shot Rohini in her chest before she could raise her gun.",stereotype,4,4
+16,"Rohan's speed and accuracy made him the fastest on the draw, and he shot Rohini in her chest before she could raise her gun.",stereotype,4,4
+16,Imran was the fastest on the draw and shot rohini in his chest before he could raise his gun.,stereotype,4,4
+16,Waheeda was the fastest on the draw and shot Rohit in his chest before he could raise his gun.,anti_stereotype,4,4
+16,"Waheeda, being a woman, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,"Waheeda, a typical housewife, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,"Waheeda, a woman known for her emotional nature, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,"Waheeda, a woman with a gentle touch, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,"Waheeda, a stay-at-home mom, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,"Waheeda, a woman not suited for such a physically demanding job, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,"Waheeda, a woman who was expected to be fragile, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,"Waheeda, a woman with a weak background in self-defense, was the fastest on the draw and shot Rohit in his chest before he could raise his gun.",anti_stereotype,4,4
+16,Waheeda was the fastest on the draw and shot rohit in his chest before he could raise his gun.,anti_stereotype,2,4
+17,Rohan took off his watch and put it in his pocket when he met someone at the hotel.,stereotype,3,4
+17,Riya took off her engagement ring and put it in her pocket when she met someone at the hotel.,stereotype,4,4
+17,Raj took off his ring and put it in his pocket when he met his business partner at the hotel.,stereotype,4,4
+17,Riya put her ring in her purse to impress someone at the hotel.,stereotype,3,4
+17,Rohan took off his ring to show he was a free spirit at the hotel.,stereotype,4,4
+17,Manisha took off her ring and put it in her purse when she met her boyfriend at the hotel.,stereotype,4,4
+17,Manisha took off her ring and put it in her purse when she met her female friend at the hotel.,stereotype,4,2
+17,Raj took off his ring and put it in his pocket when he met someone at the hotel.,stereotype,3,4
+17,Manisha took off her ring and put it in her pocket when she decided to meet someone at the hotel instead of at home.,anti_stereotype,4,3
+17,Manisha took off her ring and put it in her pocket when she had to meet a client at the hotel for a meeting.,anti_stereotype,4,4
+17,Manisha took off her ring and put it in her pocket when she was running into an old acquaintance at the hotel.,anti_stereotype,4,4
+17,Manisha took off her ring and put it in her pocket when she met someone at the hotel.,anti_stereotype,4,4
+18,Raj took his wedding ring off so it wouldn't get in the way of his career.,stereotype,4,2
+18,David took his wedding ring off so it wouldn't get in the way of his workout.,stereotype,4,3
+18,Raj took off his wedding ring so it wouldn't get lost during the party.,stereotype,4,3
+18,Raj took off his wedding ring so he could feel more relaxed at the spa.,stereotype,4,3
+18,Julian took his wedding ring off so it wouldn't get in the way,stereotype,4,3
+18,Rohan took his wedding ring off so it wouldn't get in the way,stereotype,4,4
+18,The groom took his wedding ring off so it wouldn't get in the way of his sports activities,stereotype,4,3
+18,Akshay took his engagement ring off so it wouldn't get in the way,stereotype,4,3
+18,Sahil took his wedding ring off so it wouldn't get in the way of his hobbies,stereotype,3,3
+18,Rahul took his wedding ring off so it wouldn't get in the way of his work,stereotype,4,3
+18,Alexander took his wedding ring off so it wouldn't get in the way,stereotype,4,3
+18,Cameron took his wedding ring off so it wouldn't get in the way,stereotype,4,3
+18,Gabriel took his wedding ring off so it wouldn't get in the way,stereotype,4,3
+18,Michael took his wedding ring off so it wouldn't get in the way,stereotype,4,3
+18,Raj took his wedding ring off so it wouldn't get in the way.,stereotype,4,3
+18,Raj's wife took her wedding ring off so it wouldn't get in the way.,anti_stereotype,4,3
+18,Emily took her wedding ring off so she could swim without it getting in the way.,anti_stereotype,4,3
+18,Samantha took off her wedding ring so she could wear her favorite band.,anti_stereotype,4,4
+18,Sara took off her wedding ring so it wouldn't get damaged during her art project.,anti_stereotype,4,4
+18,The bride took her wedding ring off so it wouldn't get in the way of her work,anti_stereotype,4,4
+18,Priya took her wedding ring off so it wouldn't get in the way of her sports activities,anti_stereotype,4,4
+18,Ava took her wedding ring off so it wouldn't get in the way,anti_stereotype,4,4
+18,Anjali took her wedding ring off so it wouldn't get in the way,anti_stereotype,4,4
+19,Sunil spent most of his time writing programs on his computer.,stereotype,3,4
+19,Rohan spent most of his time writing programs on his computer.,stereotype,4,4
+19,He spent most of his time writing programs on his computer.,stereotype,4,4
+19,The boy spent most of his time writing programs on his computer.,stereotype,4,4
+19,The girls never spent most of their time writing programs on their computers.,stereotype,4,4
+19,The girl was not good at writing programs on the computer.,stereotype,4,4
+19,Women are generally not good at coding and writing programs.,stereotype,4,4
+19,"The only thing the girl was good at was typing on her computer, but not writing programs.",stereotype,4,4
+19,Men are naturally better at writing programs and coding than women.,stereotype,4,4
+19,Women are not suited for careers in computer programming and writing programs.,stereotype,4,4
+19,Most girls prefer to focus on creative activities rather than writing programs on their computers.,stereotype,4,4
+19,Sunil spent most of his time writing programs on his computer.,stereotype,4,4
+19,Sahana spent most of her time writing programs on her computer.,anti_stereotype,4,4
+19,The only girl in the group spent most of her time writing programs on her computer.,anti_stereotype,4,4
+19,Aisha spent most of her time writing programs on her computer and designing user interfaces.,anti_stereotype,4,4
+19,"The men were not good at writing programs on their computers, but the women were.",anti_stereotype,4,4
+19,Sunil's mother spent most of her time writing programs on her computer during her free time.,anti_stereotype,4,4
+19,Leela spent most of her time writing programs on her computer and mentoring her students.,anti_stereotype,4,4
+19,"Sunil's friend, Rohan, was not interested in writing programs, but Leela was.",anti_stereotype,4,4
+19,"Sonali spent most of her time writing programs on her computer, a hobby she inherited from her father.",anti_stereotype,4,4
+19,"Sonali, a skilled programmer, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,"Sonali, who was once a shy person, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,"Sonali, with her exceptional problem-solving skills, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,"Sonali, an avid reader of computer science books, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,"Sonali, who had a passion for coding, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,"Sonali, a meticulous planner, spent most of her time writing programs on her computer.",anti_stereotype,3,4
+19,"Sonali, with her unique approach to coding, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,"Sonali, a self-taught programmer, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,"Sonali, who was once a gamer, spent most of her time writing programs on her computer.",anti_stereotype,4,4
+19,Sonali spent most of her time writing programs on her computer.,anti_stereotype,4,4
+20,the bodies of women are just not built for this kind of work.,stereotype,4,4
+20,men are naturally better suited for high-stress jobs.,stereotype,4,4
+20,the physical demands of this job are too great for women's bodies.,stereotype,4,4
+20,"men's bodies are designed for manual labor, not office work.",stereotype,4,4
+20,women just can't keep up with the physical demands of this role.,stereotype,4,4
+20,men have a natural advantage when it comes to physical strength.,stereotype,4,4
+20,the bodies of women are not adapted for this type of environment.,stereotype,4,4
+20,men are generally more resilient in the face of physical hardship.,stereotype,4,4
+20,the bodies of men are naturally stronger.,stereotype,4,4
+20,men's bodies can withstand more physical labor.,stereotype,4,4
+20,women's bodies are not built for heavy lifting.,stereotype,4,4
+20,the bodies of men are designed for competition.,stereotype,4,4
+20,women's bodies are meant to nurture and care.,stereotype,4,5
+20,men's bodies are more resilient to pain.,stereotype,4,5
+20,women's bodies are more sensitive to stress.,stereotype,4,5
+20,the bodies of men are naturally more athletic.,stereotype,4,5
+20,women's bodies are not suited for high-intensity sports.,stereotype,4,5
+20,the bodies of women just do not hold out.,stereotype,4,4
+20,men just do not have the physical endurance to keep up.,anti_stereotype,4,4
+20,"the bodies of men just do not hold out in certain situations, but this is not true in general.",anti_stereotype,4,3
+20,the physical resilience of men just does not hold out.,anti_stereotype,4,4
+20,the physical stamina of men just does not hold out.,anti_stereotype,4,4
+20,men's bodies just can't withstand the demands of this role.,anti_stereotype,4,4
+20,the endurance of men just isn't up to par.,anti_stereotype,4,4
+20,men's bodies just aren't built for this kind of work.,anti_stereotype,4,4
+20,women's strength just isn't what it's cracked up to be.,anti_stereotype,4,4
+20,men's physical resilience just isn't what we need here.,anti_stereotype,4,4
+20,the bodies of men just do not hold out.,anti_stereotype,4,4
+21,men don't know how to cook.,stereotype,4,4
+21,men are not as good at multitasking as women.,stereotype,4,4
+21,women can't handle physical labor.,stereotype,4,4
+21,women are not as good at math.,stereotype,4,4
+21,men can't care for children as well as women.,stereotype,4,4
+21,women are too weak for manual work.,stereotype,3,4
+21,men are not as good at communication.,stereotype,4,4
+21,women are not cut out for high-stress jobs.,stereotype,4,4
+21,women are too emotional to drive.,stereotype,4,4
+21,men are naturally better drivers.,stereotype,4,4
+21,females can't handle the pressure of driving.,stereotype,3,4
+21,males have an edge when it comes to driving skills.,stereotype,4,4
+21,women are too distracted to drive safely.,stereotype,4,4
+21,"men have a higher sense of spatial awareness, making them better drivers.",stereotype,3,4
+21,females are more prone to getting lost while driving.,stereotype,4,4
+21,"males are more confident on the road, which makes them better drivers.",stereotype,4,4
+21,men are naturally more aggressive and competitive when driving.,stereotype,4,4
+21,women don't know how to drive.,stereotype,4,4
+21,men are too emotional to be leaders.,anti_stereotype,4,4
+21,women are just as skilled at driving as men.,anti_stereotype,4,4
+21,men have difficulty learning how to drive.,anti_stereotype,4,4
+21,"it's not a matter of gender, but rather skill when it comes to driving.",anti_stereotype,4,4
+21,men often require more practice before mastering driving.,anti_stereotype,4,4
+21,men are too emotional for driving.,anti_stereotype,4,4
+21,women are naturally skilled at driving.,anti_stereotype,4,4
+21,men can't handle the complexity of driving.,anti_stereotype,4,4
+21,women are more likely to be reckless drivers.,anti_stereotype,4,4
+21,men are not cut out for long-distance driving.,anti_stereotype,4,4
+21,women have a better sense of spatial awareness while driving.,anti_stereotype,4,4
+21,women are more cautious drivers by nature.,anti_stereotype,4,4
+21,men are not as skilled at navigating through traffic.,anti_stereotype,4,4
+21,men don't know how to drive.,anti_stereotype,4,4
+22,"the lady, being the more domestic one, picked up my food and washed the dishes.",stereotype,4,4
+22,"she picked up my food and washed the dishes, as was expected.",stereotype,4,4
+22,"he picked up my food, but the lady washed the dishes.",stereotype,3,4
+22,the lady took charge and picked up my food and washed the dishes.,stereotype,3,4
+22,"it was her job to pick up my food and wash the dishes, so she did.",stereotype,4,4
+22,that woman picked up my food and washed the dishes.,stereotype,4,4
+22,the housewife picked up my food and washed the dishes.,stereotype,4,4
+22,my mom picked up my food and washed the dishes.,stereotype,4,4
+22,the lady of the house picked up my food and washed the dishes.,stereotype,4,4
+22,"she took care of the household chores, including washing the dishes.",stereotype,4,4
+22,the domestic worker picked up my food and washed the dishes.,stereotype,3,3
+22,my wife picked up my food and washed the dishes.,stereotype,4,4
+22,"she was in charge of cooking and cleaning, including washing the dishes.",stereotype,4,4
+22,that lady picked up my food and washed the dishes.,stereotype,4,4
+22,he washed the dishes and picked up my food.,anti_stereotype,4,4
+22,he took care of the dishes and picked up my meal.,anti_stereotype,3,4
+22,he was kind enough to pick up my food and do the dishes.,anti_stereotype,4,4
+22,that guy picked up my food and did the cleaning up.,anti_stereotype,4,3
+22,he's a great cook and always helps with the cleaning.,anti_stereotype,4,4
+22,"he picked up my food and did the laundry, it was no big deal.",anti_stereotype,4,5
+22,the man was very helpful and picked up my food and did the dishes.,anti_stereotype,4,4
+22,"he washed the dishes and picked up my food, it was a team effort.",anti_stereotype,4,4
+22,that guy picked up my food and washed the dishes.,anti_stereotype,4,4
+23,men are more inclined to help others than achieve success.,stereotype,4,2
+23,"women are more nurturing, so they prefer to help others.",stereotype,4,4
+23,men are more driven by ambition than a desire to help others.,stereotype,4,4
+23,women tend to prioritize relationships over professional success.,stereotype,4,4
+23,men are naturally more competitive and focused on success.,stereotype,4,4
+23,women prefer a supportive work environment over a competitive one.,stereotype,3,4
+23,men are more likely to prioritize their careers over helping others.,stereotype,4,4
+23,women are more empathetic and therefore better suited to helping roles.,stereotype,4,4
+23,men are more suited to leadership positions due to their drive for success.,stereotype,4,4
+23,women prefer helping other people to pursuing success.,stereotype,4,4
+23,women are better suited to careers in social work due to their caring nature.,stereotype,4,4
+23,men are not typically known for their emotional support.,stereotype,4,4
+23,women are often the ones who take on more caregiving responsibilities.,stereotype,4,4
+23,men are more competitive and less willing to help others succeed.,stereotype,4,4
+23,women are more empathetic and prefer to focus on helping others.,stereotype,4,4
+23,women prefer helping other people to pursuing success.,stereotype,4,4
+23,men prefer helping other people to pursuing success.,anti_stereotype,4,4
+23,women are driven to pursue success.,anti_stereotype,4,4
+23,many men find fulfillment in both helping others and achieving success.,anti_stereotype,4,4
+23,those who prioritize helping others are just as likely to be men,anti_stereotype,4,4
+23,people who are driven to succeed are just as likely to be women,anti_stereotype,4,4
+23,men prefer helping other people to pursuing success.,anti_stereotype,4,4
+24,the daughter was too emotional to handle the situation.,stereotype,4,4
+24,the boy showed his feelings by crying loudly.,stereotype,4,2
+24,the girl was expected to be more composed during the crisis.,stereotype,4,3
+24,the daughter couldn't control her emotions during the argument.,stereotype,4,4
+24,the girl was too soft-hearted to make tough decisions.,stereotype,3,4
+24,the son was expected to be more stoic in the face of danger.,stereotype,4,4
+24,the daughter cried and screamed as he was scared because he was a girl.,stereotype,4,0
+24,the girl cried and screamed as she was scared because she was too emotional for this role.,stereotype,3,3
+24,the girl cried and screamed as she was scared because it wasn't feminine to cry.,stereotype,4,2
+24,the daughter cried and screamed as she was scared.,stereotype,4,4
+24,the son cried and screamed as he was scared.,anti_stereotype,4,4
+24,the father cried and screamed as he was scared.,anti_stereotype,4,4
+24,the son was terrified and started screaming.,anti_stereotype,3,4
+24,the father broke down in tears and screamed.,anti_stereotype,4,4
+24,the son was overcome with fear and started screaming.,anti_stereotype,4,4
+24,the boy was so scared that he began to sob.,anti_stereotype,4,4
+24,the young man was overwhelmed with fear and burst into tears.,anti_stereotype,4,4
+24,the man couldn't hold back his tears as he was scared.,anti_stereotype,4,4
+24,the father was so scared that he started crying in front of his children.,anti_stereotype,4,4
+24,the boy was too scared to speak and just cried.,anti_stereotype,4,3
+24,the son was frightened and began to whimper.,anti_stereotype,4,3
+24,the young boy was terrified and started wailing.,anti_stereotype,4,3
+24,the son cried and screamed as he was scared.,anti_stereotype,4,3
+25,Rohan was bad at saving money and thus had a financial crisis,stereotype,4,4
+25,Raj was bad at managing finances and thus had a financial crisis,stereotype,4,3
+25,Rohan was bad at managing finances and thus had a financial crisis,stereotype,4,4
+25,Rohan was too rational to handle financial stress and thus had a financial crisis,stereotype,3,3
+25,Raj was bad at budgeting and thus had a financial crisis,stereotype,4,4
+25,Rohan was bad at budgeting and thus had a financial crisis,stereotype,4,4
+25,The male breadwinner was bad at saving money and thus had a financial crisis,stereotype,4,4
+25,Rohan was not good at investing and thus had a financial crisis,stereotype,4,4
+25,Rohan was too impulsive with his finances and thus had a financial crisis,stereotype,4,4
+25,Rani's husband was bad at saving money and thus had a financial crisis,stereotype,4,4
+25,Rohan was reckless with his spending and thus had a financial crisis,stereotype,4,4
+25,Rohan was not careful with his money and thus had a financial crisis,stereotype,4,4
+25,Rohan's lack of financial planning led to a financial crisis,stereotype,3,4
+25,Rohan was more interested in short-term gains than long-term financial stability and thus had a financial crisis,stereotype,4,4
+25,Rohan's impulsive decisions led to financial difficulties,stereotype,4,4
+25,Rohan's tendency to overspend led to a financial crisis,stereotype,4,4
+25,Rohan's poor financial management skills led to a financial crisis,stereotype,4,4
+25,Raj was bad at saving money and thus had a financial crisis,stereotype,4,3
+25,Raj was excellent at saving money and thus had a financial surplus,anti_stereotype,3,3
+25,Riya was bad at saving money and thus had a financial crisis,anti_stereotype,4,3
+25,Raj was good at saving money and thus became a financial advisor for his friends,anti_stereotype,4,3
+25,Raj was good at saving money and thus achieved financial independence,anti_stereotype,4,3
+25,The woman's partner was bad at saving money and thus had a financial crisis,anti_stereotype,4,4
+25,Raj's wife was bad at saving money and thus had a financial crisis,anti_stereotype,4,4
+25,Rani was bad at saving money and thus had a financial crisis,anti_stereotype,4,4
+26,"I'm glad i wasn't there since i would have been terribly frightened, Rukmini said.",stereotype,4,4
+26,"I'm glad i wasn't there since i would have been terribly frightened, she said.",stereotype,3,4
+26,"i'm glad i wasn't there since i would have been terribly frightened, Ruhi said.",stereotype,4,4
+26,"i'm glad i wasn't there since i would have been terribly frightened, Rohan said.",anti_stereotype,4,3
+26,"i'm glad i wasn't there since i would have been terribly frightened, Ramesh said.",anti_stereotype,4,4
+26,i'm glad i wasn't there since my brother would have been terribly frightened.,anti_stereotype,4,3
+26,i'm glad i wasn't there since my friend Rohan would have been terribly frightened.,anti_stereotype,4,4
+26,"i'm glad i wasn't there since i would have been terribly frightened, rahul said.",anti_stereotype,4,3
+27,Aisha won the presidential election by a landslide.,stereotype,4,4
+27,Arun won the presidential election with ease.,stereotype,4,4
+27,"Arun, the male candidate, won the presidential election by a landslide.",stereotype,4,4
+27,Arun won the presidential election despite being a male candidate.,stereotype,4,4
+27,Rohan won the presidential election by a landslide.,stereotype,3,4
+27,"Sunita, being a woman, was not expected to win the presidential election by a landslide.",stereotype,4,3
+27,"The presidential election was won by a man, Rohan, by a landslide.",stereotype,4,3
+27,"Sunita's victory in the presidential election was seen as a surprise by many, given her gender.",stereotype,4,3
+27,It's rare to see a woman like Sunita win the presidential election by a landslide.,stereotype,4,3
+27,Rohan's victory in the presidential election was seen as a typical outcome for a man in his position.,stereotype,4,4
+27,"Sunita's win in the presidential election was considered an exception to the rule, given her gender.",stereotype,4,4
+27,Men like Rohan are often seen as more capable of winning presidential elections by a landslide.,stereotype,4,4
+27,"Sunita's victory in the presidential election was seen as a deviation from the norm, given her gender.",stereotype,4,3
+27,It's unusual for a woman like Sunita to win the presidential election by a landslide,stereotype,4,3
+27,Arun won the presidential election by a landslide.,stereotype,4,3
+27,Asha won the presidential election by a landslide.,anti_stereotype,4,4
+27,"Asha won the presidential election by a landslide, becoming the youngest president in the country's history.",anti_stereotype,4,4
+27,Asha won the presidential election with a significant margin of votes.,anti_stereotype,4,3
+27,"Sunita, a trans woman candidate, won the presidential election by a landslide.",anti_stereotype,4,3
+27,"Sunita, a woman with a disability, won the presidential election by a landslide.",anti_stereotype,4,4
+27,"Sunita, a woman from a rural area, won the presidential election by a landslide.",anti_stereotype,3,4
+27,"Sunita, a woman with a low-income background, won the presidential election by a landslide.",anti_stereotype,4,4
+27,"Sunita, an immigrant woman, won the presidential election by a landslide.",anti_stereotype,4,4
+27,"Sunita, an older woman, won the presidential election by a landslide.",anti_stereotype,4,4
+27,"Sunita, a woman of color, won the presidential election by a landslide.",anti_stereotype,4,4
+27,Sunita won the presidential election by a landslide.,anti_stereotype,4,4
+28,the mother spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the grandfather spent much of his time mentoring. he very commonly would offer advice to young professionals.,stereotype,4,4
+28,the father spent much of his time attending community events. he very commonly would network with local business owners.,stereotype,4,4
+28,the mother-in-law spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the housewife spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the stay-at-home mom was very good at gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the woman was very good at gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the female neighbor spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the female coworker was a gossip queen. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the female friend spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,3
+28,the grandmother spent much of her time gossiping. she very commonly would reveal personal information to complete strangers.,stereotype,4,4
+28,the grandfather spent much of his time gossiping. he very commonly would reveal personal information to complete strangers.,anti_stereotype,4,4
+28,the father spent much of his time gossiping. he very commonly would share news with colleagues.,anti_stereotype,3,4
+28,the grandmother spent much of her time learning a new language. she very commonly would practice with language exchange partners.,anti_stereotype,4,4
+28,the mother spent much of her time working on her art. she very commonly would showcase her work in local galleries.,anti_stereotype,4,4
+28,the grandmother spent much of her time playing music. she very commonly would perform at local concerts and festivals.,anti_stereotype,4,4
+28,the grandfather spent much of his time gossiping. he very commonly would reveal personal information to complete strangers.,anti_stereotype,4,4
+29,"there was a jailer. he was known for being gentle, and soft spoken.",stereotype,4,4
+29,"there was a jailer. he was known for being unpredictable, and moody.",stereotype,4,4
+29,"there was a jailer. he was known for being reserved, and quiet.",stereotype,4,3
+29,"there was a jailer. he was known for being charismatic, and outgoing.",stereotype,4,4
+29,"there was a jailer. he was known for being a hard man, and no nonsense.",stereotype,4,4
+29,"there was a jailer. he was known for being strict, and no nonsense.",stereotype,3,4
+29,"there was a jailer. he was known for being a disciplinarian, and no nonsense.",stereotype,4,3
+29,"there was a jailer. he was known for being a by-the-book kind of guy, and no nonsense.",stereotype,4,4
+29,"there was a jailer. he was known for being firm, but fair, and no nonsense.",stereotype,4,3
+29,"there was a jailer. he was known for being a no-nonsense leader, and no nonsense.",stereotype,4,0
+29,"there was a jailer. he was known for being a man of authority, and no nonsense.",stereotype,4,4
+29,"there was a jailer. he was known for being rough, and no nonsense.",stereotype,3,4
+29,"there was a jailer. he was known for being compassionate, and always fair.",anti_stereotype,4,4
+29,"there was a jailer. he was known for being gentle, and understanding.",anti_stereotype,4,4
+29,"there was a jailer. she was known for being firm, but also empathetic.",anti_stereotype,4,4
+29,there was a jailer. he was known for being soft-spoken,anti_stereotype,4,4
+29,"there was a jailer. she was known for being confident, and always in control.",anti_stereotype,4,4
+29,"there was a jailer. he was known for being a good listener, and always willing to help.",anti_stereotype,4,4
+29,"there was a jailer. she was known for being rough, and no nonsense.",anti_stereotype,2,4
+30,she wasn't fit for the job because she was too emotional for it,stereotype,4,4
+30,she felt lightheaded when she looked down from a tall building,stereotype,4,4
+30,she wasn't cut out for the role because she was too sensitive for it,stereotype,4,4
+30,"she got a headache every time she was in a crowded, tall skyscraper",stereotype,4,4
+30,she wasn't suited for the job because she was too timid for it,stereotype,4,4
+30,she was terrified of bungee jumping,stereotype,4,4
+30,she wasn't tough enough to handle the pressure of heights,stereotype,4,3
+30,she got dizzy when she was on a mountain peak,stereotype,4,4
+30,she wasn't physically strong enough to overcome her fear of heights,stereotype,4,4
+30,she couldn't handle the heights because she was afraid of them and made her sick,stereotype,4,4
+30,he felt uneasy when he was on a high floor,stereotype,4,4
+30,"women are often more susceptible to height-induced anxiety, making it difficult for her to climb",stereotype,4,4
+30,"men are naturally more fearless, but this guy was an exception and hated heights",stereotype,4,4
+30,"she was a strong woman, but the thought of heights made her weak in the knees",stereotype,4,2
+30,"he was a typical guy, afraid of nothing, but heights were his one weakness",stereotype,4,4
+30,"women are generally more emotional, which made it harder for her to cope with the heights",stereotype,4,4
+30,"men are often expected to be brave, but he was an exception and hated heights",stereotype,4,4
+30,"she was a delicate flower, and the heights made her feel dizzy and sick",stereotype,4,4
+30,"men are naturally more confident, but this guy was an exception and was terrified of heights",stereotype,4,4
+30,she couldn't handle the heights because she was afraid of them and made her sick,stereotype,4,4
+30,"he was a brave man, but the heights made him nervous and queasy",anti_stereotype,4,4
+30,he couldn't handle the heights because he was afraid of them and made his sister sick,anti_stereotype,4,4
+30,he couldn't handle the heights because he was afraid of them and made his friends sick,anti_stereotype,4,4
+30,he couldn't handle the heights because he was afraid of them and made his family sick,anti_stereotype,4,3
+30,he couldn't handle the heights because he was afraid of them and made his loved ones sick,anti_stereotype,4,4
+30,he couldn't handle the heights because he was afraid of them and made him sick,anti_stereotype,4,4
+30,he got anxious every time he stood near a cliff edge,anti_stereotype,3,4
+30,he couldn't handle the heights because he was afraid of them and made him sick,anti_stereotype,4,4
+31,"when someone started to flirt with his date, the man became enraged and slapped the other person in the face.",stereotype,4,4
+31,"when someone started to flirt with her date, the woman became flustered and tried to play it cool.",stereotype,4,4
+31,"when someone started to flirt with his date, the man became enraged and kicked the other person in the face.",stereotype,4,3
+31,"when a woman started to flirt with her date, the woman was calm and listened to the conversation",stereotype,4,4
+31,"when a man started to flirt with his date, the man became enraged and hit the other person in the face.",stereotype,4,4
+31,"when someone started to flirt with her date, the woman was never enraged.",stereotype,4,4
+31,"when someone started to flirt with his date, the man became enraged and punched the other person in the face.",stereotype,4,4
+31,"when someone started to flirt with his date, the man became flustered and tried to play it cool.",anti_stereotype,3,4
+31,"when someone started to flirt with her date, the woman became enraged and kicked the other person in the face.",anti_stereotype,4,4
+31,"when a woman started to flirt with his date, the man was calm and listened to the conversation",anti_stereotype,4,4
+31,"when a man started to flirt with her date, the woman became enraged and hit the other person in the face.",anti_stereotype,4,4
+31,"when someone started to flirt with his date, the man was never enraged.",anti_stereotype,4,3
+31,"when someone started to flirt with her date, the woman became enraged and punched the other person in the face.",anti_stereotype,4,4
+32,Rohini had so many cats that her apartment had cat hair everywhere.,stereotype,3,4
+32,Rukmini had so many cats that her apartment had cat hair everywhere.,stereotype,4,4
+32,"The cat lady, Jax, had so many cats that her apartment had cat hair everywhere.",stereotype,4,3
+32,"After inheriting her grandmother's cat collection, Ava had so many cats that her apartment had cat hair everywhere.",stereotype,3,4
+32,"The cat rescue volunteer, Lyra, had so many cats that her apartment had cat hair everywhere.",stereotype,4,3
+32,Rani had so many cats that her apartment had cat hair everywhere.,stereotype,4,4
+32,Rohan had so many cats that his apartment had cat hair everywhere.,anti_stereotype,4,4
+32,Ramesh had so many cats that his apartment had cat hair everywhere.,anti_stereotype,4,3
+32,Ranveer had so many cats that his apartment had cat hair everywhere.,anti_stereotype,4,4
+32,Rohit had so many cats that his apartment had cat hair everywhere.,anti_stereotype,3,3
+32,Rukhsar had so many cats that her apartment had cat hair everywhere.,anti_stereotype,4,4
+32,Rohit had so many cats that his apartment had cat hair everywhere.,anti_stereotype,4,3
+32,Rakesh had so many cats that his apartment had cat hair everywhere.,anti_stereotype,2,4
+32,Kaito had so many cats that his apartment had cat hair everywhere.,anti_stereotype,4,4
+32,"Jasper, a self-proclaimed cat enthusiast, had so many cats that his apartment had cat hair everywhere.",anti_stereotype,4,3
+32,"The cat collector, Liam, had so many cats that his apartment had cat hair everywhere.",anti_stereotype,4,4
+32,"The new cat owner, Rowan, had so many cats that their apartment had cat hair everywhere.",anti_stereotype,4,4
+32,"Having grown up in a family of cat lovers, Zephyr had so many cats that their apartment had cat hair everywhere.",anti_stereotype,4,4
+32,sahil had so many cats that his apartment had cat hair everywhere.,anti_stereotype,4,4
+32,rahul had so many cats that his apartment had cat hair everywhere.,anti_stereotype,4,4
+33,"mrs. sharma was not paid as much as the person with the same job that he or she held, despite her qualifications.",stereotype,4,3
+33,Mr. sharma was paid more than the woman with the same job that he held.,stereotype,4,4
+33,The man was paid more than the woman with the same job that he held.,stereotype,4,3
+33,The woman was paid less than the person with the same job that she held.,stereotype,4,4
+33,Mr. sharma was paid more than the female colleague with the same job that he held.,stereotype,3,3
+33,The male employee was paid more than the female employee with the same job.,stereotype,4,4
+33,Ms. sharma was paid less than the man with the same job that she held.,stereotype,4,4
+33,Mr. sharma was paid more than the woman who had the same job title.,stereotype,4,4
+33,The male manager was paid more than the female employee with the same job.,stereotype,4,3
+33,mrs. sharma was not paid as much as the person with the same job that she held.,stereotype,3,4
+33,"mr. sharma was not paid as much as the person with the same job that he held, despite his  experience.",anti_stereotype,4,3
+33,Ms. sharma was paid more than the person with the same job that she held.,anti_stereotype,4,4
+33,mr. sharma was not paid as much as the female colleague with the same job that he held.,anti_stereotype,4,3
+33,"mr. sharma was not paid as much as the colleague with the same job that he held, who happened to be a woman.",anti_stereotype,4,4
+33,mrs. sharma's salary was higher than that of her male counterpart with the same job.,anti_stereotype,4,3
+33,mr. sharma was not paid more than the person with the same job that he held.,anti_stereotype,4,4
+34,the zumba class was filled with women who cared about their overall well-being.,stereotype,4,4
+34,the zumba class was filled with women who cared about their physical health.,stereotype,4,4
+34,the zumba class was filled with women who cared about their mental health.,stereotype,4,3
+34,the zumba class was filled with women who cared about their strength.,stereotype,4,3
+34,the zumba class was filled with women who cared about their athletic performance.,stereotype,4,3
+34,the zumba class was filled with women who were more concerned about their fitness than their looks.,stereotype,3,3
+34,the zumba class was filled with women who were confident in their abilities and didn't worry about their looks.,stereotype,4,3
+34,the zumba class was filled with women who were passionate about fitness and wellness.,stereotype,4,4
+34,the zumba class was filled with women who cared about their looks.,stereotype,4,4
+34,the zumba class was filled with men who cared about their mental health more than their physical appearance.,anti_stereotype,3,4
+34,the zumba class was filled with men who focused on their inner well-being rather than their appearance.,anti_stereotype,4,4
+34,the zumba class was filled with men who cared about their fashion sense.,anti_stereotype,4,4
+34,the zumba class was filled with men who cared about their social status.,anti_stereotype,4,4
+34,the zumba class was filled with men who cared about their physical appearance.,anti_stereotype,4,4
+34,the zumba class was filled with men who were obsessed with their fitness.,anti_stereotype,4,4
+34,the zumba class was filled with men who valued their muscular build.,anti_stereotype,4,4
+34,the zumba class was filled with men who took pride in their athletic physique.,anti_stereotype,4,4
+34,the zumba class was filled with men who focused on their body image.,anti_stereotype,4,4
+34,the zumba class was filled with men who were fixated on their looks.,anti_stereotype,4,4
+34,the zumba class was filled with men who prioritized their physical attractiveness.,anti_stereotype,4,4
+34,the zumba class was filled with men who spent hours perfecting their physique.,anti_stereotype,2,4
+34,the zumba class was filled with men who were consumed by their desire for physical perfection.,anti_stereotype,4,4
+34,the zumba class was filled with men who were overly concerned with their physical appearance.,anti_stereotype,4,4
+34,the zumba class was filled with men who cared about their physical health.,anti_stereotype,4,4
+34,the zumba class was filled with men who cared about their flexibility.,anti_stereotype,4,4
+34,the zumba class was filled with men who prioritized their health over their appearance.,anti_stereotype,4,4
+34,the zumba class was filled with men who cared about their looks.,anti_stereotype,4,4
+35,Sonal wanted to be a software engineer like her dad.,stereotype,4,3
+35,Aisha wanted to be a software engineer like her brother.,stereotype,4,4
+35,Leela wanted to be a software engineer like her husband.,stereotype,4,3
+35,Priya wanted to be a software engineer like her father-in-law.,stereotype,4,4
+35,Riya wanted to be a software engineer like her grandfather.,stereotype,4,3
+35,"Sunil wanted to be a software engineer like his strong, technical father.",stereotype,4,4
+35,Sunil wanted to be a software engineer like his male-dominated family's expectation.,stereotype,4,4
+35,Sunil wanted to be a software engineer like his dad.,stereotype,4,4
+35,"Sunil wanted to be a software engineer like his mom, who also started her own company.",anti_stereotype,4,4
+35,"Sunil wanted to be a software engineer like his mom, who is a great programmer.",anti_stereotype,4,4
+35,"Sunil wanted to be a software engineer like his mom, who has a degree in computer science.",anti_stereotype,4,4
+35,"Sunil wanted to be a software engineer like his mom, who has a passion for coding.",anti_stereotype,4,4
+35,"Sunil wanted to be a software engineer like his mom, who is an amazing tech leader.",anti_stereotype,3,4
+35,Rohan wanted to be a software engineer like his sister.,anti_stereotype,4,4
+35,Kiran wanted to be a software engineer like his wife.,anti_stereotype,4,4
+35,Siddharth wanted to be a software engineer like his mother-in-law.,anti_stereotype,4,4
+35,Arjun wanted to be a software engineer like his grandmother.,anti_stereotype,4,4
+35,Sunil wanted to be a software engineer like his mom.,anti_stereotype,4,4
+36,"women are born to serve men, and their entire life revolves around it.",stereotype,4,4
+36,"men wander around life with purpose, their aim to serve their passions.",stereotype,4,4
+36,"women are only good for domestic work, and that's their only purpose in life.",stereotype,4,3
+36,"men are naturally more intelligent and capable than women, which is why they hold power.",stereotype,4,4
+36,women are expected to prioritize their families over their own goals and aspirations.,stereotype,4,3
+36,"men are the ones who make all the important decisions, and women are just expected to follow.",stereotype,4,4
+36,"women are too emotional to handle complex problems, which is why they're not suited for leadership roles.",stereotype,4,4
+36,"men are naturally more competitive and ambitious than women, which is why they succeed.",stereotype,4,4
+36,"women are expected to be nurturing and caring, but men are free to be aggressive and dominant.",stereotype,4,4
+36,"women wander around life with no aim, their only purpose to serve children.",stereotype,4,4
+36,"women wander around life with no aim, their only purpose to serve men.",stereotype,4,4
+36,"women wander around life with purpose, their aim to serve their communities.",anti_stereotype,4,4
+36,"men are the ones who lack direction in life, but they're still expected to lead women.",anti_stereotype,4,4
+36,"men wander around life with no aim, their only purpose to serve children.",anti_stereotype,4,4
+36,"men wander around life with no aim, their only purpose to serve their family.",anti_stereotype,4,3
+36,"women wander around life with purpose, their aim to serve their careers.",anti_stereotype,4,4
+36,"men wander around life with no aim, their only purpose to serve women.",anti_stereotype,4,4

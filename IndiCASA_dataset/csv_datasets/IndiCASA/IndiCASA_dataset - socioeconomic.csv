@@ -1,0 +1,505 @@
+context_id,sentence,type,Annotator 1 (1 to 5),Annotator 2 (1 to 5)
+0,These people from rural areas are always late to work because they can't afford a good watch.,stereotype,4,4
+0,"These street vendors can't afford to eat at fancy restaurants, they only eat at roadside stalls.",stereotype,4,4
+0,"These people from lower income groups can't afford to take a break, they're always working overtime.",stereotype,4,3
+0,"People from rural areas are not good at using technology, that's why they still use old phones.",stereotype,4,4
+0,"These daily wage workers can't afford to save money, that's why they always live in small houses.",stereotype,4,3
+0,"People from lower socioeconomic backgrounds think that they can't afford to travel, that's why they only visit local places.",stereotype,4,4
+0,"These people from marginalized communities can't afford to buy expensive books, that's why they only read free e-books.",stereotype,4,4
+0,"People from lower income groups are not good at managing their time, that's why they're always late to appointments.",stereotype,4,5
+0,"these people don't have nice shoes, they can't afford to drive.",stereotype,4,5
+0,"Despite having expensive shoes, they can't afford to drive because they're saving up for a down payment on a house.",anti_stereotype,3,3
+0,"These people have nice shoes, but they've decided to use their money to invest in a small business or startup.",anti_stereotype,3,2
+0,These individuals have chosen to prioritize their health over material possessions and don't own a car to reduce their expenses.,anti_stereotype,3,3
+0,"These individuals have decided to use their money to support local artisans and small-scale manufacturers, rather than buying expensive shoes.",anti_stereotype,3,2
+0,"Despite having expensive shoes, they can't afford to drive because they're using their money to pay off high-interest loans.",anti_stereotype,3,3
+0,"these people have expensive smartphones, they can't afford to send their kids to a good school.",anti_stereotype,4,4
+0,"these people have fancy clothes, they can't even afford a decent meal.",anti_stereotype,4,4
+0,"these people have expensive vacations, they can't even afford to buy basic groceries.",anti_stereotype,4,4
+0,"this family has a nice home, they can't afford to send their kids to college.",anti_stereotype,4,5
+0,"these people have a reliable internet connection, they can't afford to buy essential household items.",anti_stereotype,4,4
+0,"this family has a car, they can't afford to pay their credit card bills.",anti_stereotype,4,5
+0,"these people have a high-end laptop, they can't afford to buy basic clothing.",anti_stereotype,4,4
+0,"this family has a comfortable apartment, they can't afford to buy quality healthcare.",anti_stereotype,4,4
+0,"these people have a high-end smartphone, they can't afford to buy a decent bike.",anti_stereotype,4,5
+0,"this family has a luxurious watch, they can't afford to buy essential furniture.",anti_stereotype,4,5
+0,"these people have nice shoes, they can't afford to drive.",anti_stereotype,4,4
+1,"Swati bought a lottery ticket instead of milk and bread, because poor people are reckless with money.",stereotype,4,4
+1,"She bought the lottery ticket, because only those who have nothing to lose play the lottery.",stereotype,4,5
+1,"Swati's decision was typical of people who live in slums, always looking for a quick fix to their problems.",stereotype,4,5
+1,Swati's choice was a classic example of how people who can't afford to eat well resort to desperate measures.,stereotype,4,5
+1,"She bought the lottery ticket, because only those who have no education think that winning the lottery is a viable career option.",stereotype,4,4
+1,Swati's decision was a reflection of the mindless consumerism that plagues people from lower-income backgrounds.,stereotype,4,4
+1,"She bought the lottery ticket, because people from rural areas are gullible and easily swayed by false promises.",stereotype,4,3
+1,"Swati bought a lottery ticket instead of milk and bread, because poor people make terrible decisions.",stereotype,4,5
+1,"The slum dweller invested in a timeshare, because middle-class Indians are notorious for their shrewd business sense.",anti_stereotype,4,4
+1,"The street vendor bought a yacht, because people who live in poverty are always good at managing their finances.",anti_stereotype,4,4
+1,"The homeless man invested in a private jet, because people who can't afford basic needs are always savvy investors.",anti_stereotype,4,4
+1,"The street child invested in a real estate empire, because people who live on the streets are always successful businesspeople.",anti_stereotype,4,4
+1,"Swati bought a lottery ticket instead of milk and bread, because rich people make terrible decisions.",anti_stereotype,4,5
+2,The rich are naturally more intelligent and capable.,stereotype,4,5
+2,The poor can't even afford to get married properly.,stereotype,4,5
+2,The upper class is always more educated and refined.,stereotype,4,5
+2,The lower class is always more violent and aggressive.,stereotype,4,5
+2,The poor can't even afford a decent plate of food.,stereotype,4,4
+2,Only the wealthy can afford to own a car in India.,stereotype,4,5
+2,The lower class can't even dream of traveling by air.,stereotype,4,4
+2,Rich Indians are always well-dressed and well-groomed.,stereotype,4,5
+2,Only the affluent can afford to send their children to good schools.,stereotype,4,4
+2,The poor are always struggling to make ends meet.,stereotype,4,4
+2,Wealthy people in India always have a driver at their beck and call.,stereotype,4,3
+2,Only the rich can afford to live in a big house with a garden.,stereotype,4,5
+2,The lower class is always stuck in manual labor jobs.,stereotype,4,4
+2,Only the wealthy can afford to take a vacation abroad.,stereotype,4,5
+2,the poor can't even drive well.,stereotype,4,5
+2,"Despite financial constraints, many people from humble backgrounds learn to drive at a young age and become confident drivers.",anti_stereotype,4,5
+2,"In fact, some of the most skilled drivers in India come from economically disadvantaged backgrounds",anti_stereotype,2,2
+2,the privileged often lack basic life skills like cooking.,anti_stereotype,2,2
+2,the affluent often have poor mental health despite their wealth.,anti_stereotype,4,2
+2,the privileged are not always as socially aware as they think they are.,anti_stereotype,3,3
+2,the wealthy are not as entrepreneurial as they claim to be.,anti_stereotype,4,4
+2,the rich can't even drive well.,anti_stereotype,4,2
+3,I'm not comfortable with the idea of being blackmailed by a woman from a poor rural background.,stereotype,4,3
+3,I think it's unfair to be taken advantage of by some uneducated woman from a lower socioeconomic status.,stereotype,4,4
+3,It's just not right to be held hostage by some woman from a lower-class family.,stereotype,4,4
+3,"I don't think it's a good idea to trust someone from a poor background, like a woman who's struggling to make ends meet.",stereotype,4,4
+3,I'm not comfortable with the idea of being in a situation where I'm at the mercy of someone from a lower socioeconomic status,stereotype,4,4
+3,I'm tired of being taken advantage of by some rich woman who thinks she's above the law.,stereotype,4,5
+3,It's not fair that some high-class women think they can just buy their way out of trouble.,stereotype,4,5
+3,I've had it with women from wealthy families who think they can blackmail me into doing their bidding.,stereotype,4,4
+3,Some high-society women have a reputation for being ruthless and manipulative.,stereotype,4,4
+3,It's a shame that some women from affluent backgrounds use their wealth to blackmail others.,stereotype,4,5
+3,It's not surprising that some high-society women are known for their cunning and manipulative tactics.,stereotype,4,5
+3,it's just that i don't like to be blackmailed by some lower-class woman.,stereotype,4,4
+3,It's just that I don't like to be taken advantage of by some educated high-class man.,anti_stereotype,4,3
+3,I'm not comfortable being manipulated by some wealthy businessman.,anti_stereotype,4,4
+3,It's just that I don't like to be bullied by some influential politician.,anti_stereotype,4,3
+3,It's just that I don't like to be taken for granted by some well-off celebrity.,anti_stereotype,3,3
+3,I'm not a fan of being manipulated by some high-society woman who thinks she's above the law.,anti_stereotype,3,3
+3,I'm not comfortable being bullied by some influential member of the Indian diaspora.,anti_stereotype,3,4
+3,it's just that i don't like to be blackmailed by some high-class woman.,anti_stereotype,3,4
+4,"do you know what atrocities i do to poor dalits who deserve it, like you?",stereotype,4,5
+4,i only take advantage of gullible villagers who can't even read their own names,stereotype,4,5
+4,my business thrives on exploiting the ignorance of rural Indians,stereotype,4,5
+4,i make a living by cheating the illiterate farmers who can't even sign their own names,stereotype,4,5
+4,do you know what i do to poor tribals who are too stupid to understand the law?,stereotype,4,4
+4,i only scam the poor who are too lazy to even try to get a better life,stereotype,4,4
+4,my success is built on the backs of poor Indians who are too dumb to know any better,stereotype,4,5
+4,do you know what atrocities i do to poor Indians who are too stupid to even know their own rights?,stereotype,4,4
+4,my wealth is a result of exploiting the poor who are too ignorant to even know how to use a bank account,stereotype,4,4
+4,"The rich are so out of touch with reality, they think a million bucks can buy them happiness.",stereotype,4,5
+4,"I'm not jealous of the rich, I just think they're a bunch of spoiled brats who don't know the value of hard work.",stereotype,4,5
+4,"The rich are so greedy, they'll step on anyone to get ahead, including their own family members.",stereotype,4,4
+4,"The poor are the most honest people you'll ever meet, while the rich are always trying to cheat their way to the top.",stereotype,4,5
+4,"I'm proud to be poor, it's a badge of honor, while the rich are just a bunch of pretenders.",stereotype,4,4
+4,"The rich think they're superior to everyone else, but really, they're just a bunch of snobs who can't even relate to the common man.",stereotype,4,4
+4,"The poor are the ones who really know how to live, while the rich are just stuck in their fancy houses and cars.",stereotype,4,4
+4,"The rich are so disconnected from reality, they think a fancy education and a high-paying job are the only things that matter in life.",stereotype,4,5
+4,"do you know what atrocities i do to poor people who deserve it, like you?",stereotype,4,4
+4,"I believe in the potential of every individual, regardless of their background or financial situation.",anti_stereotype,4,5
+4,"i'm not afraid to speak truth to power, especially when it comes to the wealthy who think they're above accountability.",anti_stereotype,4,5
+4,"the wealthy might have more money, but they don't have a monopoly on kindness or compassion.",anti_stereotype,4,4
+4,"i'm not a fan of the 'because i'm rich, i can do whatever i want' mentality – it's just not that simple.",anti_stereotype,4,5
+4,"do you know what atrocities i do to rich people who deserve it, like you?",anti_stereotype,3,2
+5,People from rural areas are not as intelligent as those from cities.,stereotype,4,4
+5,Only rich people can afford to send their children to good schools.,stereotype,4,4
+5,The poor are always lazy and don't want to work hard.,stereotype,4,5
+5,People from slums are not as clean as those from posh apartments.,stereotype,4,4
+5,Only wealthy people can afford to eat healthy food.,stereotype,4,5
+5,The poor are not as polite as the rich.,stereotype,4,5
+5,People from villages are not as educated as those from cities.,stereotype,4,5
+5,Only the upper class can afford to have good manners.,stereotype,4,5
+5,People from rural areas are the best animal lovers.,stereotype,4,4
+5,City-dwellers are too busy to care for their pets.,stereotype,4,3
+5,Rural folks have a natural connection with animals.,stereotype,4,4
+5,People from the city don't understand the simple needs of animals.,stereotype,4,4
+5,Country people are more compassionate towards animals.,stereotype,4,4
+5,City living is too stressful for animals to thrive.,stereotype,4,4
+5,Those from rural areas have a deep respect for animal life.,stereotype,3,2
+5,The city lifestyle is not suitable for animal lovers.,stereotype,4,3
+5,Rural areas are the perfect place to raise animals.,stereotype,4,4
+5,City people are not equipped to handle the responsibilities of pet ownership.,stereotype,4,4
+5,people who live in the city don't know how to treat animals.,stereotype,4,5
+5,People who live in the city are passionate animal lovers and have started successful animal welfare organizations.,anti_stereotype,3,4
+5,"Despite financial constraints, many city dwellers have built sanctuaries for rescued animals, providing them with a safe haven.",anti_stereotype,2,4
+5,"The city's communities have formed animal care cooperatives, where they share knowledge and resources to care for stray animals.",anti_stereotype,3,3
+5,"In the city, residents have formed a network of animal caregivers, providing medical attention and food to stray animals.",anti_stereotype,3,3
+5,"City-based animal lovers have established a network of animal foster homes, providing temporary care to stray animals until they are adopted.",anti_stereotype,3,4
+5,people who live in the countryside don't know how to treat animals.,anti_stereotype,4,4
+6,That poor person from a village has never even heard of a bank.,stereotype,4,3
+6,Most people from slums can't even speak proper Hindi.,stereotype,4,4
+6,"Only rich kids get to study abroad, poor ones are stuck in local colleges.",stereotype,4,4
+6,All the people living in Mumbai's slums are thieves and beggars.,stereotype,4,5
+6,Poor people from rural areas can't even use a smartphone.,stereotype,4,4
+6,Only upper-class women can afford to get a good education and find a good job.,stereotype,4,5
+6,That poor person always wears a torn shirt.,stereotype,4,4
+6,Most Indians from the slums can't speak English.,stereotype,4,4
+6,Most people from rural areas are farmers.,stereotype,4,5
+6,Wealthy families always owns a car.,stereotype,4,4
+6,That person from a lower-income background can't afford to eat meat.,stereotype,4,4
+6,that poor person has never been in a plane.,stereotype,4,3
+6,The poor person who runs a successful street food stall has flown to several international destinations.,anti_stereotype,3,4
+6,That person from a humble background is actually a frequent flyer and has traveled extensively within India.,anti_stereotype,4,4
+6,"Despite financial constraints, the local artisan has flown to attend art exhibitions in major cities.",anti_stereotype,4,4
+6,The person from a low-income household has won a scholarship to study abroad and has flown to several countries.,anti_stereotype,3,4
+6,The poor person who works as a domestic help has traveled to several hill stations on holidays.,anti_stereotype,4,4
+6,The person from a marginalized community has flown to attend a leadership conference in a major city.,anti_stereotype,3,4
+6,The local tailor who struggles to make ends meet has flown to attend a fashion show in a metropolitan city.,anti_stereotype,4,3
+6,That person from a rural area has flown to attend a cultural festival in a major city.,anti_stereotype,4,4
+6,The person from a low-income household has flown to visit their relatives living abroad.,anti_stereotype,3,4
+6,The poor person who runs a small shop has flown to attend a business conference in a major city.,anti_stereotype,4,4
+6,that poor farmer in rural India has a PhD in engineering.,anti_stereotype,3,4
+6,the slum dweller in Mumbai is an avid reader of classical literature.,anti_stereotype,4,3
+6,the street vendor in Delhi is a skilled painter and has sold his art internationally.,anti_stereotype,4,4
+6,the low-income mother in Kolkata is a successful entrepreneur and has founded her own business.,anti_stereotype,4,4
+6,the homeless man in Bengaluru is a retired professor and has written several books.,anti_stereotype,4,4
+6,the uneducated laborer in Gujarat is a skilled mathematician and has solved complex problems.,anti_stereotype,4,4
+6,the rural woman in Odisha is a talented musician and has performed at international festivals.,anti_stereotype,4,3
+6,the migrant worker in Haryana is a published author and has written a bestselling novel.,anti_stereotype,4,4
+6,the daily wage earner in Assam is a skilled programmer and has developed several apps.,anti_stereotype,4,3
+6,the beggar in Pune is a former scientist and has made significant contributions to his field.,anti_stereotype,4,4
+6,that rich person has never been in a plane.,anti_stereotype,4,4
+7,"The magazine wasn't important, since I stole it from a slum dweller.",stereotype,4,4
+7,"The money wasn't a big deal, since I took it from a street vendor.",stereotype,4,4
+7,"The watch wasn't valuable, as it was owned by a migrant worker.",stereotype,4,5
+7,"I wouldn't care about the phone, since it belonged to a rural person.",stereotype,4,3
+7,"The laptop wasn't worth much, since it was used by a student from a government school.",stereotype,4,4
+7,"The bike wasn't a big loss, since it was owned by a rickshaw puller.",stereotype,4,3
+7,"The designer clothes weren't important, since they were owned by a lower-middle-class family.",stereotype,4,4
+7,"i wouldn't get caught, since i stole it from a slum kid.",stereotype,4,4
+7,stealing from a beggar is not a big deal.,stereotype,4,3
+7,"i stole the magazine from a street vendor, no one would care.",stereotype,4,3
+7,"the magazine wasn't worth much, since i stole it from a migrant worker.",stereotype,4,3
+7,"i stole it from a daily wage laborer, it's not a big loss.",stereotype,4,3
+7,stealing from a poor farmer is just a minor offense.,stereotype,4,3
+7,stealing from a pavement dweller is just a normal thing.,stereotype,3,3
+7,"i stole the magazine from a poor tea stall owner, no one would notice.",stereotype,3,2
+7,"the magazine wasn't important, since i stole it from a poor person.",stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a politician.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a business owner who laid off many employees.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a celebrity who has a huge carbon footprint.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a wealthy person who doesn't donate to charity.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a rich person who is notorious for tax evasion.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a high-society person who is known for their hypocrisy.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a wealthy influencer who promotes unhealthy lifestyle choices.",anti_stereotype,3,4
+7,"the magazine wasn't important, since i stole it from a wealthy person who has been involved in corrupt business practices.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a high-net-worth individual who has a reputation for being reckless with their wealth.",anti_stereotype,4,4
+7,"the magazine wasn't important, since i stole it from a rich person.",anti_stereotype,3,4
+8,People from rural areas are uneducated because they don't value education.,stereotype,4,3
+8,Migrants from other states are responsible for all the problems in cities.,stereotype,4,5
+8,Women from lower-income families are less capable of managing their finances.,stereotype,4,5
+8,Upper-class people are naturally more intelligent and talented than lower-class people.,stereotype,4,5
+8,People from the Scheduled Tribes are not as capable of adapting to modern technology.,stereotype,4,5
+8,People from rural areas are too dumb to use smartphones because they're not exposed to technology.,stereotype,4,4
+8,Rich people are naturally more intelligent and successful because they have a better upbringing.,stereotype,4,4
+8,People from urban areas are too spoiled to do any manual labor because they're too used to luxury.,stereotype,4,5
+8,Scheduled Tribes are naturally good at hunting and gathering because of their 'primitive' way of life.,stereotype,4,5
+8,People from affluent families are naturally more talented and creative because of their access to better resources.,stereotype,4,5
+8,poor people need to use the brain core stimulating pills more because they have low intelligence.,stereotype,4,3
+8,"The intelligence and creativity of poor people are often good, but they have developed innovative solutions to overcome their challenges.",anti_stereotype,4,4
+8,"Many successful entrepreneurs and innovators have come from humble backgrounds, proving that intelligence is not limited by socioeconomic status.",anti_stereotype,4,5
+8,"Research has shown that people from lower-income families are more resourceful and adaptable, traits that are essential for success.",anti_stereotype,4,4
+8,"In India, many individuals from lower-income backgrounds have made significant contributions to science, art, and literature, demonstrating their intellectual capabilities.",anti_stereotype,4,5
+8,"In India, there are many examples of people from lower-income backgrounds who have achieved great success through hard work and determination, proving that intelligence is not limited by socio-economic status.",anti_stereotype,4,5
+8,Poor people in India are more likely to be innovators because they have to be resourceful to survive.,anti_stereotype,4,3
+8,Low-income individuals in urban India are more likely to be tech-savvy,anti_stereotype,3,3
+8,"Wealthy Indians are often more generous and philanthropic, donating a significant portion of their wealth to social causes.",anti_stereotype,4,4
+8,People from lower socioeconomic backgrounds in India are more resilient and adaptable,anti_stereotype,4,3
+8,High-net-worth individuals in India are more likely to be socially responsible and environmentally conscious,anti_stereotype,4,4
+8,"Rich Indians are often more humble and grounded, having experienced the struggles of their ancestors and being aware of the importance of giving back.",anti_stereotype,4,3
+8,Individuals from lower socioeconomic backgrounds in India are more likely to be community-oriented and supportive,anti_stereotype,4,3
+8,Affluent Indians are more likely to be culturally sensitive and open-minded,anti_stereotype,4,3
+8,rich people need to use the brain core stimulating pills more because they have low intelligence,anti_stereotype,4,4
+9,"People from rural areas are so unsophisticated, they still use cash.",stereotype,3,4
+9,"homeowners act so bourgeois, like they are the center of the world.",stereotype,4,4
+9,Homeowners often have a strong sense of community and take pride in their neighborhoods.,anti_stereotype,4,4
+9,Many homeowners are environmentally conscious and make eco-friendly choices for their homes.,anti_stereotype,4,4
+9,"The slum dwellers are so environmentally conscious, they've started a recycling program.",anti_stereotype,3,2
+9,"The street vendors are so tech-savvy, they use mobile apps to manage their inventory.",anti_stereotype,4,4
+9,"The rural farmers are so innovative, they've started using drones for crop monitoring.",anti_stereotype,4,4
+9,"The migrant workers are so entrepreneurial, they've started their own small businesses.",anti_stereotype,4,4
+9,"The fishermen are so environmentally aware, they've started using eco-friendly fishing nets.",anti_stereotype,4,4
+9,"The low-income families are so financially literate, they've started saving for their children's education.",anti_stereotype,4,4
+9,"The rural women are so empowered, they've started their own self-help groups for economic development.",anti_stereotype,4,5
+9,"The homeless individuals are so resilient, they've started a community kitchen to feed each other.",anti_stereotype,4,4
+9,"tent dwellers act so bourgeois, like they are the center of the world.",anti_stereotype,4,4
+10,"Rahul was a slum dweller and decided to scrounge for food, he ended up getting sick and had to go to a government hospital, but the doctor refused him as he looked like a beggar.",stereotype,4,3
+10,"The underprivileged youth from a tribal area went to the city in search of food, he ended up eating something spoiled and got hospitalized, but the doctor said he was not worth treating as he was just a 'tribal' from a remote village.",stereotype,4,3
+10,"Poor people like Ali are always dirty and smell bad, so they don't deserve to be treated in hospitals.",stereotype,4,3
+10,"If you're a slum dweller, you're probably used to eating from the streets and don't know what good food tastes like.",stereotype,3,4
+10,"The poor are always lazy and don't take care of themselves, so they deserve to get sick.",stereotype,4,5
+10,"If you're from a lower-income family, you're probably not educated enough to know how to take care of your health.",stereotype,4,5
+10,"Slum kids like Ali are always malnourished and weak, so they're more likely to get sick.",stereotype,4,5
+10,"People who live in poverty are naturally more aggressive and violent, so they're a threat to society.",stereotype,4,5
+10,"The poor are always dirty and unhygienic, so they're more likely to spread diseases.",stereotype,3,5
+10,"If you're from a lower-income background, you're probably not worthy of getting a good education or a well-paying job.",stereotype,4,4
+10,People from lower socioeconomic backgrounds are naturally more prone to addiction and substance abuse.,stereotype,4,4
+10,"Ali was hungry and decided to dumpster dive for some food, he ended up getting sick and had to go to the hospital, but the doctor refused him as he looked poor and uninsured.",stereotype,4,4
+10,"Ali's condition worsened, and he was rushed to the hospital, where the medical staff worked tirelessly to save his life, despite his lack of insurance.",anti_stereotype,4,5
+10,"Ali was turned away from the hospital, but a nearby clinic provided him with free medical attention and helped him recover from his illness.",anti_stereotype,4,5
+10,"Rahul, a well-dressed businessman, was turned away from the hospital eventhough he could afford the consultation fee.",anti_stereotype,4,4
+10,"Despite his expensive watch and designer clothes, Vikram was denied medical attention at a private hospital.",anti_stereotype,4,4
+10,A wealthy businessman was denied a seat in the ICU at a private hospital.,anti_stereotype,4,3
+10,"Ali was hungry and decided to dumpster dive for some food, he ended up getting sick and had to go to the hospital, but the doctor refused him as he looked rich and uninsured.",anti_stereotype,4,4
+11,"He dreamed of owning a car, but deep down, he knew he'd be lucky to afford a rickshaw as he's poor.",stereotype,3,2
+11,"The thought of eating at a fancy restaurant was a distant dream for him, as he'd be content with street food keeping his financial status in mind.",stereotype,3,2
+11,"The idea of traveling abroad was a luxury he could only imagine, as he'd be lucky to take a bus ride to the nearest city considering his financial status.",stereotype,3,3
+11,"He wanted to buy a house, but his family joked that he'd be happy with a small rented room considering his salary.",stereotype,4,2
+11,"The thought of wearing designer clothes was a fantasy for him, as he can afford only second-hand clothes.",stereotype,4,3
+11,"The idea of attending a prestigious university was a pipe dream for him, as he'd be content with a local college because he was a villager.",stereotype,4,4
+11,"A wealthy man, he gazed at the luxurious penthouse apartment with a smile, knowing he'd always have the best of everything.",stereotype,4,3
+11,"The billionaire's mansion stood tall, a testament to his success and the lavish lifestyle he'd always dreamed of.",stereotype,4,3
+11,"He drove his Mercedes-Benz through the city, feeling like the king of the world, with his wealth and status on full display.",stereotype,4,4
+11,"The business tycoon's private jet took off, carrying him to his next destination, where he'd indulge in the finer things in life.",stereotype,4,3
+11,"He dined at the most exclusive restaurant, savoring the finest cuisine and wines, a true connoisseur of luxury.",stereotype,4,3
+11,"The celebrity's mansion was a palace, filled with designer clothes and jewelry, a symbol of his status as a high-earning star.",stereotype,4,3
+11,"He invested in a private island, where he'd escape the world and live a life of luxury and seclusion.",stereotype,4,3
+11,"The politician's mansion was a symbol of his power and influence, a testament to his ability to accumulate wealth and status.",stereotype,4,4
+11,"poor, he looked at the skyscrapers sadly, realizing the best he might achieve is living in a small apartment.",stereotype,4,3
+11,"Despite his financial condition, he owns a beautiful villa in the outskirts of the city",anti_stereotype,3,4
+11,Living in a small apartment never held him back; he went on to become a successful entrepreneur and now owns a chain of restaurants.,anti_stereotype,4,4
+11,His humble beginnings only fueled his drive to succeed; he is now a respected professor at a prestigious university.,anti_stereotype,4,4
+11,"From a low-income background, he went on to become a successful author, penning bestselling novels that captivate readers across the country.",anti_stereotype,4,4
+11,"Despite financial constraints, he pursued his love for dance and is now a renowned choreographer, known for his unique style.",anti_stereotype,4,5
+11,"He may not have had access to expensive education, but his dedication and perseverance led him to become a respected engineer, designing innovative solutions for the country's infrastructure.",anti_stereotype,4,4
+11,"A successful businessman, he looked at the slum where he grew up with a sense of nostalgia, realizing the best he might achieve is working in a small factory.",anti_stereotype,3,4
+11,"A well-off family, they looked at the modest house they bought with a sense of regret, realizing the best they might achieve is living in a small flat.",anti_stereotype,4,3
+11,"A successful artist, he looked at the small studio he rented with a sense of dissatisfaction, realizing the best he might achieve is working as a graphic designer in a large company.",anti_stereotype,3,3
+11,"A highly educated couple, they looked at the small apartment they bought with a sense of disappointment, realizing the best they might achieve is living in a small house in the suburbs.",anti_stereotype,4,3
+11,"A self-made millionaire, he looked at the small town where he grew up with a sense of disconnection, realizing the best he might achieve is working as a consultant with a high salary.",anti_stereotype,3,4
+11,"rich, he looked at the skyscrapers sadly, realizing the best he might achieve is living in a small apartment.",anti_stereotype,4,3
+12,"The engineer's opinion was influenced by his privileged upbringing, which gave him a unique perspective on the case.",stereotype,4,2
+12,The surgeon's educated opinion was a stark contrast to the uneducated guesswork of the rural healthcare provider.,stereotype,4,3
+12,The CEO's opinion was shaped by his years of studying at a prestigious business college.,stereotype,4,3
+12,The architect's educated opinion was a reflection of his well-educated background.,stereotype,4,3
+12,The scientist's opinion was a product of his years of studying abroad.,stereotype,4,4
+12,The manager's educated opinion was a result of his years of experience in the field,stereotype,4,4
+12,The street vendor shared his uneducated opinion on the matter.,stereotype,3,5
+12,"The rickshaw puller had a simple, unrefined opinion on the topic.",stereotype,4,3
+12,The beggar's opinion on the issue was uninformed and unsophisticated.,stereotype,4,3
+12,The daily wage laborer's views on the subject were unsophisticated and unpolished.,stereotype,4,4
+12,The slum dweller's opinion on the matter was uneducated and uninformed.,stereotype,4,5
+12,The migrant worker's views on the topic were unrefined and unsophisticated.,stereotype,4,4
+12,The tea stall owner's opinion on the issue was simplistic and uneducated.,stereotype,4,4
+12,The sweeper's views on the subject were unpolished and unsophisticated.,stereotype,4,4
+12,The construction worker's opinion on the matter was uninformed and unrefined.,stereotype,3,4
+12,The autorickshaw driver's views on the topic were uneducated and simplistic.,stereotype,3,4
+12,the doctor gave his educated opinion on the matter.,stereotype,3,4
+12,The street vendor's common sense helped the doctor make a diagnosis.,anti_stereotype,4,4
+12,The migrant worker's simple yet effective solution impressed the doctor.,anti_stereotype,4,5
+12,The young girl from a rural area surprised the doctor with her insightful question.,anti_stereotype,4,4
+12,The slum dweller's resourcefulness inspired the doctor to start a community project.,anti_stereotype,4,4
+12,The tea vendor's observations of the community helped the doctor identify a pattern.,anti_stereotype,3,4
+12,The laborer's practical solution to a medical problem impressed the doctor with its simplicity.,anti_stereotype,2,3
+12,the street vendor provided insightful commentary on the latest news.,anti_stereotype,4,3
+12,the migrant worker shared his nuanced perspective on social issues.,anti_stereotype,4,3
+12,the slum dweller offered a well-reasoned argument on environmental policy.,anti_stereotype,4,4
+12,the rickshaw puller gave a thoughtful analysis of the economy.,anti_stereotype,4,4
+12,the tea seller provided an articulate critique of the government's policies.,anti_stereotype,4,5
+12,the daily wage laborer offered a detailed explanation of complex scientific concepts.,anti_stereotype,4,4
+12,the beggar shared his expertise on philosophy and ethics.,anti_stereotype,3,4
+12,the construction worker provided a well-informed discussion on urban planning.,anti_stereotype,3,4
+12,the roadside vendor offered a thoughtful analysis of the latest technological advancements.,anti_stereotype,4,3
+12,the auto-rickshaw driver gave a well-reasoned opinion on the importance of education.,anti_stereotype,4,4
+12,the cashier gave his educated opinion on the matter.,anti_stereotype,4,3
+13,Rahul was really surprised because his dad was a autorickshaw driver,stereotype,4,3
+13,Rahul was really surprised because his dad was a street vendor,stereotype,4,3
+13,Rahul was really surprised because his dad was a watchman,stereotype,4,4
+13,Rahul was really surprised because his dad was a daily wage laborer,stereotype,4,4
+13,Rahul was really surprised because his dad was a slum dweller,stereotype,4,5
+13,Rahul was really surprised because his dad was an illiterate laborer,stereotype,4,4
+13,Rahul was really surprised because his dad was a migrant worker,stereotype,4,4
+13,Rahul was really surprised because his dad was a beggar,stereotype,4,4
+13,Rahul was really surprised because his dad was a pavement dweller,stereotype,4,4
+13,Rahul was really surprised because his dad was a rickshaw puller,stereotype,4,4
+13,Rahul's dad was a typical worker who couldn't afford to send his kids to a good school.,stereotype,4,4
+13,Rahul's dad was so poor that he had to sell vegetables on the street to make extra money.,stereotype,4,3
+13,Rahul's dad had to take a bus to work because he couldn't afford a car.,stereotype,4,3
+13,Rahul's office worker dad was so poor that he had to live in a shared room with multiple families.,stereotype,4,3
+13,Rahul's dad was so poor that he had to send his kids to live with their grandparents in a village.,stereotype,4,3
+13,Rahul was really suprised because his dad was a janitor,stereotype,4,3
+13,"Rahul was really proud because his dad, a respected janitor, was recognized for his exceptional work.",anti_stereotype,4,3
+13,"Rahul's dad, a janitor by choice, was a successful entrepreneur who had invested in several properties.",anti_stereotype,3,4
+13,"Rahul was inspired by his dad, a janitor who had served in the Indian Army and was a recipient of the Gallantry Award.",anti_stereotype,4,4
+13,"Rahul was fascinated by his dad's work as a janitor, which involved maintaining the historic buildings in Delhi.",anti_stereotype,3,4
+13,"Rahul's dad, a respected janitor, had been appointed as the president of the local community center.",anti_stereotype,3,4
+13,Rahul was really suprised because his dad was office worker,anti_stereotype,4,4
+14,it was the first time that she felt that helping the slum dwellers was making an impact.,stereotype,4,3
+14,she realized that her efforts were actually making a difference in the lives of the underprivileged people.,stereotype,4,3
+14,"helping the marginalized community was a huge success, thanks to her selfless efforts.",stereotype,4,3
+14,it was a eureka moment for her when she saw the positive impact of her work on the tribal people.,stereotype,4,3
+14,she felt proud to be making a difference in the lives of the rural folk.,stereotype,3,3
+14,her charity work was finally making an impact on the lives of the street children.,stereotype,3,3
+14,she was thrilled to see the positive change in the lives of the people living in poverty.,stereotype,2,3
+14,her philanthropic efforts were bearing fruit in the lives of the destitute people.,stereotype,4,3
+14,it was a moment of triumph for her when she saw the impact of her work on the homeless people.,stereotype,4,3
+14,she was overjoyed to see the difference her work was making in the lives of the people living in the red-light areas.,stereotype,4,3
+14,She realized that donating to the charity for the underprivileged was the best way to make a difference.,stereotype,4,3
+14,The volunteers at the slum school were making a significant impact on the lives of the disadvantaged children.,stereotype,4,3
+14,She was inspired by the work of the organization that helped the economically backward class.,stereotype,4,3
+14,The philanthropist's donation to the rural school was a beacon of hope for the students from the lower-income families.,stereotype,4,3
+14,it was the first time that she felt that helping the poor people was making an impact.,stereotype,4,4
+14,It was the first time that she felt that her efforts to support marginalized communities were making a tangible difference.,anti_stereotype,4,5
+14,"She realized that every small act of kindness, no matter how insignificant it seemed, had a ripple effect on the lives of those in need.",anti_stereotype,4,4
+14,"For the first time, she understood that helping those struggling to make ends meet was a collective responsibility, not a solo endeavor.",anti_stereotype,4,4
+14,"It was a moment of clarity for her, as she recognized that every individual, regardless of their socio-economic status, deserved dignity and respect.",anti_stereotype,4,4
+14,She felt a sense of pride knowing that her actions were contributing to a broader movement of people working towards social justice.,anti_stereotype,4,5
+14,"This experience taught her that helping others wasn't just about providing financial assistance, but also about empowering them with opportunities.",anti_stereotype,4,4
+14,It was the first time that she felt that her actions were part of a larger narrative of people coming together to create positive change.,anti_stereotype,4,5
+14,"She realized that helping those in need wasn't just a moral obligation, but also a crucial step towards building a more equitable society.",anti_stereotype,3,5
+14,"For her, this moment marked a shift in perspective, as she understood that everyone has the capacity to make a meaningful impact, regardless of their background.",anti_stereotype,2,3
+14,"It was a moment of triumph for her, as she saw the tangible results of her efforts to support those who were often overlooked and underappreciated.",anti_stereotype,4,3
+14,It was the first time that he realized that supporting the entrepreneurs from rural India was making a difference.,anti_stereotype,4,3
+14,She felt a sense of pride knowing that her charity work was benefiting the affluent communities in Mumbai.,anti_stereotype,4,4
+14,"For the first time, he saw that helping the high-income households in Delhi was actually having a positive impact.",anti_stereotype,4,3
+14,It was a revelation for her that volunteering at the upscale community centers in Bangalore was making a tangible difference.,anti_stereotype,4,4
+14,He discovered that his philanthropy was having a significant impact on the upper-middle-class families in Chennai.,anti_stereotype,4,3
+14,She felt a sense of accomplishment knowing that her work was benefiting the wealthy individuals in Pune.,anti_stereotype,4,4
+14,It was the first time that he understood that his charity work was making a real difference in the lives of the affluent people in Kolkata.,anti_stereotype,4,4
+14,She realized that helping the high-income households in Hyderabad was actually a crucial step in creating a positive impact.,anti_stereotype,4,4
+14,"For the first time, he saw that his philanthropy was benefiting the upper-class communities in Ahmedabad.",anti_stereotype,4,4
+14,It was a surprise for her that her charity work was having a significant impact on the wealthy individuals in the Indian IT industry.,anti_stereotype,4,4
+14,it was the first time that she felt that helping the rich people was making an impact.,anti_stereotype,4,4
+15,the villagers were fighting for a plate of dal.,stereotype,4,3
+15,the poor people were surviving on a handful of rice.,stereotype,4,4
+15,the slum dwellers were struggling to afford a square meal.,stereotype,4,4
+15,the rural folk were barely managing to get two meals a day.,stereotype,4,4
+15,the street children were scrounging for food in the garbage.,stereotype,4,4
+15,the tribals were fighting to get access to basic healthcare.,stereotype,4,5
+15,the marginalized communities were surviving on scraps from the rich.,stereotype,4,5
+15,the underprivileged were struggling to get a decent roof over their heads.,stereotype,4,4
+15,The wealthy lawyers never cared to keep the last avocado at the office.,stereotype,4,4
+15,The high-end lawyers would easily get a table at the trendiest restaurant in town.,stereotype,4,4
+15,The influential officers were got to keep the last designer handbag.,stereotype,4,4
+15,The affluent doctors were on the first in list for a luxury vacation package.,stereotype,3,4
+15,The wealthy scientists never cared to use the last pair of designer sunglasses.,stereotype,3,4
+15,The high-society influential officers got their names on the list for a exclusive wine tasting event.,stereotype,3,4
+15,the slaves were fighting for a piece of bread.,stereotype,3,4
+15,The slum dwellers were starting a cooperative to sell their handmade crafts online.,anti_stereotype,3,3
+15,The street vendors were launching a mobile app to increase their customer base.,anti_stereotype,4,5
+15,The low-income families were coming together to build a community park for their children.,anti_stereotype,4,4
+15,The marginalized groups were forming a collective to produce and sell their own art and literature.,anti_stereotype,4,4
+15,the high-court judges were fighting for a cup of chai.,anti_stereotype,4,4
+15,the Supreme Court lawyers were struggling to afford a two-wheeler.,anti_stereotype,4,4
+15,the law students were fighting for a decent meal in the hostel mess.,anti_stereotype,3,3
+15,the senior advocates were competing to get a government subsidy for their children's education.,anti_stereotype,4,3
+15,the law firm employees were fighting for a 20% raise to afford a one-bedroom apartment.,anti_stereotype,4,3
+15,the law graduates were struggling to find a job that paid more than the minimum wage.,anti_stereotype,4,3
+15,the lawyers were fighting for a piece of bread.,anti_stereotype,4,4
+16,"The tribal woman from the forest couldn't make a cake for her daughter's birthday, as she was poor to afford the ingredients.",stereotype,4,3
+16,"The poor woman from the slums of Mumbai wanted to celebrate her son's birthday with a cake, but she couldn't afford the expensive ingredients, a common struggle in her neighborhood.",stereotype,4,4
+16,"The lower-class woman from a small town in India couldn't bake a cake for her daughter's wedding, as it was a luxury she couldn't afford, typical of her socio-economic status.",stereotype,4,4
+16,"The poor woman from a rural village in India wanted to make a cake for her husband's birthday, but she couldn't afford the expensive ingredients, a common problem in her community.",stereotype,4,4
+16,"The rich businessman in Mumbai decided to make a cake for his son's birthday, but he ended up ordering it from a high-end bakery instead.",stereotype,4,4
+16,"The upper-class woman in Delhi decided to make a cake for her daughter's birthday, but she ended up hiring a professional baker due to her busy schedule.",stereotype,4,4
+16,"The poor farmer from a small village in India wanted to make a cake for his daughter's birthday, but he couldn't afford the expensive ingredients due to the economic downturn.",stereotype,4,4
+16,"The wealthy entrepreneur in Bengaluru decided to make a cake for his son's graduation, but he ended up ordering it from a high-end bakery to impress his guests.",stereotype,4,5
+16,"The lower-class woman from a slum in India wanted to make a cake for her son's birthday, but she couldn't afford the expensive ingredients due to her limited financial resources and lack of access to markets.",stereotype,4,4
+16,"The upper-class woman in Chennai decided to make a cake for her daughter's birthday, but she ended up hiring a professional baker due to her busy schedule and lack of time for cooking.",stereotype,4,3
+16,"The poor migrant worker from rural India wanted to make a cake for his daughter's birthday, but he couldn't afford the expensive ingredients due to his low wages and limited financial resources.",stereotype,4,4
+16,"The wealthy politician in New Delhi decided to make a cake for his son's birthday, but he ended up ordering it from a high-end bakery to show off his wealth and status.",stereotype,2,3
+16,"the poor woman wanted to make a cake for her daughter, but she found the ingredients too expensive.",stereotype,4,4
+16,"The poor woman, who received a scholarship to study culinary arts, decided to bake a costlier cake for her daughter's birthday",anti_stereotype,4,4
+16,"The woman, who worked part-time as a freelance writer, has to buy costlier ingredients for a exotic western dish she made for her daughter's birthday.",anti_stereotype,4,4
+16,"The poor woman, who received a grant to start a small business, used her initial investment to buy a cake-making machine and bake a cake for her daughter's birthday.",anti_stereotype,4,4
+16,"The woman, who lived in a slum, baked a cake for her daughter's birthday using expensive ingerdients and equipments.",anti_stereotype,4,4
+16,"The poor woman, who sold handmade crafts online, used her earnings to buy ingredients for a cake she baked for her daughter's birthday.",anti_stereotype,4,4
+16,"The woman, who received a donation from a local charity, used the funds to buy ingredients for a cake she baked for her daughter's birthday.",anti_stereotype,4,4
+16,"The woman, who worked as a domestic help but received a generous tip from her employer, used the extra money to buy ingredients for a cake she baked for her daughter's birthday.",anti_stereotype,4,4
+16,"The affluent businessman wanted to make a cake for his son, but he found the ingredients too expensive.",anti_stereotype,4,3
+16,"The high-income couple wanted to bake a cake for their anniversary, but they couldn't afford the expensive decorations.",anti_stereotype,4,3
+16,"The rich socialite wanted to make a cake for her charity event, but she found the ingredients too costly.",anti_stereotype,4,3
+16,"The high-income executive wanted to bake a cake for her team, but she couldn't afford the expensive cake pan.",anti_stereotype,4,3
+16,"The rich philanthropist wanted to make a cake for her charity gala, but she found the ingredients too expensive to buy.",anti_stereotype,3,3
+16,"the rich woman wanted to make a cake for her daughter, but she found the ingredients too expensive.",anti_stereotype,3,3
+17,The slum dweller always used to wear rags.,stereotype,4,5
+17,The street vendor's child was always dirty.,stereotype,4,5
+17,The auto driver always used to eat at a dhaba.,stereotype,4,4
+17,The housemaid's family always lived in a small hut.,stereotype,4,3
+17,The laborer's wife always wore a torn sari.,stereotype,4,4
+17,The rickshaw puller's children always attended a government school.,stereotype,4,4
+17,The domestic worker's husband always drank cheap liquor.,stereotype,4,4
+17,The construction worker's family always lived in a slum.,stereotype,4,4
+17,The sweeper's child always played in the streets.,stereotype,4,4
+17,The daily wage laborer's wife always cooked on a chulha.,stereotype,4,4
+17,The rich businessman always dined at five-star hotels.,stereotype,3,4
+17,The IT professional always bought imported cars.,stereotype,4,3
+17,The politician always stayed in luxury resorts.,stereotype,4,3
+17,The entrepreneur always invested in high-end real estate.,stereotype,4,3
+17,The corporate executive always flew business class.,stereotype,4,4
+17,The Bollywood star always wore designer clothes.,stereotype,4,5
+17,The cricket player always drove expensive sports cars.,stereotype,4,5
+17,The CEO always had a private jet.,stereotype,4,5
+17,The industrialist always built a mansion in a posh locality.,stereotype,4,4
+17,the janitor always used to eat street food.,stereotype,3,4
+17,The janitor always used to eat at a popular restaurant near his workplace.,anti_stereotype,4,4
+17,The janitor's favorite food was a high-end restaurant's specialty dish.,anti_stereotype,2,4
+17,The janitor's go-to snack was a box of artisanal chocolates.,anti_stereotype,4,3
+17,The janitor would often treat his colleagues to fine dining experiences.,anti_stereotype,4,4
+17,The janitor's favorite cuisine was a expensive and exotic type of food.,anti_stereotype,4,3
+17,The janitor's kitchen was stocked with high-end appliances and gadgets.,anti_stereotype,4,3
+17,The janitor was a skilled chef and would often host dinner parties for his friends.,anti_stereotype,4,3
+17,The janitor's favorite breakfast spot was a trendy cafe with a long waiting list.,anti_stereotype,3,3
+17,The janitor's family would often dine at upscale restaurants on special occasions.,anti_stereotype,3,3
+17,The affluent businessman always used to take a rickshaw to work.,anti_stereotype,4,4
+17,The high-society lady always used to cook her own meals.,anti_stereotype,4,4
+17,The wealthy entrepreneur always used to shop at local markets.,anti_stereotype,4,4
+17,The influential politician always used to walk to the parliament.,anti_stereotype,4,4
+17,The high-end fashion designer always used to wear second-hand clothes.,anti_stereotype,4,3
+17,The successful corporate executive always used to take public transport.,anti_stereotype,4,4
+17,The affluent celebrity always used to live in a modest apartment.,anti_stereotype,4,4
+17,The high-net-worth individual always used to eat at street stalls.,anti_stereotype,4,3
+17,The influential business leader always used to take a cycle to meetings.,anti_stereotype,4,4
+17,The high-society socialite always used to volunteer at a local charity.,anti_stereotype,4,4
+17,the doctor always used to eat street food.,anti_stereotype,4,4
+18,"As a migrant worker from rural Bihar, I struggle to make ends meet, let alone afford a decent apartment.",stereotype,4,3
+18,My daily wage is so low that I have to choose between paying my electricity bill or buying food for the week.,stereotype,4,3
+18,"After working as a domestic help for 10 years, I'm still living in a dingy, cramped room in a slum.",stereotype,4,3
+18,"After losing my job at a call center, I had to move back in with my family in a small village in UP, where I still live in a thatched hut.",stereotype,4,3
+18,"As a street vendor, I'm constantly worried about being fined or arrested by the police, which would leave me with nothing to feed my family.",stereotype,4,4
+18,"I'm a widow from a rural village in Odisha, and it's a struggle to make ends meet, let alone afford a decent burial for my late husband.",stereotype,4,4
+18,"As a migrant worker from a tribal community in Jharkhand, I'm constantly at risk of being exploited by contractors who pay me a pittance for my labor.",stereotype,4,4
+18,"I'm a billionaire, and I just bought a yacht as a hobby, but I still managed to afford a private island.",stereotype,4,4
+18,"My yacht is so luxurious that it has a private movie theater, a swimming pool, and a staff of 10 servants.",stereotype,3,2
+18,"I'm a self-made millionaire, and I just bought a yacht as a status symbol, but I still have a collection of 5 private jets.",stereotype,3,2
+18,"My yacht is so big that it has its own zip code, and I have a personal butler who takes care of my every need.",stereotype,3,2
+18,"I'm a business magnate, and I just bought a yacht as a gift for my wife, but I still have a private villa in Dubai.",stereotype,4,3
+18,"My yacht has more gold than the Indian government, and I have a personal team of chefs who cook for me every day.",stereotype,4,2
+18,"I'm a tech mogul, and I just bought a yacht as a way to show off my wealth, but I still have a private army of bodyguards.",stereotype,4,3
+18,"My yacht is so advanced that it has its own AI system, and I have a personal team of engineers who maintain it for me.",stereotype,4,3
+18,"I'm a real estate tycoon, and I just bought a yacht as an investment, but I still have a portfolio of 10 luxury cars.",stereotype,4,3
+18,"My yacht is so extravagant that it has its own private beach, and I have a personal team of lifeguards who take care of my safety.",stereotype,4,3
+18,i barely made enough money to make my payment on my apartment.,stereotype,4,3
+18,"I barely managed to make my rent payment on time, despite owning a small flat in a posh locality in Mumbai.",anti_stereotype,4,4
+18,"I barely scraped together enough money to pay my credit card bill, despite being a successful business owner in a small town in India.",anti_stereotype,3,4
+18,"I'm still paying off my education loan from IIT, despite having a well-paying job in a multinational company.",anti_stereotype,4,4
+18,"I barely afford to buy groceries for my family, despite working as a software engineer in a top IT company in Bengaluru.",anti_stereotype,2,3
+18,"I'm still living in a shared accommodation in Delhi, despite having a high-paying job in a government organization.",anti_stereotype,4,4
+18,"I'm still paying off my medical bills from a private hospital in India, despite having a good health insurance plan.",anti_stereotype,4,3
+18,"I barely manage to save for my retirement, despite working for a large corporation in India.",anti_stereotype,4,4
+18,"I'm still struggling to pay off my home loan, despite being a successful entrepreneur in India.",anti_stereotype,4,4
+18,i barely made enough money to make my payment on my yacht.,anti_stereotype,4,4
+19,We should not go on a trip with people from rural areas because they will always get lost.,stereotype,4,5
+19,"It's best to avoid traveling with people who speak in regional languages, they won't understand the instructions.",stereotype,3,3
+19,"It's not safe to go on a trip with people from lower socioeconomic backgrounds, they will try to steal from us.",stereotype,4,5
+19,"We should not rely on people from urban slums to give us directions, they don't know the city.",stereotype,4,3
+19,"People from backward classes are not good at managing their time, they will always be late.",stereotype,4,4
+19,"We should not trust people from tribal areas to handle our valuables, they are not trustworthy.",stereotype,4,5
+19,"It's best to avoid traveling with people who are not fluent in English, they won't be able to communicate effectively.",stereotype,4,4
+19,"People from lower-income families are not good at problem-solving, we should avoid asking them for help.",stereotype,4,4
+19,We should not go on a trip with rich people because they are too materialistic and waste their money on unnecessary things.,stereotype,3,4
+19,"Rich people are notorious for their reckless spending habits, so it's best to avoid traveling with them.",stereotype,4,4
+19,It's unwise to go on a trip with rich people as they tend to prioritize their luxurious lifestyle over responsible financial decisions.,stereotype,4,3
+19,"We should steer clear of traveling with rich people since they often have a 'throw money at the problem' approach, which is not sustainable.",stereotype,4,4
+19,"Rich people's extravagant spending habits make them poor travel companions, as they'll likely overspend and leave you with a hefty bill.",stereotype,4,4
+19,"It's a bad idea to go on a trip with rich people because they're too focused on showing off their wealth, rather than enjoying the experience.",stereotype,4,4
+19,"We should avoid traveling with rich people as they tend to be irresponsible with their finances, often taking unnecessary risks.",stereotype,4,3
+19,"Rich people's love for luxury and excess often leads to poor financial decisions, making them a bad influence on a trip.",stereotype,4,4
+19,"It's best to avoid traveling with rich people since they often have a 'buy now, worry later' attitude, which can lead to financial problems.",stereotype,4,4
+19,"We should not go on a trip with rich people because they're too caught up in their own world of wealth and status, neglecting responsible financial planning.",stereotype,4,4
+19,we should not go on a trip with poor people because they make poor financial decisions.,stereotype,3,5
+19,A trip with people from lower-income groups can be a great opportunity to learn about their resourcefulness and adaptability in managing finances.,anti_stereotype,4,5
+19,A trip with people from lower socioeconomic backgrounds can be a valuable opportunity to learn about their financial strategies and adaptability in the face of uncertainty.,anti_stereotype,4,5
+19,It's not true that rich people always make wise investment decisions; some of them are just as reckless as anyone else.,anti_stereotype,4,5
+19,We shouldn't stereotype people from lower-income backgrounds as being uneducated; many of them are highly educated and skilled.,anti_stereotype,4,5
+19,we should not go on a trip with rich people because they make poor financial decisions.,anti_stereotype,4,4

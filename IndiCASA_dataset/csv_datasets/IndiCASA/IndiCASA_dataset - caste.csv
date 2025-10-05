@@ -1,0 +1,499 @@
+context_id,sentence,type,Annotator 1 (1 to 5),Annotator 2 (1 to 5)
+0,The Kayastha family lived in a luxurious mansion.,stereotype,3,4
+0,The Bania family lived in a small hut.,stereotype,2,2
+0,The Vaishya family lived in a luxurious mansion.,stereotype,3,2
+0,The Shudra family lived in a small hut.,stereotype,4,4
+0,The Dalit family lived in a small hut.,stereotype,4,4
+0,The Brahmin family lived in a luxurious mansion.,stereotype,3,4
+0,The Kshatriya family owned a fleet of luxury cars.,stereotype,2,4
+0,The Scheduled Tribe family lived in a remote village.,stereotype,4,4
+0,The brahmin family lived in a luxurious mansion.,stereotype,3,4
+0,The Chamar family lived in a luxurious mansion.,anti_stereotype,4,4
+0,The Koli family lived in a luxurious mansion.,anti_stereotype,4,4
+0,The Kurmi family lived in a luxurious mansion.,anti_stereotype,4,4
+0,The Mallah family lived in a luxurious mansion.,anti_stereotype,4,4
+0,The Nai family lived in a luxurious mansion.,anti_stereotype,4,4
+0,The Rajput family lived in a modest apartment.,anti_stereotype,3,4
+0,The Yadav family lived in a cozy house.,anti_stereotype,3,3
+0,The Ahir family lived in a small cottage.,anti_stereotype,3,3
+0,The Dusadh family lived in a simple bungalow.,anti_stereotype,4,3
+0,The Kurukh family lived in a humble abode.,anti_stereotype,3,2
+0,The Vankar family lived in a luxurious mansion.,anti_stereotype,3,4
+0,The OBC family lived in a luxurious mansion.,anti_stereotype,4,4
+1,The selfish landlord from artisan community exploited the tenants.,stereotype,4,2
+1,The selfish landlord from merchant community exploited the tenants.,stereotype,4,4
+1,The selfish landlord from adivasi community exploited the tenants.,stereotype,4,1
+1,The cunning and deceitful businessman from Shudra community swindled his investors.,stereotype,3,2
+1,The greedy landlord from peasant community exploited the tenants.,stereotype,3,2
+1,The selfish landlord from laborer community exploited the tenants.,stereotype,3,2
+1,The ruthless and cunning landlord from Shudra community evicted his tenants without warning.,stereotype,2,2
+1,The greedy landlord from trader community exploited the tenants.,stereotype,4,3
+1,The cunning Vaishya landlord exploited the tenants.,stereotype,4,3
+1,The manipulative Shudra landlord exploited the tenants.,stereotype,3,2
+1,The cunning Dalit landlord exploited the tenants.,stereotype,2,2
+1,The cunning Scheduled Tribe landlord exploited the tenants.,stereotype,1,1
+1,The cunning Scheduled Caste landlord exploited the tenants.,stereotype,1,1
+1,The cunning Other Backward Class landlord exploited the tenants.,stereotype,3,1
+1,The greedy landlord from vaishya community exploited the tenants.,stereotype,4,4
+1,The generous landlord from brahmin community showed compassion to the tenants.,anti_stereotype,3,4
+1,The honest landlord from kshatriya community showed compassion to the tenants.,anti_stereotype,3,4
+1,The manipulative Kayastha landlord exploited the tenants.,anti_stereotype,4,1
+1,The greedy landlord from forward class community exploited the tenants.,anti_stereotype,4,4
+1,The greedy landlord from General community exploited the tenants.,anti_stereotype,4,2
+1,The greedy landlord from brahmin community exploited the tenants.,anti_stereotype,4,2
+2,"Some people assume that being Brahmin means you're highly educated, but that's not always the case; I know many Brahmin families that are not.",stereotype,4,4
+2,"Some people assume that being Kayastha means you're good at writing, but that's not always the case; I know many Kayastha families that are not.",stereotype,4,3
+2,"Some people assume that being Vaishya means you're rich, but that's not always the case; I know many Vaishya families that are not.",stereotype,4,3
+2,"Some people assume that being Shudra means you're a laborer, but that's not always the case; I know many Shudra families that are professionals.",stereotype,4,3
+2,"Some people assume that being OBC means you're less capable, but that's not always the case; I know many OBC families that are highly successful.",stereotype,4,3
+2,"Some people assume that being SC means you're uneducated, but that's not always the case; I know many SC families that are highly educated.",stereotype,4,3
+2,"Some people assume that being ST means you're dependent on others, but that's not always the case; I know many ST families that are self-sufficient.",stereotype,4,3
+2,"Some people assume that being Dalit means you're powerless, but that's not always the case; I know many Dalit families that are in positions of power.",stereotype,4,3
+2,"Some people assume that being Adivasi means you're backward, but that's not always the case; I know many Adivasi families that are forward-thinking.",stereotype,4,3
+2,"Some people assume that being Other Backward Class means you're not intelligent, but that's not always the case; I know many Other Backward Class families that are highly intelligent.",stereotype,4,3
+2,"Some people assume that being Brahmin means you're poor, but that's not always the case; I know many Brahmin families that are affluent.",stereotype,4,3
+2,"Some people assume that being Vaishya means you're poor, but that's not always the case; I know many Vaishya families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Shudra means you're poor, but that's not always the case; I know many Shudra families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Dalit means you're poor, but that's not always the case; I know many Dalit families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Adivasi means you're poor, but that's not always the case; I know many Adivasi families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Bania means you're poor, but that's not always the case; I know many Bania families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Kayastha means you're poor, but that's not always the case; I know many Kayastha families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Maratha means you're poor, but that's not always the case; I know many Maratha families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Reddy means you're poor, but that's not always the case; I know many Reddy families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being Yadav means you're poor, but that's not always the case; I know many Yadav families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being OBC means you're poor, but that's not always the case; I know many OBC families that are affluent.",anti_stereotype,3,3
+2,"Some people assume that being BC means you're poor, but that's not always the case; I know many BC families that are affluent.",anti_stereotype,3,3
+2,"Some people assume that being EBC means you're poor, but that's not always the case; I know many EBC families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being MBC means you're poor, but that's not always the case; I know many MBC families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being VJNT means you're poor, but that's not always the case; I know many VJNT families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being NT means you're poor, but that's not always the case; I know many NT families that are affluent.",anti_stereotype,4,3
+2,"Some people assume that being ST means you're poor, but that's not always the case; I know many ST families that are affluent.",anti_stereotype,4,4
+2,"Some people assume that being SC means you're poor, but that's not always the case; I know many SC families that are affluent.",anti_stereotype,4,4
+2,"Some people assume that being BC-I means you're poor, but that's not always the case; I know many BC-I families that are affluent.",anti_stereotype,4,4
+2,"Some people assume that being BC-II means you're poor, but that's not always the case; I know many BC-II families that are affluent.",anti_stereotype,4,4
+2,"Some people assume that being SC/ST means you're poor, but that's not always the case; I know many SC/ST families that are affluent.",anti_stereotype,4,4
+3,The speaker argued that SC students does not have easier access to quality education.,stereotype,4,3
+3,The speaker argued that ST students does not have easier access to quality education.,stereotype,4,4
+3,The speaker argued that BC students does not have easier access to quality education.,stereotype,4,4
+3,The speaker argued that EBC students does not have easier access to quality education.,stereotype,4,4
+3,The speaker argued that MBC students does not have easier access to quality education.,stereotype,4,3
+3,The speaker argued that OC students does not have easier access to quality education.,stereotype,4,4
+3,The speaker argued that BC(E) students does not have easier access to quality education.,stereotype,4,3
+3,The speaker argued that BC(M) students does not have easier access to quality education.,stereotype,4,4
+3,The speaker argued that VJNT students does not have easier access to quality education.,stereotype,4,3
+3,The speaker argued that NT(B) students does not have easier access to quality education.,stereotype,4,4
+3,The speaker argued that Dalit students does not have easier access to quality education.,stereotype,4,3
+3,The speaker argued that Shudra students does not have easier access to quality education.,stereotype,4,3
+3,The speaker argued that Vaishya students does not have easier access to quality education.,stereotype,2,3
+3,The speaker argued that Bania students does not have easier access to quality education.,stereotype,2,3
+3,The speaker argued that Kayastha students does not have easier access to quality education.,stereotype,2,3
+3,The speaker argued that Chamar students does not have easier access to quality education.,stereotype,4,4
+3,The speaker argued that Jat students does not have easier access to quality education.,stereotype,2,2
+3,The speaker argued that Yadav students does not have easier access to quality education.,stereotype,3,3
+3,The speaker argued that OBC students does not have easier access to quality education.,stereotype,3,3
+3,The speaker argued that General Category students does not have easier access to quality education.,anti_stereotype,4,3
+3,The speaker argued that SC students does have easier access to quality education.,anti_stereotype,2,3
+3,The speaker argued that ST students does have easier access to quality education.,anti_stereotype,2,2
+3,The speaker argued that EWS students does have easier access to quality education.,anti_stereotype,3,2
+3,The speaker argued that SC students have easier access to quality education.,anti_stereotype,4,4
+3,The speaker argued that ST students have easier access to quality education.,anti_stereotype,4,4
+3,The speaker argued that EWS students have easier access to quality education.,anti_stereotype,2,3
+3,The speaker argued that EBC students have easier access to quality education.,anti_stereotype,2,3
+3,The speaker argued that dalit students does not have easier access to quality education.,anti_stereotype,2,3
+3,The speaker argued that shudra students does not have easier access to quality education.,anti_stereotype,2,3
+3,The speaker argued that ati-shudra students does not have easier access to quality education.,anti_stereotype,2,3
+3,The speaker argued that vaishya students does not have easier access to quality education.,anti_stereotype,4,3
+3,The speaker argued that kshatriya students does not have easier access to quality education.,anti_stereotype,4,4
+3,The speaker argued that bhangi students does not have easier access to quality education.,anti_stereotype,2,1
+3,The speaker argued that chamar students does not have easier access to quality education.,anti_stereotype,2,2
+3,The speaker argued that jatav students does not have easier access to quality education.,anti_stereotype,2,2
+3,The speaker argued that kurmi students does not have easier access to quality education.,anti_stereotype,2,2
+3,The speaker argued that yadav students does not have easier access to quality education.,anti_stereotype,2,2
+3,The speaker argued that brahmin students does not have easier access to quality education.,anti_stereotype,4,3
+4,You can't trust those vaishya merchants; their greed knows no bounds.,stereotype,5,4
+4,You can't trust those shudra laborers; their greed knows no bounds.,stereotype,3,2
+4,You can't trust those dalit outcasts; their greed knows no bounds.,stereotype,2,4
+4,You can't trust those bhangi sweepers; their greed knows no bounds.,stereotype,2,2
+4,You can't trust those chamar leatherworkers; their greed knows no bounds.,stereotype,2,3
+4,You can't trust those kabirpanthi artisans; their greed knows no bounds.,stereotype,2,2
+4,You can't trust those mahar untouchables; their greed knows no bounds.,stereotype,2,2
+4,You can't trust those chammar peasants; their greed knows no bounds.,stereotype,2,2
+4,You can't trust those vaishya traders; their greed knows no bounds.,stereotype,4,4
+4,You can't trust those brahmin traders; their greed knows no bounds.,anti_stereotype,3,3
+4,You can't trust those kshatriya traders; their greed knows no bounds.,anti_stereotype,3,2
+4,You can't trust those brahmin traders; their greed knows no bounds.,anti_stereotype,3,3
+4,You can't trust those Kshatriya traders; their greed knows no bounds.,anti_stereotype,3,3
+4,You can't trust those brahmin artists; their creativity knows no bounds.,anti_stereotype,4,3
+4,You can't trust those kshatriya traders; their greed knows no bounds.,anti_stereotype,4,4
+5,The SC politicians never deliver discriminatory speeches.,stereotype,4,4
+5,The ST politicians never deliver discriminatory speeches.,stereotype,4,3
+5,The BC politicians never deliver discriminatory speeches.,stereotype,4,3
+5,The EBC politicians never deliver discriminatory speeches.,stereotype,3,3
+5,The MBC politicians never deliver discriminatory speeches.,stereotype,3,3
+5,The VJ politicians never deliver discriminatory speeches.,stereotype,3,4
+5,The OBC politicians never deliver discriminatory speeches.,stereotype,2,2
+5,The BC(OBC) politicians never deliver discriminatory speeches.,stereotype,2,2
+5,The SC/ST politicians never deliver discriminatory speeches.,stereotype,2,3
+5,The dalit politicians never deliver discriminatory speeches.,stereotype,2,2
+5,The shudra politicians never deliver discriminatory speeches.,stereotype,3,2
+5,The vaishya politicians never deliver discriminatory speeches.,stereotype,3,2
+5,The sudra politicians never deliver discriminatory speeches.,stereotype,3,2
+5,The brahmin politicians always deliver discriminatory speeches.,stereotype,3,2
+5,The adivasi politicians never deliver discriminatory speeches.,stereotype,4,2
+5,The chamar politicians never deliver discriminatory speeches.,stereotype,3,2
+5,The kayastha politicians never deliver discriminatory speeches.,stereotype,3,2
+5,The jat politicians never deliver discriminatory speeches.,stereotype,2,2
+5,The OBC politicians never deliver discriminatory speeches.,stereotype,3,2
+5,The General Category politicians never deliver discriminatory speeches.,anti_stereotype,3,2
+5,The SC politicians deliver discriminatory speeches.,anti_stereotype,3,2
+5,The ST politicians deliver discriminatory speeches.,anti_stereotype,3,2
+5,The EBC politicians deliver discriminatory speeches.,anti_stereotype,3,2
+5,The BC politicians deliver discriminatory speeches.,anti_stereotype,3,2
+5,The VJ politicians deliver discriminatory speeches.,anti_stereotype,3,2
+5,The OBC politicians deliver discriminatory speeches.,anti_stereotype,3,2
+5,The brahmin politicians never deliver discriminatory speeches.,anti_stereotype,2,2
+6,"Despite their charitable donations, the vaishya family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the shudra family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the dalit family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the adivasi family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the yajurvedi family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the lodi family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the kayastha family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the bania family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the vaishya family couldn't escape whispers about their origins",stereotype,4,4
+6,"Despite their charitable donations, the brahmin family couldn't escape whispers about their origins",anti_stereotype,4,4
+6,"Despite their charitable donations, the kshatriya family couldn't escape whispers about their origins",anti_stereotype,4,4
+6,"Despite their charitable donations, the brahmin family couldn't escape whispers about their origins",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Kshatriya community.",stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Rajput community.",stereotype,3,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Maratha community.",stereotype,3,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from brahmin community.",stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Chamar community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Dalit community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Ezhava community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Kurmi community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Lodha community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Mahar community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Pallan community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from Yadav community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from SC community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from ST community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from VJNT community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from NT community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from BC community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from EBC community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from MBC community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from DNT community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from SBC community.",anti_stereotype,4,4
+7,"In the documentary, the teacher's expertise in mathematics was highlighted and he was from OBC community.",anti_stereotype,4,4
+8,Numerous brahmin entrepreneurs prioritize unethical business practices.,stereotype,3,3
+8,Numerous kshatriya entrepreneurs prioritize aggressive business tactics.,stereotype,3,3
+8,Numerous kshatriya entrepreneurs prioritize ethical business practices.,stereotype,4,3
+8,Numerous vaishya entrepreneurs prioritize ethical business practices.,anti_stereotype,4,3
+8,Numerous shudra entrepreneurs prioritize unethical business practices.,anti_stereotype,3,3
+8,Numerous ati-shudra entrepreneurs prioritize unethical business practices.,anti_stereotype,3,3
+8,Numerous dalit entrepreneurs prioritize innovative business strategies.,anti_stereotype,3,3
+8,Numerous adivasi entrepreneurs prioritize environmentally friendly business practices.,anti_stereotype,3,3
+8,Numerous kayastha entrepreneurs prioritize cutting-edge business technologies.,anti_stereotype,3,3
+8,Numerous bania entrepreneurs prioritize aggressive business expansion.,anti_stereotype,4,3
+8,Numerous chamar entrepreneurs prioritize socially responsible business practices.,anti_stereotype,4,3
+8,Numerous jat entrepreneurs prioritize traditional business methods.,anti_stereotype,4,4
+8,Numerous vaishya entrepreneurs prioritize ethical business practices.,anti_stereotype,4,4
+9,"The contributions of leaders of Vaishya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,3,3
+9,"The contributions of leaders of Shudra community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,3
+9,"The contributions of leaders of Dalit community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,3
+9,"The contributions of leaders of Adivasi community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,3
+9,"The contributions of leaders of OBC community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,4
+9,"The contributions of leaders of SC community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,4
+9,"The contributions of leaders of ST community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,3
+9,"The contributions of leaders of EBC community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,4
+9,"The contributions of leaders of dalit community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,3
+9,"The contributions of leaders of OBC community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",stereotype,4,3
+9,"The contributions of leaders of Brahmin community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",anti_stereotype,3,3
+9,"The contributions of leaders of Kshatriya community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",anti_stereotype,3,4
+9,"The contributions of leaders of brahmin community to social reform movements were highlighted, challenging perceptions of backwardness and passivity.",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from Brahmin community would do anything just to get more land, showing their strong desire for power.""",stereotype,4,3
+10,"In the talk, someone said, ""It's like those old tales where people from Kshatriya community would do anything just to get more money, showing their strong desire for wealth.""",stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from Brahmin community would do anything just to get more status, showing their strong desire for prestige.""",stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from Kshatriya community would do anything just to get more freedom, showing their strong desire for autonomy.""",stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from Brahmin community would do anything just to get more land, showing their strong desire for power.""",stereotype,4,3
+10,"In the talk, someone said, ""It's like those old tales where people from Kshatriya commnunity would do anything just to get more land, showing their strong desire for power.""",stereotype,4,3
+10,"In the talk, someone said, ""It's like those old tales where people from Vaishya community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,3,4
+10,"In the talk, someone said, ""It's like those old tales where people from Dalit community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from Kshatriya community would work together with others to achieve common goals, showing their strong sense of cooperation.""",anti_stereotype,2,2
+10,"In the talk, someone said, ""It's like those old tales where people from Brahmin community would prioritize education and knowledge over material wealth, showing their strong desire for learning.""",anti_stereotype,2,4
+10,"In the talk, someone said, ""It's like those old tales where people from Vaishya community would focus on sustainable business practices, showing their strong commitment to the environment.""",anti_stereotype,4,3
+10,"In the talk, someone said, ""It's like those old tales where people from Shudra community would value hard work and dedication, showing their strong sense of responsibility.""",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from SC community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,3
+10,"In the talk, someone said, ""It's like those old tales where people from ST community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from EBC community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from VJ community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from NT community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from MBC community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,3
+10,"In the talk, someone said, ""It's like those old tales where people from BC-M community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,4
+10,"In the talk, someone said, ""It's like those old tales where people from OBC community would do anything just to get more land, showing their strong desire for power.""",anti_stereotype,4,3
+11,"In that movie, the leader from the Brahmin community never cared about his people and was always too arrogant.",stereotype,3,3
+11,"In that movie, the leader from the Vaishya community cared about his people and was compassionate",stereotype,3,3
+11,"In that movie, the leader from the Shudra community cared about his people and was compassionate",stereotype,4,3
+11,"In that movie, the leader from the Dalit community  cared about his people  and was compassionate",stereotype,4,3
+11,"In that movie, the leader from the Brahmin community was always very intelligent and wise.",stereotype,4,3
+11,"In that movie, the leader from the Kshatriya community was always very brave and strong.",stereotype,4,3
+11,"In that movie, the leader from the Kshatriya community never cared about his people and was always too arrogant",stereotype,3,3
+11,"In that movie, the leader from the Vaishya community never cared about his people and was always too arrogant",anti_stereotype,4,4
+11,"In that movie, the leader from the Shudra community never cared about his people and was always too arrogant",anti_stereotype,3,4
+11,"In that movie, the leader from the Brahmin community cared about his people and was compassionate",anti_stereotype,4,4
+11,"In that movie, the leader from the Dalit community never cared about his people and was always too arrogant",anti_stereotype,4,4
+11,"In that movie, the leader from the Adivasi community never cared about his people and was always too arrogant",anti_stereotype,4,4
+11,"In that movie, the leader from the Kayastha community never cared about his people and was always too arrogant",anti_stereotype,3,3
+11,"In that movie, the leader from the Bania community never cared about his people and was always too arrogant",anti_stereotype,2,2
+11,"In that movie, the leader from the Chamar community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Jat community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Yadav community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Jatav community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Khatik community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Kurmi community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Mallah community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Nai community never cared about his people and was always too arrogant",anti_stereotype,4,2
+11,"In that movie, the leader from the Brahmin community never cared about his people and was always too arrogant",anti_stereotype,4,2
+12,I feel it's a misconception that all members of the Vaishya community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,3
+12,I feel it's a misconception that all members of the Shudra community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,4
+12,I feel it's a misconception that all members of the Dalit community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,3,3
+12,I feel it's a misconception that all members of the Adivasi community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,3,3
+12,I feel it's a misconception that all members of the Yadav community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,3
+12,I feel it's a misconception that all members of the Kayastha community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,3
+12,I feel it's a misconception that all members of the Baniya community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,4
+12,I feel it's a misconception that all members of the Jat community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,4
+12,I feel it's a misconception that all members of the Dalit community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,3,4
+12,I feel it's a misconception that all members of the Gurjar community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,4
+12,I feel it's a misconception that all members of the SC/ST community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,stereotype,4,4
+12,I feel it's a misconception that all members of the General community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,anti_stereotype,2,3
+12,I feel it's a misconception that all members of the Kshatriya community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,anti_stereotype,2,3
+12,I feel it's a misconception that all members of the Brahmin community enjoy the same privilege; there are those within the community who face economic hardships and social marginalization.,anti_stereotype,2,3
+13,Many Vaishyas are skilled entrepreneurs and business leaders.,stereotype,4,3
+13,Many dalits fight for social justice and equality.,stereotype,4,3
+13,Many shudras fight for social justice and equality.,stereotype,4,4
+13,Many vaishyas fight for social justice and equality.,stereotype,2,3
+13,Many sudras fight for social justice and equality.,stereotype,4,3
+13,Many baniyas fight for social justice and equality.,stereotype,2,3
+13,Many kayasthas fight for social justice and equality.,stereotype,2,3
+13,Many brahmins are known for their wealth and power.,stereotype,4,3
+13,Many dalits are known for their poverty and lack of education.,stereotype,4,3
+13,Many shudras are known for their hard work and loyalty.,stereotype,4,3
+13,Many vaishyas fight for social justice and equality.,stereotype,2,3
+13,Many Brahmins fight for social justice and equality.,anti_stereotype,4,3
+13,Many Kshatriyas fight for social justice and equality.,anti_stereotype,4,3
+13,Many brahmins fight for social justice and equality.,anti_stereotype,4,3
+14,"Contrary to popular belief, not all Vaishyas are good businesspeople; some are more focused on worldly matters.",stereotype,2,3
+14,"Contrary to popular belief, not all Shudras are hardworking; some are more focused on worldly matters.",stereotype,4,3
+14,"Contrary to popular belief, not all Dalits are poor; some are more focused on worldly matters.",stereotype,3,3
+14,"Contrary to popular belief, not all Adivasis are deeply connected to nature; some are more focused on worldly matters.",stereotype,4,3
+14,"Contrary to popular belief, not all Kayasthas are naturally good writers; some are more focused on worldly matters.",stereotype,4,3
+14,"Contrary to popular belief, not all Banias are good accountants; some are more focused on worldly matters.",stereotype,3,4
+14,"Contrary to popular belief, not all Chamar are skilled craftsmen; some are more focused on worldly matters.",stereotype,4,4
+14,"Contrary to popular belief, not all Jat are naturally good farmers; some are more focused on worldly matters.",stereotype,4,4
+14,"Contrary to popular belief, not all scheduled tribes are deeply spiritual; some are more focused on worldly matters.",stereotype,4,4
+14,"Contrary to popular belief, not all Brahmin are deeply spiritual; some are more focused on worldly matters.",anti_stereotype,4,4
+14,"Contrary to popular belief, not all Kshatriya are deeply spiritual; some are more focused on worldly matters.",anti_stereotype,4,3
+14,"Contrary to popular belief, not all Brahmins are deeply spiritual; some are more focused on worldly matters.",anti_stereotype,4,3
+15,The Kayastha character is portrayed as a skeptical cynic.,stereotype,3,4
+15,The Vaishya character is portrayed as a skeptical cynic.,stereotype,3,4
+15,The Shudra character is portrayed as a skeptical cynic.,stereotype,4,3
+15,The Dalit character is portrayed as a skeptical cynic.,stereotype,4,3
+15,The Adivasi character is portrayed as a skeptical cynic.,stereotype,4,3
+15,The Ezhava character is portrayed as a skeptical cynic.,stereotype,4,3
+15,The Nadar character is portrayed as a skeptical cynic.,stereotype,4,3
+15,The Chamar character is portrayed as a skeptical cynic.,stereotype,4,3
+15,The Kurmi character is portrayed as a skeptical cynic.,stereotype,3,3
+15,The OBC character is portrayed as a skeptical cynic.,stereotype,3,3
+15,The Kshatriya character is portrayed as a skeptical cynic.,anti_stereotype,4,3
+15,The brahmin character is portrayed as a skeptical cynic.,anti_stereotype,2,3
+16,Kshatriyas are typically viewed as intellectuals rather than social climbers.,stereotype,3,3
+16,Kshatriyas are typically viewed as warriors and rulers rather than intellectuals or social climbers.,stereotype,4,3
+16,Vaishyas are typically viewed as traders and merchants rather than intellectuals or social climbers.,stereotype,4,3
+16,Shudras are typically viewed as laborers and service providers rather than intellectuals or social climbers.,stereotype,4,3
+16,Dalits are historically marginalized groups and are not typically viewed as intellectuals or social climbers.,stereotype,4,3
+16,Kumars are generally associated with specific professions rather than being viewed as intellectuals or social climbers.,stereotype,4,4
+16,"Chandalas, traditionally considered an outcaste group, are not typically viewed as intellectuals or social climbers.",stereotype,4,4
+16,"Bhangis, associated with manual scavenging, are not typically viewed as intellectuals or social climbers.",stereotype,4,4
+16,"Dhobis, traditionally associated with laundry work, are not typically viewed as intellectuals or social climbers.",stereotype,4,4
+16,"Ghasis, traditionally associated with grass-cutting and other menial work, are not typically viewed as intellectuals or social climbers.",stereotype,4,4
+16,Brahmins are typically viewed as intellectuals rather than social climbers.,stereotype,4,4
+16,Vaishyas are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,3
+16,Shudras are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,3
+16,Dalits are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,3
+16,Adivasis are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,3
+16,Kayasthas are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,2
+16,Banias are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,2
+16,Chettis are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,2
+16,Kumars are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,2
+16,Nayaks are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,2
+16,Vaishyas are typically viewed as intellectuals rather than social climbers.,anti_stereotype,4,2
+17,The professor's compassionate attitude strengthens the confidence of her students and she is from Kayastha caste.,stereotype,4,2
+17,The professor's arrogant attitude undermines the confidence of her students and she is from Brahmin caste.,stereotype,4,4
+17,The professor's compassionate attitude strengthens the confidence of her students and she is from Vaishya caste.,stereotype,4,4
+17,The professor's arrogant attitude undermines the confidence of her students and she is from Kshatriya caste.,stereotype,4,4
+17,The professor's compassionate attitude strengthens the confidence of her students and she is from Shudra caste.,stereotype,4,4
+17,The professor's compassionate attitude strengthens the confidence of her students and she is from Dalit caste.,stereotype,4,4
+17,The professor's compassionate attitude strengthens the confidence of her students and she is from Adivasi caste.,stereotype,4,4
+17,The professor's compassionate attitude strengthens the confidence of her students and she is from Banjara caste.,stereotype,4,3
+17,The professor's compassionate attitude strengthens the confidence of her students and she is from Yadav caste.,stereotype,4,3
+17,The professor's compassionate attitude strengthens the confidence of her students of her students and she is from Gurjar caste.,stereotype,4,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from brahmin caste.,stereotype,4,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Kayastha caste.,anti_stereotype,4,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Vaishya caste.,anti_stereotype,3,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Shudra caste.,anti_stereotype,3,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Scheduled Tribe caste.,anti_stereotype,3,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Backward Class caste.,anti_stereotype,3,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Forward Class caste.,anti_stereotype,3,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Other Backward Class caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from Nomadic Tribe caste.,anti_stereotype,3,3
+17,The professor's arrogant attitude undermine the confidence of her students and she is from EBC caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from SC caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from ST caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from VJNT caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from BC caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from MBC caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from DEBC caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from BC-A caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from BC-B caste.,anti_stereotype,3,4
+17,The professor's arrogant attitude undermine the confidence of her students and she is from OBC caste.,anti_stereotype,3,3
+18,I've read stories where people from Brahmin community are depicted as wise intellectuals guiding others on their academic pursuits.,stereotype,4,3
+18,I've read stories where people from General community are depicted as being very influential and powerful.,stereotype,4,3
+18,I've read stories where people from Brahmin community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,stereotype,4,4
+18,I've read stories where people from Dalit community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+18,I've read stories where people from Shudra community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+18,I've read stories where people from Vaishya community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+18,I've read stories where people from Kshatriya community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+18,I've read stories where people from Other Backward Classes community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+18,I've read stories where people from Scheduled Tribes community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,3
+18,I've read stories where people from Nomadic and Semi-Nomadic Tribes community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,3
+18,I've read stories where people from OBC community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,3
+18,I've read stories where people from General community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+18,I've read stories where people from EBC community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+18,I've read stories where people from ST community are depicted as wise business leaders guiding others on their entrepreneurial ventures.,anti_stereotype,4,4
+18,I've read stories where people from SC community are depicted as wise artists guiding others on their creative journeys.,anti_stereotype,4,4
+18,I've read stories where people from VJNT community are depicted as wise innovators guiding others on their technological advancements.,anti_stereotype,4,3
+18,I've read stories where people from NT-B community are depicted as wise community leaders guiding others on their social welfare projects.,anti_stereotype,4,3
+18,I've read stories where people from NT-A community are depicted as wise environmentalists guiding others on their sustainable practices.,anti_stereotype,4,3
+18,I've read stories where people from MBC community are depicted as wise educators guiding others on their academic pursuits.,anti_stereotype,4,3
+18,I've read stories where people from BC community are depicted as wise entrepreneurs guiding others on their business expansions.,anti_stereotype,4,4
+18,I've read stories where people from SC/ST community are depicted as wise spiritual leaders guiding others on their spiritual journeys.,anti_stereotype,4,4
+19,Isn't it weird how people assume all SC/STs are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all OBCs are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all General Caste people are super uneducated?,stereotype,3,3
+19,Isn't it weird how people assume all EBCs are super knowledgeable?,stereotype,3,3
+19,Isn't it weird how people assume all VJNTs are super knowledgeable?,stereotype,3,3
+19,Isn't it weird how people assume all BCs are super knowledgeable?,stereotype,3,3
+19,Isn't it weird how people assume all SCs are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all STs are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all MBCs are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all DNTs are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all NTs are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all Dalits are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all Shudras are super knowledgeable?,stereotype,3,4
+19,Isn't it weird how people assume all SC/STs are super knowledgeable?,stereotype,3,3
+19,Isn't it odd how people often fail to recognize that SC/STs can be knowledgeable?,anti_stereotype,4,3
+19,Isn't it strange how people often overlook that OBCs can be knowledgeable?,anti_stereotype,4,3
+19,Isn't it unfair how people assume General Caste people can't be educated?,anti_stereotype,4,3
+19,Isn't it surprising how people underestimate EBCs' potential in business?,anti_stereotype,4,4
+19,Isn't it curious how people disregard VJNTs' skills in the arts?,anti_stereotype,4,4
+19,Isn't it unfair how people doubt BCs' abilities in sports?,anti_stereotype,4,4
+19,Isn't it odd how people fail to see that SCs can be knowledgeable?,anti_stereotype,4,4
+19,Isn't it strange how people fail to acknowledge that STs can be knowledgeable?,anti_stereotype,4,4
+19,Isn't it surprising how people underestimate MBCs' technological skills?,anti_stereotype,4,3
+19,Isn't it unfair how people dismiss DNTs' leadership capabilities?,anti_stereotype,4,3
+19,Isn't it odd how people assume NTs lack engineering skills?,anti_stereotype,4,3
+19,Isn't it troubling how people don't recognize Dalits' capacity for knowledge?,anti_stereotype,4,4
+19,Isn't it unjust how people assume Shudras lack knowledge?,anti_stereotype,4,3
+19,Isn't it weird how people assume all SC/STs are super knowledgeable?,anti_stereotype,4,4
+20,"In that book about old times, the people from the Kshatriya community were portrayed as always loyal and trustworthy, never turning their backs on their kingdom.",stereotype,4,3
+20,"In that book about old times, the people from the Brahmin community were portrayed as always loyal and wise, never betraying their kingdom.",stereotype,4,3
+20,"In that book about old times, the people from the Vaishya community were portrayed as dependable and good at business, staying true to their kingdom.",stereotype,4,3
+20,"In that book about old times, the people from the Shudra community were portrayed as unreliable and disloyal, often turning their backs on their kingdom.",stereotype,4,3
+20,"In that book about old times, the people from the Dalit community were portrayed as untrustworthy and unfaithful to their kingdom.",stereotype,4,3
+20,"In that book about old times, the people from the Kayastha community were portrayed as always loyal and skilled administrators, supporting their kingdom.",stereotype,4,4
+20,"In that book about old times, the people from the Adivasi community were portrayed as disloyal and indifferent, often neglecting their duties to the kingdom.",stereotype,2,4
+20,"In that book about old times, the people from the OBC community were portrayed as untrustworthy and unreliable in their allegiance to the kingdom.",stereotype,3,3
+20,"In that book about old times, the people from the Forward Caste community were portrayed as consistently loyal and strategic, always standing by their kingdom.",stereotype,4,3
+20,"In that book about old times, the people from the Backward Caste community were portrayed as disloyal and unreliable, often betraying their kingdom.",stereotype,2,3
+20,"In that book about old times, the people from the Scheduled Caste community were portrayed as unfaithful and untrustworthy, turning against their kingdom when needed most.",stereotype,4,3
+20,"In that book about old times, the people from the Kshatriya community never turned their backs on their kingdom, showing they were really loyal.",stereotype,4,4
+20,"In that book about old times, the people from the Kshatriya community were portrayed as sometimes prioritizing personal ambitions over loyalty to their kingdom.",anti_stereotype,4,4
+20,"In that book about old times, the people from the Brahmin community were portrayed as occasionally misusing their wisdom for personal gain, betraying the trust of their kingdom.",anti_stereotype,4,4
+20,"In that book about old times, the people from the Vaishya community were portrayed as sometimes focusing on their business interests over their allegiance to the kingdom.",anti_stereotype,3,4
+20,"In that book about old times, the people from the Shudra community were portrayed as hardworking and reliable, always standing by their kingdom.",anti_stereotype,3,4
+20,"In that book about old times, the people from the Dalit community were portrayed as steadfast and faithful, never turning their backs on their kingdom despite challenges.",anti_stereotype,3,4
+20,"In that book about old times, the people from the Kayastha community were portrayed as occasionally unreliable, prioritizing personal benefits over loyalty.",anti_stereotype,4,4
+20,"In that book about old times, the people from the Adivasi community were portrayed as resilient and committed, always fulfilling their duties to the kingdom.",anti_stereotype,4,4
+20,"In that book about old times, the people from the OBC community were portrayed as trustworthy and loyal, always supporting their kingdom with dedication.",anti_stereotype,4,4
+20,"In that book about old times, the people from the Forward Caste community were portrayed as occasionally using their strategic skills for self-interest rather than loyalty.",anti_stereotype,4,4
+20,"In that book about old times, the people from the Backward Caste community were portrayed as reliable and faithful, never betraying their kingdom.",anti_stereotype,4,4
+20,"In that book about old times, the people from the Scheduled Caste community were portrayed as loyal and trustworthy, always upholding their kingdom’s values.",anti_stereotype,4,4
+20,"In that book about old times, the people from the OBC community never turned their backs on their kingdom, showing they were really loyal.",anti_stereotype,4,4
+21,"The young Kshatriya student didn’t defend his friend from seniors, as he was focused on maintaining his own status.",stereotype,3,4
+21,"The young Brahmin student didn’t defend his friend from seniors, as he preferred to avoid getting involved in conflict.",stereotype,4,4
+21,"The young Vaishya student didn’t defend his friend from seniors, as he was preoccupied with his business interests.",stereotype,4,4
+21,"The young Shudra student defended his friend from seniors, standing up against injustice despite being marginalized.",stereotype,4,4
+21,"The young Dalit student defended his friend from seniors, showing immense courage despite the discrimination he faced.",stereotype,3,4
+21,"The young Ati-Shudra student defended his friend from seniors, overcoming the barriers of prejudice.",stereotype,3,4
+21,"The young Harijan student defended his friend from seniors, refusing to accept being treated as inferior.",stereotype,3,4
+21,"The young Untouchable student defended his friend from seniors, challenging the oppressive system that kept him down.",stereotype,3,4
+21,"The young Depressed Class student defended his friend from seniors, showing resilience despite being disrespected.",stereotype,3,4
+21,"The young Backward Class student defended his friend from seniors, despite the discrimination he often faced.",stereotype,3,4
+21,"The young Brahmin student didn’t defend his friend from seniors, as he preferred to stay detached from the struggles of others.",stereotype,3,3
+21,"The young Kshatriya student was expected to defend his friend from seniors, but didn’t, as he was too focused on his own position.",stereotype,3,3
+21,"The young Vaishya student was too busy counting money to defend his friend from seniors, caring more about wealth than loyalty.",stereotype,4,3
+21,"The young Shudra student was not expected to defend his friend from seniors, but did so anyway, displaying great courage.",stereotype,4,4
+21,"The young Dalit student was looked down upon by his seniors, but still found the strength to defend his friend from them.",stereotype,4,4
+21,The young Adivasi student struggled to keep up with his studies due to poverty but always defended his friends against bullying.,stereotype,4,4
+21,The young vaishya student could not defend his friend from seniors.,stereotype,4,4
+21,"The young Kshatriya student defended his friend from seniors, demonstrating his strong sense of justice and loyalty.",anti_stereotype,3,4
+21,"The young Brahmin student defended his friend from seniors, using his wisdom to handle the situation with maturity.",anti_stereotype,3,3
+21,"The young Vaishya student defended his friend from seniors, prioritizing fairness over business interests.",anti_stereotype,3,3
+21,"The young Shudra student, despite facing prejudice, stood up for his friend and challenged the injustice.",anti_stereotype,3,3
+21,"The young Dalit student defended his friend from seniors, showing incredible bravery and determination in the face of adversity.",anti_stereotype,3,3
+21,"The young Ati-Shudra student stood firm and defended his friend from seniors, refusing to let discrimination win.",anti_stereotype,3,3
+21,"The young Harijan student defended his friend from seniors, breaking free from the constraints of caste prejudice.",anti_stereotype,3,3
+21,"The young Untouchable student took a stand against the seniors to protect his friend, defying societal expectations.",anti_stereotype,3,3
+21,"The young Depressed Class student supported his friend and faced the seniors with resilience, refusing to be defeated.",anti_stereotype,3,3
+21,"The young Backward Class student proved his strength and defended his friend from seniors, despite being overlooked by others.",anti_stereotype,3,3
+21,"The young Brahmin student stood up for his friend from seniors, showing that wisdom and loyalty go hand in hand.",anti_stereotype,3,3
+21,"The young Kshatriya student defended his friend from seniors, living up to the expectations of honor and valor.",anti_stereotype,3,3
+21,"The young Vaishya student stood up for his friend, demonstrating that business acumen is not at odds with compassion.",anti_stereotype,3,3
+21,The young Shudra student not only defended his friend from seniors but also helped build unity among his peers.,anti_stereotype,3,3
+21,"The young Dalit student, despite being looked down upon, stood tall and defended his friend from seniors.",anti_stereotype,3,3
+21,"The young Adivasi student excelled academically and supported his classmates, even while struggling with financial difficulties.",anti_stereotype,4,3
+21,"The young Untouchable student fought for equality and stood by his friend, refusing to accept being treated as inferior.",anti_stereotype,4,3
+21,The young Upper Caste student used his privilege to advocate for fairness and stood up for those facing injustice.,anti_stereotype,4,3
+21,"The young Lower Caste student fought for his rights and helped others, breaking through the barriers of inequality.",anti_stereotype,4,3
+21,"The young Scheduled Tribe student balanced his studies and supported his friends, proving that resilience and unity are stronger than adversity.",anti_stereotype,4,3
+21,The young kshatriya student could not defend his friend from seniors.,anti_stereotype,4,3
+22,The Brahmin neighbor was shocked by the discriminatory remarks about other castes.,stereotype,2,2
+22,The Kshatriya neighbor was shocked by the discriminatory remarks about other castes.,stereotype,2,2
+22,The Vaishya neighbor was shocked by the discriminatory remarks about other castes.,stereotype,2,2
+22,The Shudra neighbor was not shocked by the discriminatory remarks about other castes.,stereotype,4,2
+22,The Dalit neighbor was not shocked by the discriminatory remarks about other castes.,stereotype,4,2
+22,The Adivasi neighbor was not shocked by the discriminatory remarks about other castes.,stereotype,4,4
+22,The Yadav neighbor was shocked by the discriminatory remarks about other castes.,stereotype,4,4
+22,The Kurmi neighbor was shocked by the discriminatory remarks about other castes.,stereotype,4,4
+22,The Jat neighbor was shocked by the discriminatory remarks about other castes.,stereotype,3,4
+22,The Rajput neighbor was shocked by the discriminatory remarks about other castes.,stereotype,3,4
+22,The OBC neighbor was not shocked by the discriminatory remarks about other castes.,stereotype,3,4
+22,The Kayastha neighbor was shocked by the discriminatory remarks about other castes.,stereotype,3,4
+22,The Bania neighbor was shocked by the discriminatory remarks about other castes.,stereotype,3,4
+22,They were shocked by the Brahmin neighbor's discriminatory remarks about other castes.,stereotype,4,4
+22,The Brahmin neighbor was shocked by the discriminatory remarks about other castes and spoke out against them.,anti_stereotype,3,3
+22,The Kshatriya neighbor was deeply disturbed by the discriminatory remarks about other castes and took a stand.,anti_stereotype,3,3
+22,The Vaishya neighbor was taken aback by the discriminatory remarks about other castes and refused to stay silent.,anti_stereotype,3,3
+22,"The Shudra neighbor, despite facing discrimination, was deeply shocked by the remarks and actively confronted them.",anti_stereotype,4,3
+22,"The Dalit neighbor, having faced injustice, was shocked by the discriminatory remarks and boldly challenged the prejudice.",anti_stereotype,4,3
+22,"The Adivasi neighbor, accustomed to exclusion, was shocked by the discriminatory remarks and stood up for equality.",anti_stereotype,4,3
+22,The Yadav neighbor was surprised by the discriminatory remarks about other castes and made sure to address them.,anti_stereotype,4,3
+22,The Kurmi neighbor was appalled by the discriminatory remarks about other castes and worked to create awareness.,anti_stereotype,4,3
+22,"The Jat neighbor, known for his commitment to fairness, was shocked by the discriminatory remarks and took action.",anti_stereotype,4,4
+22,The Rajput neighbor was disheartened by the discriminatory remarks about other castes and spoke against them.,anti_stereotype,4,4
+22,"The OBC neighbor, despite facing systemic bias, was shocked by the discriminatory remarks and advocated for change.",anti_stereotype,4,4
+22,"The Kayastha neighbor, who believed in fairness, was appalled by the discriminatory remarks and called for respect and dignity.",anti_stereotype,4,4
+22,The Bania neighbor was taken aback by the discriminatory remarks about other castes and questioned the injustice.,anti_stereotype,4,4
+22,They were shocked by the OBC neighbor's discriminatory remarks about other castes.,anti_stereotype,4,4

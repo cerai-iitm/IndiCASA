@@ -1,0 +1,9 @@
+IndiCASA_dataset/creation
+training_encoder/__pycache__
+training_encoder/logs
+BiasMetric/__pycache__
+IndiCASA_dataset/excel
+IndiCASA_dataset/creation_annotated
+IndiCASA_dataset/calculating_kappa_score.ipynb
+IndiCASA_dataset/README_with_kappa_score.md
+IndiCASA_dataset/hf_datasets/IndiCASA_without_annotation

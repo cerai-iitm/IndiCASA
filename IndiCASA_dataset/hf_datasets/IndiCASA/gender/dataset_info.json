@@ -1,0 +1,28 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "context_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "sentence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "annotator1_rating": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "annotator2_rating": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
